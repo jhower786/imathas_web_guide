@@ -1,7 +1,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta content="Ondrej Zjevik, Florida International University" name="author" />
 
-<script src="/~ozjevik/data/core-scripts.js" type="text/javascript" defer></script>
+<script src="http://faculty.fiu.edu/~ozjevik/data/core-scripts.js" type="text/javascript" defer></script>
 
 <head>
     <link href="https://fonts.googleapis.com/css?family=Bitter:400,400i,700%7CRoboto:300,400,500,700" rel="stylesheet">
@@ -9,7 +9,7 @@
     <script src="https://digicdn.fiu.edu/v1/_assets/js/foundation.min.js" type="text/javascript"></script>
     <link href="https://digicdn.fiu.edu/v1/_assets/stylesheets/css/foundation.min.css" rel="stylesheet">
     <link href="https://digicdn.fiu.edu/v1/_assets/stylesheets/css/font-awesome.min.css" rel="stylesheet">
-    <link href="/~ozjevik/data/styles.css" rel="stylesheet">
+    <link href="http://faculty.fiu.edu/~ozjevik/data/styles.css" rel="stylesheet">
     <link href="https://www.fiu.edu/_assets/images/favicon.ico" rel="icon" type="image/png" />
 
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-66560554-2"></script>
@@ -83,7 +83,7 @@
                 <ul class="navigation-links">
                     <li class="current"><a href="/~ozjevik/"><span>Home</span></a></li>
                     <li class="has-dropdown not-click"><a href=""><span>Currently Teaching</span></a>
-                        
+
                     </li>
 
                     <li class="has-dropdown not-click"><a href=""><span>Past Courses</span></a>
@@ -143,6 +143,18 @@
     <article id="main-content" class="row">
 <!-- ENTER THE CODE BELOW -->
 
+<article>
+<h2>Section title</h2>
+<ul class="accordion" data-accordion="">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Sub-section title</a>
+        <div class="content" id="panel-1-1">
+           Text using <b>HTML</b> marking. This is how to enter pictures:
+           <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+            
+        </div>
+    </li>
+</ul>
+</article>
 
 
 <!-- ENTER THE CODE ABOVE-->
@@ -157,5 +169,3 @@
 
     </script>
     </body>
-
-    </html>
