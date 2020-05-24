@@ -147,7 +147,7 @@
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Setting up an iMathAS Instructor Account</a>
         <div class="content" id="panel-1-1">
-           Text using <b>HTML</b> marking. This is how to enter pictures:
+           Text using <b>HTML</b> marking. If you already have an instructor account, do not setup another one, simply log in here: https://imathas.fiu.edu/
            <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
         </div>
     </li>
