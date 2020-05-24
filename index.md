@@ -149,7 +149,7 @@
 <div class="panel">
   <p>Lorem ipsum...</p>
 </div>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Sub-section title</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Set up iMathAS Account</a>
 <p>Lorem ipsum...</p>
         <div class="content" id="panel-1-1">
            Text using <b>HTML</b> marking. This is how to enter pictures:
