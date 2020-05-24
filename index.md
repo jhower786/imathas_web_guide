@@ -150,6 +150,7 @@
   <p>Lorem ipsum...</p>
 </div>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Sub-section title</a>
+<p>Lorem ipsum...</p>
         <div class="content" id="panel-1-1">
            Text using <b>HTML</b> marking. This is how to enter pictures:
            <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
