@@ -145,6 +145,10 @@
 <article>
 <h2>How to use (for faculty)</h2>
 <ul class="accordion" data-accordion="">
+  <button class="accordion">Section 1</button>
+<div class="panel">
+  <p>Lorem ipsum...</p>
+</div>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Sub-section title</a>
         <div class="content" id="panel-1-1">
            Text using <b>HTML</b> marking. This is how to enter pictures:
