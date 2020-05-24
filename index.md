@@ -153,7 +153,6 @@
            <li>If you forgot your username, then look it up here: <a href="https://imathas.fiu.edu/forms.php?action=lookupusername">Username Lookup</a> <br> </li>
            <li>To establish your instructor account for the first time, make a request here: <a href="https://imathas.fiu.edu/newinstructor.php">Instructor Account Request</a> It takes upto 24 hours for your request to be approved; you will recieve a confirmation email at the time its approved.<br> </li>
           </ul>
-           <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Setting up your live poll course</a>
