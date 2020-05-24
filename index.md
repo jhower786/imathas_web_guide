@@ -145,7 +145,7 @@
 <article>
 <h2>How to use (for instructors)</h2>
 <ul class="accordion" data-accordion="">
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Setting up an iMathAS Account</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Setting up an iMathAS Instructor Account</a>
         <div class="content" id="panel-1-1">
            Text using <b>HTML</b> marking. This is how to enter pictures:
            <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
