@@ -151,7 +151,7 @@
            <li>An iMathAS instructor account is required to use live poll.  The account is always free.  If you already have an instructor account, do not setup another one, simply log in here: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> <br> </li>
            <li>If you forgot your password or want to reset it, go here: <a href="https://imathas.fiu.edu/forms.php?action=resetpw">Password Reset</a> <br> </li>
            <li>If you forgot your username, then look it up here: <a href="https://imathas.fiu.edu/forms.php?action=lookupusername">Username Lookup</a> <br> </li>
-           <li>To establish your instructor account for the first time, make a request here: <a href="https://imathas.fiu.edu/newinstructor.php">Instructor Account Request</a> It takes upto 24 hours for your request to be approved; you will recieve a confirmation email at that time.<br> </li>
+           <li>To establish your instructor account for the first time, make a request here: <a href="https://imathas.fiu.edu/newinstructor.php">Instructor Account Request</a> It takes upto 24 hours for your request to be approved; you will recieve a confirmation email at the time its approved.<br> </li>
           </ul>
            <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
         </div>
@@ -164,7 +164,12 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Connecting your live poll course to Canvas</a>
         <div class="content" id="panel-3-1">
-           Text using <b>HTML</b> marking. This is how to enter pictures:
+          <ul>
+           <li>An iMathAS instructor account is required to use live poll.  The account is always free.  If you already have an instructor account, do not setup another one, simply log in here: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> <br> </li>
+           <li>If you forgot your password or want to reset it, go here: <a href="https://imathas.fiu.edu/forms.php?action=resetpw">Password Reset</a> <br> </li>
+           <li>If you forgot your username, then look it up here: <a href="https://imathas.fiu.edu/forms.php?action=lookupusername">Username Lookup</a> <br> </li>
+           <li>To establish your instructor account for the first time, make a request here: <a href="https://imathas.fiu.edu/newinstructor.php">Instructor Account Request</a> It takes upto 24 hours for your request to be approved; you will recieve a confirmation email at the time its approved.<br> </li>
+          </ul>
            <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
         </div>
     </li>
@@ -176,7 +181,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Running a live poll session during class</a>
         <div class="content" id="panel-5-1">
-           Text using <b>HTML</b> marking. This is how to enter pictures:
+           <embed src="Running a Live Poll Session how_to guide.pdf" width="800px" height="2100px" />
            <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
         </div>
     </li>
