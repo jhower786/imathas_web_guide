@@ -182,71 +182,71 @@
         <div class="content" id="panel-5-1">
 
 
-  1)	Log into Canvas </br>
+  1)	Log into Canvas <br>
 
-  2)	Click on "Modules" on the left-hand side. </br>
+  2)	Click on "Modules" on the left-hand side. <br>
 
-  3)	Open up "Help with Canvas & Student Resources" and click on "Live Poll". </br>
+  3)	Open up "Help with Canvas & Student Resources" and click on "Live Poll". <br>
 
 
 
-  This will take you directly to iMathAS. </br>
+  This will take you directly to iMathAS. <br>
 
-  4)	Your first time using the live poll during the course you will see the following screen: </br>
+  4)	Your first time using the live poll during the course you will see the following screen: <br>
 
   Choose your course from the dropdown menu and click "Link Course". You will not need to do this again during the semester. </br>
 
   If you find that your course is linked to the wrong course in iMathAS, click on ‘Change Course Link’.  This will allow you to choose the correct course. </br>
 
-  5)	Choose the assessment that you want and click "Make Placement". </br>
+  5)	Choose the assessment that you want and click "Make Placement". <br>
 
 
 
   6)	Announce to your students that they should now log into Canvas and access the Live Poll.  If they do so before you click "Make Placement", then they will need to click on the live poll link again in Canvas. </br>
 
-  7)	Assuming that the assessment is ready to go, click on "Preview Assessment". </br>
+  7)	Assuming that the assessment is ready to go, click on "Preview Assessment". <br>
 
 
 
-  This will take you directly to the question in iMathAS. </br>
+  This will take you directly to the question in iMathAS. <br>
 
-  8)	The assessments have three default settings: </br>
-  a.	Show question on this computer before it is available to students – this allows you to see the question and verify it for yourself before the students see it. </br>
-  b.	Show results on your computer after closing the assessment – this shows you the breakdown of student results after the assessment is finished. </br>
-  c.	Show answers automatically after closing the assessment – this shows the students whether or not their answer is correct as well as the correct answer on their screens.</br>
+  8)	The assessments have three default settings: <br>
+  a.	Show question on this computer before it is available to students – this allows you to see the question and verify it for yourself before the students see it. <br>
+  b.	Show results on your computer after closing the assessment – this shows you the breakdown of student results after the assessment is finished. <br>
+  c.	Show answers automatically after closing the assessment – this shows the students whether or not their answer is correct as well as the correct answer on their screens.<br>
 
-  9)	If you wish the question to have a time limit, you will need to check "Use per-question time limit" and set the time you wish. If selected, students will see the time running out on their screens during the assessment.  Note: the default is to not have a time limit for the question. </br>
-
-
-
-
-
-
-  10)	If you wish to see the student results as the students select their options while the assessment is still open, check "Show results on this computer as students submit answers". </br>
+  9)	If you wish the question to have a time limit, you will need to check "Use per-question time limit" and set the time you wish. If selected, students will see the time running out on their screens during the assessment.  Note: the default is to not have a time limit for the question. <br>
 
 
 
 
 
 
-  11)	Select the question that you want from the left-hand side under "Questions". This will open up the question for you. You can do the questions in any order you like. </br>
+  10)	If you wish to see the student results as the students select their options while the assessment is still open, check "Show results on this computer as students submit answers". <br>
 
 
 
-  12)	To start the assessment and have it shown to students, click on "Start Assessment".  This will send the assessment to all of the students’ screens. You will be able to see the time running on the upper right-hand side.  Note: if you have students that cannot see the question, have them refresh the page or click on the live poll link again in Canvas. </br>
 
 
 
-  13)	To close the quiz, click on "Stop Assessment". </br>
+  11)	Select the question that you want from the left-hand side under "Questions". This will open up the question for you. You can do the questions in any order you like. <br>
 
 
 
-  14)	To do another question from the assessment, click on the new question to load it and then repeat the "Start Assessment"—->"Stop Assessment" cycle, just as in the earlier question. </br>
+  12)	To start the assessment and have it shown to students, click on "Start Assessment".  This will send the assessment to all of the students’ screens. You will be able to see the time running on the upper right-hand side.  Note: if you have students that cannot see the question, have them refresh the page or click on the live poll link again in Canvas. <br>
 
 
-  15)	When finished asking all the questions you want to from this assessment, you have two options: </br>
-  •	If you are done using live poll for the class meeting, then simply navigate away within Canvas as you like. </br>
-  •	If, however, you have another live poll assessment to conduct, then click "Modules" followed by "Live Poll" and then on the next screen select the assessment you wish to conduct next, using the drop-down menu and then place it.  Repeat steps 7 through 14 above. </br>
+
+  13)	To close the quiz, click on "Stop Assessment". <br>
+
+
+
+  14)	To do another question from the assessment, click on the new question to load it and then repeat the "Start Assessment"—->"Stop Assessment" cycle, just as in the earlier question. <br>
+
+
+  15)	When finished asking all the questions you want to from this assessment, you have two options: <br>
+  •	If you are done using live poll for the class meeting, then simply navigate away within Canvas as you like. <br>
+  •	If, however, you have another live poll assessment to conduct, then click "Modules" followed by "Live Poll" and then on the next screen select the assessment you wish to conduct next, using the drop-down menu and then place it.  Repeat steps 7 through 14 above. <br>
 
 
 
