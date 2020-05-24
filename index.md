@@ -143,7 +143,7 @@
 <!-- ENTER THE CODE BELOW -->
 
 <article>
-<h2>How to use (for faculty)</h2>
+<h2>How to use (for instructors)</h2>
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Setting up an iMathAS Account</a>
         <div class="content" id="panel-1-1">
@@ -183,6 +183,51 @@
     </li>
 </ul>
 </article>
+
+
+<article>
+<h2>How to use (for students)</h2>
+<ul class="accordion" data-accordion="">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Setting up an iMathAS Account</a>
+        <div class="content" id="panel-1-1">
+           Text using <b>HTML</b> marking. This is how to enter pictures:
+           <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+        </div>
+    </li>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Setting up your live poll course</a>
+        <div class="content" id="panel-2-1">
+           Text using <b>HTML</b> marking. This is how to enter pictures:
+           <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+        </div>
+    </li>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Connecting your live poll course to Canvas</a>
+        <div class="content" id="panel-3-1">
+           Text using <b>HTML</b> marking. This is how to enter pictures:
+           <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+        </div>
+    </li>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Setting up a live poll session before class</a>
+        <div class="content" id="panel-4-1">
+           Text using <b>HTML</b> marking. This is how to enter pictures:
+           <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+        </div>
+    </li>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Running a live poll session during class</a>
+        <div class="content" id="panel-5-1">
+           Text using <b>HTML</b> marking. This is how to enter pictures:
+           <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+        </div>
+    </li>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">Adjusting a live poll session after class</a>
+      <div class="content" id="panel-6-1">
+         Text using <b>HTML</b> marking. This is how to enter pictures:
+         <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+      </div>
+    </li>
+</ul>
+</article>
+
+
 
 
 <!-- ENTER THE CODE ABOVE-->
