@@ -181,8 +181,6 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Running a live poll session during class</a>
         <div class="content" id="panel-5-1">
-           <embed src="Running a Live Poll Session how_to guide.pdf" width="800px" height="2100px" />
-           <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">Adjusting a live poll session after class</a>
