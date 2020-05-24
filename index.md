@@ -152,6 +152,13 @@
 
         </div>
     </li>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false"></a>
+        <div class="content" id="panel-1-1">
+           Text using <b>HTML</b> marking. This is how to enter pictures:
+           <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+
+        </div>
+    </li>
 </ul>
 </article>
 
