@@ -237,12 +237,12 @@
 
 
 
-  13)	To close the quiz, click on "Stop Assessment". <br>
+  13)	To close the quiz, click on "Stop Assessment".  <br>
 
 
 
   14)	To do another question from the assessment, click on the new question to load it and then repeat the "Start Assessment"—->"Stop Assessment" cycle, just as in the earlier question. <br>
-
+    <img max-width="50%" src="./img/Running Guide item 14.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
   15)	When finished asking all the questions you want to from this assessment, you have two options: <br>
   •	If you are done using live poll for the class meeting, then simply navigate away within Canvas as you like. <br>
