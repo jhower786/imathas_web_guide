@@ -143,7 +143,7 @@
 <!-- ENTER THE CODE BELOW -->
 
 <article>
-<h2>How to use (for instructors)</h2>
+<h2>How to use live poll (for instructors)</h2>
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Setting up an iMathAS Instructor Account</a>
         <div class="content" id="panel-1-1">
@@ -186,7 +186,7 @@
 
 
 <article>
-<h2>How to use (for students)</h2>
+<h2>How to use live poll (for students)</h2>
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Setting up an iMathAS Account</a>
         <div class="content" id="panel-1-1">
