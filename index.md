@@ -148,7 +148,7 @@
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Setting up an iMathAS Instructor Account</a>
         <div class="content" id="panel-1-1">
           <ul>
-           <li>An iMathAS instructor account is required to use live poll.  The account is always free.  If you already have an instructor account, do not setup another one, simply log in here: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> <br> </li>
+           <li>An iMathAS instructor account is required to use live poll.  The account is always free.  If you already have an instructor account, do not setup another one, just simply log in here, as usual: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> <br> </li>
            <li>If you forgot your password or want to reset it, go here: <a href="https://imathas.fiu.edu/forms.php?action=resetpw">Password Reset</a> <br> </li>
            <li>If you forgot your username, then look it up here: <a href="https://imathas.fiu.edu/forms.php?action=lookupusername">Username Lookup</a> <br> </li>
            <li>To establish your instructor account for the first time, make a request here: <a href="https://imathas.fiu.edu/newinstructor.php">Instructor Account Request</a> It takes upto 24 hours for your request to be approved; you will recieve a confirmation email at the time its approved.<br> </li>
@@ -194,15 +194,15 @@
 
   4)	Your first time using the live poll during the course you will see the following screen: <br>
 
-  Choose your course from the dropdown menu and click "Link Course". You will not need to do this again during the semester. </br>
+  Choose your course from the dropdown menu and click "Link Course". You will not need to do this again during the semester. <br>
 
-  If you find that your course is linked to the wrong course in iMathAS, click on ‘Change Course Link’.  This will allow you to choose the correct course. </br>
+  If you find that your course is linked to the wrong course in iMathAS, click on ‘Change Course Link’.  This will allow you to choose the correct course. <br>
 
   5)	Choose the assessment that you want and click "Make Placement". <br>
 
 
 
-  6)	Announce to your students that they should now log into Canvas and access the Live Poll.  If they do so before you click "Make Placement", then they will need to click on the live poll link again in Canvas. </br>
+  6)	Announce to your students that they should now log into Canvas and access the Live Poll.  If they do so before you click "Make Placement", then they will need to click on the live poll link again in Canvas. <br>
 
   7)	Assuming that the assessment is ready to go, click on "Preview Assessment". <br>
 
