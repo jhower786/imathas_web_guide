@@ -157,7 +157,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Setting up your Live Poll course</a>
         <div class="content" id="panel-2-1">
-          <ol type="I">
+          <ol>
            <li>After signing into iMathAS here: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> scroll down and click on "Add A New Course".   <br>
            <img max-width="50%" src="./img/Setting up course pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br> </li>
            <li>Create one separate iMathAS course for each section you teach.  Always keep them separate. <br> </li>
@@ -172,7 +172,7 @@
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Connecting your live poll course to Canvas</a>
         <div class="content" id="panel-3-1">
           You will need to install two different links in Canvas in order to get Live Poll up and running. <br>
-         <ol type="I">
+         <ol>
           Step 1: First you will need to set up the actual Live Poll. <br>
          <li>	Go to your course in Canvas and click on Modules on the left <br> </li>
          <li> Find the Module marked “Student Resources’ and click the arrow to expand it. <br> </li>
@@ -183,7 +183,7 @@
          <li> Click the three dots to the right of iMathAS and choose "edit" <br> </li>
          <li> Change the title to "Live Poll" and click "Update" <br> </li>
          <li> Click on the little "no solution" symbol to publish <br> </li>
-         <ol>
+         </ol>
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Setting up a live poll session before class</a>
