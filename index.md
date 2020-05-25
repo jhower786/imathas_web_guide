@@ -215,7 +215,7 @@
   c.	Show answers automatically after closing the assessment – this shows the students whether or not their answer is correct as well as the correct answer on their screens.<br>
 
   9)	If you wish the question to have a time limit, you will need to check "Use per-question time limit" and set the time you wish. If selected, students will see the time running out on their screens during the assessment.  Note: the default is to not have a time limit for the question. <br>
-  <img max-width="50%" src="./img/Running Guide item 9 pic Timer.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+  <img max-width="50%" src="./img/Running Guide Item 9 pic Timer.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
 
 
@@ -223,7 +223,7 @@
 
 
   10)	If you wish to see the student results as the students select their options while the assessment is still open, check "Show results on this computer as students submit answers". <br>
-  <img max-width="50%" src="./img/Running Guide item 10 pic Student Results.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+  <img max-width="50%" src="./img/Running Guide Item 10 pic Student Results.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
 
 
@@ -231,17 +231,17 @@
 
 
   11)	Select the question that you want from the left-hand side under "Questions". This will open up the question for you. You can do the questions in any order you like. <br>
-  <img max-width="50%" src="./img/Running Guide item 11 pic Question 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+  <img max-width="50%" src="./img/Running Guide Item 11 pic Question 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
 
 
   12)	To start the assessment and have it shown to students, click on "Start Assessment".  This will send the assessment to all of the students’ screens. You will be able to see the time running on the upper right-hand side.  Note: if you have students that cannot see the question, have them refresh the page or click on the live poll link again in Canvas. <br>
-  <img max-width="50%" src="./img/Running Guide item 14 Start Assessment pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+  <img max-width="50%" src="./img/Running Guide Item 12 Start Assessment pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
 
 
   13)	To close the quiz, click on "Stop Assessment".  <br>
-  <img max-width="50%" src="./img/Running Guide item 14 pic Stop Assessment.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+  <img max-width="50%" src="./img/Running Guide Item 13 pic Stop Assessment.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
 
 
