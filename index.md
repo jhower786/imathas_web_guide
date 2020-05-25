@@ -157,7 +157,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Setting up your Live Poll course</a>
         <div class="content" id="panel-2-1">
-          <ol>
+          <ol Type="1">
            <li>After signing into iMathAS here: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> scroll down and click on "Add A New Course".   <br>
            <img max-width="50%" src="./img/Setting up course pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br> </li>
            <li>Create one separate iMathAS course for each section you teach.  Always keep them separate. <br> </li>
@@ -172,10 +172,10 @@
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Connecting your live poll course to Canvas</a>
         <div class="content" id="panel-3-1">
           You will need to install two different links in Canvas in order to get Live Poll up and running. <br>
-         <ol>
+         <ol Type="1">
           Step 1: First you will need to set up the actual Live Poll. <br>
-         <li>	Go to your course in Canvas and click on Modules on the left <br> </li>
-         <li> Find the Module marked “Student Resources’ and click the arrow to expand it. <br> </li>
+         <li>	Go to your course in Canvas and click on "Modules" on the left <br> </li>
+         <li> Find the Module marked “Student Resources" and click the arrow to expand it. <br> </li>
          <li> Click on the + sign <br> </li>
          <li> From the dropdown menu select "Add External Tool" <br> </li>
          <li> Scroll down and choose "iMathAS" - click on "Add Item" <br> </li>
@@ -184,6 +184,32 @@
          <li> Change the title to "Live Poll" and click "Update" <br> </li>
          <li> Click on the little "no solution" symbol to publish <br> </li>
          </ol>
+         Step 2 (optional): Next, you will need to set up the link that will allow the grades to sync from iMathAS to Canvas.  Once this is set up, you will not need to touch it the rest of the semester.  Your students will need to click on this link once in order to activate their grade sync.
+
+         1)	Go to your course in Canvas and click on Assignments on the left
+
+         2)	Click on “+ Assignment“ 
+
+         a.	Set the Assignment Name as “Live Poll Sync”
+         b.	Set the Points to 100
+         c.	Set Submission Type to External Tool
+         d.	Click on Find, select “IMathAS” and click on Select
+         e.	Click on Save & Publish
+
+         3)	Once you have done this, you will see link asking you to log into iMathAS.  You will only need to do this once for the semester.
+
+         4)	Link your course on the next page.
+
+         5)	Link the assignment to “Live Poll Sync” Assessment
+
+         6)	Go to Modules on the left
+         7)	Click on the + sign to the right of ‘Live Poll’
+
+         8)	Select “Live Poll Sync” from the list and click on “Add Item”
+
+
+
+
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Setting up a live poll session before class</a>
