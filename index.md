@@ -166,10 +166,9 @@
            <li>With either option you will need to then create a unique course name.  Avoid verbatim use of a course name that already exists.  Leave the "Enrollment key" box empty.
            <img max-width="50%" src="./img/Setting up course Copy template pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
            Before hitting the "Submit" button, you have several feature types to expand and adjust at the bottom of the screen.  Be careful, as usually the default options are the ones wanted.  insert PNG
-
           </ol>
         </div>
-    </li>
+      </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Connecting your live poll course to Canvas</a>
         <div class="content" id="panel-3-1">
           <ul>
