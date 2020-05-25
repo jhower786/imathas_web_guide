@@ -163,7 +163,7 @@
            <li>Create one separate iMathAS course for each section you teach.  Always keep them separate. <br> </li>
            <li>Select “Copy from my, a colleague's, or template course” , then select “Template Courses” followed by selecting “Live Poll SHELL”. <br> </li>
            <i>Note: This method guarantees Live Poll Sync is set up and does not need to be modified. </i> <br>
-           <li>With either option you will need to then create a unique course name.  Avoid verbatim use of a course name that already exists.  Leave the "Enrollment key" box empty.
+           <li>With either option you will need to then create a unique course name.  Avoid verbatim use of a course name that already exists.  Leave the "Enrollment key" box empty, it will never be needed.
            <img max-width="50%" src="./img/Setting up course Copy template pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
            Before hitting the "Submit" button, you have several feature types to expand and adjust at the bottom of the screen.  Be careful, as usually the default options are the ones wanted.  insert PNG
           </ol>
@@ -171,13 +171,28 @@
       </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Connecting your live poll course to Canvas</a>
         <div class="content" id="panel-3-1">
-          <ul>
-           <li>An iMathAS instructor account is required to use live poll.  The account is always free.  If you already have an instructor account, do not setup another account, instead just log in here: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> <br> </li>
-           <li>If you forgot your password or want to reset it, go here: <a href="https://imathas.fiu.edu/forms.php?action=resetpw">Password Reset</a> <br> </li>
-           <li>If you forgot your username, then look it up here: <a href="https://imathas.fiu.edu/forms.php?action=lookupusername">Username Lookup</a> <br> </li>
-           <li>To establish your instructor account for the first time, make a request here: <a href="https://imathas.fiu.edu/newinstructor.php">Instructor Account Request</a> It takes up to 24 hours for your request to be approved; you will recieve a confirmation email at the time its approved.<br> </li>
-          </ul>
-           <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+          You will need to install 2 different links in Canvas in order to get Live Poll up and running.
+
+  Step 1: First you will need to set up the actual live poll.
+
+  1)	Go to your course in Canvas and click on Modules on the left
+
+  2)	 Find the Module marked “Student Resources’ and click the arrow to expand it.
+
+  3)	Click on the + sign
+
+  4)	From the dropdown menu select ‘Add External Tool’
+
+  5)	 Scroll down and choose ‘iMathAS’ - click on ‘Add Item’.
+
+  You should now see iMathAS in the module
+
+  6)	 Click the three dots to the right of iMathAS and choose ‘edit’.
+
+  7)	 Change the title to ‘Live Poll’ and click ‘Update’.
+
+  8)	 Click on the little ’no solution’ symbol to publish.
+
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Setting up a live poll session before class</a>
