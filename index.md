@@ -190,6 +190,7 @@
 
 
   This will take you directly to iMathAS. <br>
+  <img max-width="50%" src="./img/Running Guide Item 3 Live Poll Link pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
   4)	Your first time using the live poll during the course you will see the following screen: <br>
 
@@ -197,17 +198,17 @@
 
   If you find that your course is linked to the wrong course in iMathAS, click on ‘Change Course Link’.  This will allow you to choose the correct course. <br>
 
+<img max-width="50%" src="./img/Running Guide Item 4 Course Link pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
   5)	Choose the assessment that you want and click "Make Placement". <br>
 
-
+<img max-width="50%" src="./img/Running Guide Item 5 Session pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
   6)	Announce to your students that they should now log into Canvas and access the Live Poll.  If they do so before you click "Make Placement", then they will need to click on the live poll link again in Canvas. <br>
 
   7)	Assuming that the assessment is ready to go, click on "Preview Assessment". <br>
 
-
-
   This will take you directly to the question in iMathAS. <br>
+<img max-width="50%" src="./img/Running Guide Item 7 Preview Session pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
   8)	The assessments have three default settings: <br>
   a.	Show question on this computer before it is available to students – this allows you to see the question and verify it for yourself before the students see it. <br>
