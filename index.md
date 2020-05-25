@@ -169,7 +169,7 @@
           </ol>
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Connecting your live poll course to Canvas</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Connecting your Live Poll course to Canvas</a>
         <div class="content" id="panel-3-1">
           You will need to install two different links in Canvas in order to get Live Poll up and running. <br>
          <ol Type="1">
@@ -208,7 +208,7 @@
          </ol>
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Setting up a live poll session before class</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Setting up a Live Poll session before class</a>
         <div class="content" id="panel-4-1">
           Log into iMathAS and select your course.  The first time it will look like this, and you should create your first assessment by choosing "Copy" under the
           toogle gear for the "Example" assessment already there: <br>
