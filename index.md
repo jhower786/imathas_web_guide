@@ -162,7 +162,7 @@
            <img max-width="50%" src="./img/Setting up course pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
            <li>You will want to create one separate iMathAS course for each section you teach.  Always keep them separate. <br> </li>
            <li>You will want to select “Copy from my, a colleague's, or template course” , then select “Template Courses” followed by selecting “Live Poll SHELL”. <br> </li>
-           <i>Note: This method guarantees Live Poll Sync is set up and does not need to be modified. <i> <br>
+           <i>Note: This method guarantees Live Poll Sync is set up and does not need to be modified. </i> <br>
            <li>With either option you will need to then create a course name and enrollment ID.  Avoid verbatim use of a course name that already exists.
            <img max-width="50%" src="./img/Setting up course Copy template pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
