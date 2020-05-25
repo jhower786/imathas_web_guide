@@ -160,8 +160,8 @@
           <ul>
            <li>After signing into iMathAS here: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> scroll down and click on "Add A New Course".   <br> </li>
            <img max-width="50%" src="./img/Setting up course pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
-           <li>You will want to create one separate iMathAS course for each section you teach.  Always keep them separate.
-           <li>To establish your instructor account for the first time, make a request here: <a href="https://imathas.fiu.edu/newinstructor.php">Instructor Account Request</a> It takes up to 24 hours for your request to be approved; you will recieve a confirmation email at the time its approved.<br> </li>
+           <li>You will want to create one separate iMathAS course for each section you teach.  Always keep them separate. <br> </li>
+
           </ul>
         </div>
     </li>
