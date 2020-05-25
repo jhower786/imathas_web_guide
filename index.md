@@ -167,7 +167,7 @@
            <li>An iMathAS instructor account is required to use live poll.  The account is always free.  If you already have an instructor account, do not setup another account, instead just log in here: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> <br> </li>
            <li>If you forgot your password or want to reset it, go here: <a href="https://imathas.fiu.edu/forms.php?action=resetpw">Password Reset</a> <br> </li>
            <li>If you forgot your username, then look it up here: <a href="https://imathas.fiu.edu/forms.php?action=lookupusername">Username Lookup</a> <br> </li>
-           <li>To establish your instructor account for the first time, make a request here: <a href="https://imathas.fiu.edu/newinstructor.php">Instructor Account Request</a> It takes upto 24 hours for your request to be approved; you will recieve a confirmation email at the time its approved.<br> </li>
+           <li>To establish your instructor account for the first time, make a request here: <a href="https://imathas.fiu.edu/newinstructor.php">Instructor Account Request</a> It takes up to 24 hours for your request to be approved; you will recieve a confirmation email at the time its approved.<br> </li>
           </ul>
            <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
         </div>
