@@ -163,9 +163,9 @@
            <li>Create one separate iMathAS course for each section you teach.  Always keep them separate. <br> </li>
            <li>Select “Copy from my, a colleague's, or template course” , then select “Template Courses” followed by selecting “Live Poll SHELL”. <br>
            <i>Note: This method guarantees Live Poll Sync is set up and does not need to be modified. </i> <br> </li>
-           <li>With either option you will need to then create a unique course name.  Avoid verbatim use of a course name that already exists.  Leave the "Enrollment key" box empty, it will never be needed. <br>
+           <li>Make a unique course name, specific to your course.  Avoid verbatim use of a course name that already exists.  Leave the "Enrollment key" box empty, it will never be needed. <br>
            <img max-width="50%" src="./img/Setting up course Copy template pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br> </li>
-           <li>Before hitting the "Submit" button, you have several feature types to expand and adjust at the bottom of the screen.  Be careful, as usually the default options are the ones wanted.  insert PNG <br> </li>
+           <li>Before hitting the "Submit" button, you have several feature types to expand and adjust at the bottom of the screen.  Be careful, as usually the default options are the ones wanted. <br> </li>
           </ol>
         </div>
     </li>
@@ -182,10 +182,10 @@
          You should now see iMathAS in the module <br>
          <li> Click the three dots to the right of iMathAS and choose "edit" <br> </li>
          <li> Change the title to "Live Poll" and click "Update" <br> </li>
-         <li> Click on the little "no solution" symbol to publish <br> </li>
+         <li> Click on the little "no solution" symbol to publish <br>  <br> </li>
          </ol>
          <ol Type="1">
-         Step 2 (optional): Next, you will need to set up the link that will allow the grades to sync from iMathAS to Canvas.  Once this is set up, you will not need to touch it the rest of the semester.  Your students will need to click on this link once in order to activate their grade sync. <br>
+         Step 2: Next, you will need to set up the link that will allow the grades to sync from iMathAS to Canvas.  Once this is set up, you will not need to touch it the rest of the semester.  Your students will need to click on this link once in order to activate their grade sync. <br>
          <li>	Go to your course in Canvas and click on Assignments on the left <br> </li>
          <li>Click on “+ Assignment“ <br> </li>
 
@@ -210,25 +210,30 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Setting up a live poll session before class</a>
         <div class="content" id="panel-4-1">
-           Text using <b>HTML</b> marking. This is how to enter pictures:
-           <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+          Log into iMathAS and select your course.  The first time it will look like this, and you should create your first assessment by choosing "Copy" under the
+          toogle gear for the "Example" assessment already there: <br>
+          <img max-width="50%" src="./img/Assessment builder pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          This generates a new assessment called "Example (Copy)".  Under its toggle gear select "Settings", and then edit the name of this assessment
+          <img max-width="50%" src="./img/Assessment builder pic 2.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          Scroll down below where you will set many settings you can adjust.  The default settings are commonly requested ones.  However, something you may want to adjust now is the ratio of participation to correctness for student responses, by adjusting the slider here: <br>
+          <img max-width="50%" src="./img/Assessment builder pic 3.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Running a live poll session during class</a>
         <div class="content" id="panel-5-1">
 
 
-  1)	Log into Canvas <br>
+  1)	Log into your course in Canvas <br>
 
   2)	Click on "Modules" on the left-hand side. <br>
 
-  3)	Open up "Help with Canvas & Student Resources" and click on "Live Poll". <br>
+  3)	Open up "Student Resources" and click on "Live Poll". <br>
 
 
   This will take you directly to iMathAS. <br>
   <img max-width="50%" src="./img/Running Guide Item 3 Live Poll Link pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
-  4)	Your first time using the live poll during the course you will see the following screen: <br>
+  4)	Your first time using the Live Poll during the course you will see the following screen: <br>
 
   Choose your course from the dropdown menu and click "Link Course". You will not need to do this again during the semester. <br>
 
@@ -255,21 +260,12 @@
   <img max-width="50%" src="./img/Running Guide Item 9 pic Timer.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
 
-
-
-
-
   10)	If you wish to see the student results as the students select their options while the assessment is still open, check "Show results on this computer as students submit answers". <br>
   <img max-width="50%" src="./img/Running Guide Item 10 pic Student Results.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
 
-
-
-
-
   11)	Select the question that you want from the left-hand side under "Questions". This will open up the question for you. You can do the questions in any order you like. <br>
   <img max-width="50%" src="./img/Running Guide Item 11 pic Question 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
-
 
 
   12)	To start the assessment and have it shown to students, click on "Start Assessment".  This will send the assessment to all of the students’ screens. You will be able to see the time running on the upper right-hand side.  Note: if you have students that cannot see the question, have them refresh the page or click on the live poll link again in Canvas. <br>
