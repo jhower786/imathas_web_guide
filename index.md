@@ -157,7 +157,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Setting up your live poll course</a>
         <div class="content" id="panel-2-1">
-          <ol>
+          <ol type="1">
            <li>After signing into iMathAS here: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> scroll down and click on "Add A New Course".   <br> </li>
            <img max-width="50%" src="./img/Setting up course pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
            <li>Create one separate iMathAS course for each section you teach.  Always keep them separate. <br> </li>
