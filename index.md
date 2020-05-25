@@ -184,32 +184,28 @@
          <li> Change the title to "Live Poll" and click "Update" <br> </li>
          <li> Click on the little "no solution" symbol to publish <br> </li>
          </ol>
-         Step 2 (optional): Next, you will need to set up the link that will allow the grades to sync from iMathAS to Canvas.  Once this is set up, you will not need to touch it the rest of the semester.  Your students will need to click on this link once in order to activate their grade sync.
+         <ol Type="1">
+         Step 2 (optional): Next, you will need to set up the link that will allow the grades to sync from iMathAS to Canvas.  Once this is set up, you will not need to touch it the rest of the semester.  Your students will need to click on this link once in order to activate their grade sync. <br>
+         <li>	Go to your course in Canvas and click on Assignments on the left <br> </li>
+         <li>Click on “+ Assignment“ <br> </li>
 
-         1)	Go to your course in Canvas and click on Assignments on the left
+         a.	Set the Assignment Name as “Live Poll Sync” <br>
+         b.	Set the Points to 100 <br>
+         c.	Set Submission Type to "External Tool" <br>
+         d.	Click on Find, select “iMathAS” and click on Select <br>
+         e.	Click on "Save & Publish" <br>
 
-         2)	Click on “+ Assignment“ 
+         <li> Once you have done this, you will see link asking you to log into iMathAS.  You will only need to do this once for the semester. <br> </li>
 
-         a.	Set the Assignment Name as “Live Poll Sync”
-         b.	Set the Points to 100
-         c.	Set Submission Type to External Tool
-         d.	Click on Find, select “IMathAS” and click on Select
-         e.	Click on Save & Publish
+         <li> Link your course on the next page. <br> </li>
 
-         3)	Once you have done this, you will see link asking you to log into iMathAS.  You will only need to do this once for the semester.
+         <li>	Link the assignment to “Live Poll Sync” Assessment <br> </li>
 
-         4)	Link your course on the next page.
+         <li> Go to Modules on the left <br> </li>
+         <li> Click on the + sign to the right of "Live Poll" <br> </li>
 
-         5)	Link the assignment to “Live Poll Sync” Assessment
-
-         6)	Go to Modules on the left
-         7)	Click on the + sign to the right of ‘Live Poll’
-
-         8)	Select “Live Poll Sync” from the list and click on “Add Item”
-
-
-
-
+         <li> Select “Live Poll Sync” from the list and click on “Add Item” <br> </li>
+         </ol>
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Setting up a live poll session before class</a>
