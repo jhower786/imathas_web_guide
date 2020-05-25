@@ -157,18 +157,17 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Setting up your live poll course</a>
         <div class="content" id="panel-2-1">
-          <ul>
+          <ol>
            <li>After signing into iMathAS here: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> scroll down and click on "Add A New Course".   <br> </li>
            <img max-width="50%" src="./img/Setting up course pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
-           <li>You will want to create one separate iMathAS course for each section you teach.  Always keep them separate. <br> </li>
-           <li>You will want to select “Copy from my, a colleague's, or template course” , then select “Template Courses” followed by selecting “Live Poll SHELL”. <br> </li>
+           <li>Create one separate iMathAS course for each section you teach.  Always keep them separate. <br> </li>
+           <li>Select “Copy from my, a colleague's, or template course” , then select “Template Courses” followed by selecting “Live Poll SHELL”. <br> </li>
            <i>Note: This method guarantees Live Poll Sync is set up and does not need to be modified. </i> <br>
-           <li>With either option you will need to then create a course name and enrollment ID.  Avoid verbatim use of a course name that already exists.
+           <li>With either option you will need to then create a unique course name.  Avoid verbatim use of a course name that already exists.  Leave the "Enrollment key" box empty.
            <img max-width="50%" src="./img/Setting up course Copy template pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+           Before hitting the "Submit" button, you have several feature types to expand and adjust at the bottom of the screen.  Be careful, as usually the default options are the ones wanted.  insert PNG
 
-5) Before hitting the "Submit" button, you have several feature types to expand and adjust at the bottom of the screen.  Be careful, as usually the default options are the ones wanted.  insert PNG
-
-          </ul>
+          </ol>
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Connecting your live poll course to Canvas</a>
