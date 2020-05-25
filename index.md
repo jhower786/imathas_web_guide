@@ -217,6 +217,8 @@
           <img max-width="50%" src="./img/Assessment builder pic 2.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
           Scroll down below where you will set many settings you can adjust.  The default settings are commonly requested ones.  However, something you may want to adjust now is the ratio of participation to correctness for student responses, by adjusting the slider here: <br>
           <img max-width="50%" src="./img/Assessment builder pic 3.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          Once finished hit "Save Changes". <br> <br>
+          Now select the questions you want to use for your assessment. <br>
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Running a live poll session during class</a>
