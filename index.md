@@ -331,17 +331,17 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">I have a multi-question Live Poll assessment, and I only did some, but not all of the questions during class. Should I delete the unused ones?</a>
       <div class="content" id="panel-6-1">
-       It is easiest to leave them alone, unless you think it will reduce student confusion.  The unused questions have no effect on the grade generated for the assessment, so withdrawing them is not needed.
+       It is easiest to leave them alone, unless you think it will reduce student confusion.  The unused questions have no effect on the grade generated for the assessment, so withdrawing them is not needed. <br>
       </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">How can the answering of Live Poll questions be restricted to only students who are physically present in class?</a>
-      <div class="content" id="panel-6-1">
-      Adjust the settings at the assessment level to accomplish this.  Under the  "Settings" selection, first ensure you are in the "Simple View".
-      <img max-width="50%" src="./img/FAQ Geofencing pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
-      At the bottom you have four options under the drop-down box.
-      <img max-width="50%" src="./img/FAQ Geofencing pic 2.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
-      Only the "Custom Location" option will allow you to move the blue center marker and adjust the radius.  Here is what geofencing to PG6 looks like:
-      <img max-width="50%" src="./img/FAQ Geofencing pic 3.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-7-1" aria-expanded="false">How can the answering of Live Poll questions be restricted to only students who are physically present in class?</a>
+      <div class="content" id="panel-7-1">
+      Adjust the settings at the assessment level to accomplish this.  Under the  "Settings" selection, first ensure you are in the "Simple View" as shown here: <br>
+      <img max-width="50%" src="./img/FAQ Geofencing pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+      At the bottom you have four options under the drop-down box. <br>
+      <img max-width="50%" src="./img/FAQ Geofencing pic 2.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+      Only the "Custom Location" option will allow you to move the blue center marker and adjust the radius.  Here is what geofencing to PG6 looks like: <br>
+      <img max-width="50%" src="./img/FAQ Geofencing pic 3.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
       </div>
     </li>
 </ul>
