@@ -312,7 +312,7 @@
 
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-7-1" aria-expanded="false">Fixing a Live Poll assesse after class</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-7-1" aria-expanded="false">Fixing a Live Poll assessment after class</a>
       <div class="content" id="panel-7-1">
       </div>
     </li>
