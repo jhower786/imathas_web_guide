@@ -321,9 +321,9 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">How can I make the questions and answers reviewable to students after class?</a>
         <div class="content" id="panel-4-1">
-          There are settings to do this per assessment.  As long as the assessment is available and the answers are open to review in the gradebook it will work, as shown here:
+          There are settings to do this per assessment.  As long as the assessment is available and the answers are open to review in the gradebook it will work, as shown here, under the "Settings" selection for the specific assessment:
           <img max-width="50%" src="./img/FAQ Instructor review answers pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
-          Students can then click on _______ to see the questions, answers, and moreover their specific responses to those questions.
+          Instruct students to click on _______ to see the questions, answers, and moreover their actual responses to the questions that compose the assessment.
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Running a live poll session during class</a>
