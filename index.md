@@ -208,8 +208,13 @@
          </ol>
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Setting up a Live Poll session before class</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Writing your own custom Live Poll questions</a>
         <div class="content" id="panel-4-1">
+          Log into iMathAS.
+        </div>
+    </li>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Setting up a Live Poll session before class</a>
+        <div class="content" id="panel-5-1">
           Log into iMathAS and select your course.  The first time it will look like this, and you should create your first assessment by choosing "Copy" under the
           toogle gear for the "Example" assessment already there: <br>
           <img max-width="50%" src="./img/Assessment builder pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
@@ -221,8 +226,8 @@
           Now select the questions you want to use for your assessment. <br>
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Running a Live Poll session during class</a>
-        <div class="content" id="panel-5-1">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">Running a Live Poll session during class</a>
+        <div class="content" id="panel-6-1">
 
 
   1)	Log into your course in Canvas <br>
@@ -291,8 +296,8 @@
 
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">Adjusting a Live Poll session after class</a>
-      <div class="content" id="panel-6-1">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-7-1" aria-expanded="false">Fixing a Live Poll assesse after class</a>
+      <div class="content" id="panel-7-1">
       </div>
     </li>
 </ul>
@@ -338,7 +343,7 @@
       <div class="content" id="panel-7-1">
       Adjust the settings at the assessment level to accomplish this.  Under the  "Settings" selection, first ensure you are in the "Simple View" as shown here: <br>
       <img max-width="50%" src="./img/FAQ Geofencing pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
-      At the bottom you have four options under the drop-down box. <br>
+      Then, at the bottom of the screen you have four options under the drop-down box. <br>
       <img max-width="50%" src="./img/FAQ Geofencing pic 2.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
       Only the "Custom Location" option will allow you to move the blue center marker and adjust the radius.  Here is what geofencing to PG6 looks like: <br>
       <img max-width="50%" src="./img/FAQ Geofencing pic 3.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
@@ -347,7 +352,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-8-1" aria-expanded="false">How can I change the particpation-correctness grade ratio after an assessment is already over?</a>
       <div class="content" id="panel-8-1">
-        Yes, just go into the settings of your assessment at any point and adjust the slider under "Grading and Feedback" and then save.  The grades will update instantly, both for students (they need to refresh their browser) and you.
+        Go into the "Settings" of your assessment at any point and adjust the weight slider under "Grading and Feedback" and then save.  The grades will update instantly, both for students (they need to refresh their browser) and you.
       </div>
     </li>
 </ul>
