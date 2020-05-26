@@ -151,11 +151,12 @@
               <li> Many answer formats avaialable: Multiple Choice, Open-Ended Text-Box Entry, File Upload, Matching, Heat Map, Numerical, Equation, and more. <br> </li>
               <li> Available to use in any FIU course through Canvas<br> </li>
               <li> Always no cost for faculty and students <br> </li>
-              <li>
+              <li> Integraes seamlessly into Canvas <br> </li>
+              <li> Can geofence to locations on campus <br> </li>
               <li> Homegrown innovation developed by FIU Faculty <br> </li>
               <li> <br> </li>
             </ul>
-          
+
 
 
 
