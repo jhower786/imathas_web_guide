@@ -147,7 +147,7 @@
   <h2>What is Live Poll?</h2>
   <ul class="accordion" data-accordion="">
           <ul>
-              <li> Free quizzing and attendance digital tool <br> </li>
+              <li> Free digital quizzing and attendance tool <br> </li>
               <li> Many answer formats avaialable: Multiple-Choice, Essay, File Upload, Matching, Heat Map, Multipart, Number, Multiple-Answer, Function, Interval, and more. <br> </li>
               <li> Formative or summative assessments <br> </li>
               <li> Available to use in any FIU course through Canvas<br> </li>
