@@ -306,7 +306,7 @@
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">What browsers and devices should my students use for Live Poll?</a>
         <div class="content" id="panel-1-1">
-           Live Poll works well on all on all browsers including Chrome, Firefox, Safari, Edge.  It can be used on a laptop, desktop, chromebook, tablet, iPad, and smartphone.
+           Live Poll works well on all browsers including Chrome, Firefox, Safari, Edge.  It can be used on a laptop, desktop, chromebook, tablet, iPad, and smartphone.  Basically, any hardware/software choices that will let students do work in their Canvas course, will continue to work successfully when they do Live Poll.
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Should students on smartphones and tablets use the Canvas app or a web browser? </a>
