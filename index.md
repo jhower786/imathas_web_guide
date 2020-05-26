@@ -319,11 +319,11 @@
           Either will work fine, in principle.  Students should connect to FIU Secure Wifi over FIU WIfi, even though FIU Wifi will often work fine.
         </div>
     </li>
-
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Setting up a live poll session before class</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">How can I make the questions and answers reviewable to students after class?</a>
         <div class="content" id="panel-4-1">
-           Text using <b>HTML</b> marking. This is how to enter pictures:
-           <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+          There are settings to do this per assessment.  As long as the assessment is available and the answers are open to review in the gradebook it will work, as shown here:
+          <img max-width="50%" src="./img/FAQ Instructor review answers pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+          Students can then click on _______ to see the questions, answers, and moreover their specific responses to those questions.
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Running a live poll session during class</a>
