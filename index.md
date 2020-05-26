@@ -162,7 +162,7 @@
 
 
 
-<h2>How to use Live Poll (for instructors)</h2>
+<h3>How to use Live Poll (for instructors)</h3>
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Setting up an iMathAS Instructor Account</a>
         <div class="content" id="panel-1-1">
@@ -324,7 +324,7 @@
 
 
 <article>
-<h2>Frequently Asked Questions (for instructors)</h2>
+<h4>Frequently Asked Questions (for instructors)</h4>
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">What devices and browsers should my students use for Live Poll?</a>
         <div class="content" id="panel-1-1">
@@ -396,7 +396,7 @@
 
 
 <article>
-<h2>How to use Live Poll (for students)</h2>
+<h5>How to use Live Poll (for students)</h5>
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Setting up an iMathAS Account</a>
         <div class="content" id="panel-1-1">
