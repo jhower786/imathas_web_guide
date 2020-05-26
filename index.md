@@ -306,20 +306,20 @@
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">What browsers and devices should my students use for Live Poll?</a>
         <div class="content" id="panel-1-1">
-           Live Poll works equally well on all on all browsers including Chrome, Firefox, Safari, Edge.
+           Live Poll works well on all on all browsers including Chrome, Firefox, Safari, Edge.  It can be used on a laptop, desktop, chromebook, tablet, iPad, and smartphone.
+        </div>
+    </li>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Should students on smartphones and tablets use the Canvas app or a web browser? </a>
+        <div class="content" id="panel-3-1">
+          Either will work fine.  The slight advantage of the Canvas app is________.
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Should student smartphones use cellular data or FIU Wifi?</a>
         <div class="content" id="panel-2-1">
-          Either is fine in principle.  Students should connect to FIU Secure Wifi over FIU WIfi, even though FIU Wifi will often work fine.
+          Either will work fine, in principle.  Students should connect to FIU Secure Wifi over FIU WIfi, even though FIU Wifi will often work fine.
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Connecting your live poll course to Canvas</a>
-        <div class="content" id="panel-3-1">
-           Text using <b>HTML</b> marking. This is how to enter pictures:
-           <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
-        </div>
-    </li>
+
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Setting up a live poll session before class</a>
         <div class="content" id="panel-4-1">
            Text using <b>HTML</b> marking. This is how to enter pictures:
