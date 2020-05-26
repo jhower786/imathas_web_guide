@@ -326,16 +326,14 @@
           Instruct students to click on _______ to see the questions, answers, and moreover their actual responses to the questions that compose the assessment.
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">I have a student who claims the posted live poll grade in Canvas is incorrect.  What can I do to check?</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">I have a student who claims the posted Live Poll grade in Canvas is incorrect.  What can I do to check?</a>
         <div class="content" id="panel-5-1">
           You should click on ___________.
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">Adjusting a live poll session after class</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">  I have a multi-question Live Poll assessment, and I only did some, but not all of the questions during class. Should I delete the unused ones?</a>
       <div class="content" id="panel-6-1">
-         Text using <b>HTML</b> marking. This is how to enter pictures:
-         <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
-      </div>
+       It is easiest to leave them alone, unless you think it will reduce student confusion.  The unused questions have no effect on the grade generated for the assessment, so withdrawing them is not needed.      
     </li>
 </ul>
 </article>
@@ -359,7 +357,7 @@
 
 
 <article>
-<h2>How to use live poll (for students)</h2>
+<h2>How to use Live poll (for students)</h2>
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Setting up an iMathAS Account</a>
         <div class="content" id="panel-1-1">
@@ -367,7 +365,7 @@
            <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Setting up your live poll course</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Setting up your Live poll course</a>
         <div class="content" id="panel-2-1">
            Text using <b>HTML</b> marking. This is how to enter pictures:
            <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
