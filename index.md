@@ -221,7 +221,7 @@
           Now select the questions you want to use for your assessment. <br>
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Running a Live poll session during class</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Running a Live Poll session during class</a>
         <div class="content" id="panel-5-1">
 
 
@@ -246,7 +246,7 @@
 
 <img max-width="50%" src="./img/Running Guide Item 5 Session pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
-  6)	Announce to your students that they should now log into Canvas and access the Live Poll.  If they do so before you click "Make Placement", then they will need to click on the Live poll link again in Canvas. <br>
+  6)	Announce to your students that they should now log into Canvas and access the Live Poll.  If they do so before you click "Make Placement", then they will need to click on the Live Poll link again in Canvas. <br>
 
   7)	Assuming that the assessment is ready to go, click on "Preview Assessment". <br>
 
@@ -270,7 +270,7 @@
   <img max-width="50%" src="./img/Running Guide Item 11 pic Question 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
 
-  12)	To start the assessment and have it shown to students, click on "Start Assessment".  This will send the assessment to all of the students’ screens. You will be able to see the time running on the upper right-hand side.  Note: if you have students that cannot see the question, have them refresh the page or click on the Live poll link again in Canvas. <br>
+  12)	To start the assessment and have it shown to students, click on "Start Assessment".  This will send the assessment to all of the students’ screens. You will be able to see the time running on the upper right-hand side.  Note: if you have students that cannot see the question, have them refresh the page or click on the Live Poll link again in Canvas. <br>
   <img max-width="50%" src="./img/Running Guide Item 12 Start Assessment pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
 
@@ -284,14 +284,14 @@
     <img max-width="50%" src="./img/Running Guide item 14.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
   15)	When finished asking all the questions you want to from this assessment, you have two options: <br>
-  •	If you are done using Live poll for the class meeting, then simply navigate away within Canvas as you like. <br>
-  •	If, however, you have another Live poll assessment to conduct, then click "Modules" followed by "Live Poll" and then on the next screen select the assessment you wish to conduct next, using the drop-down menu and then place it.  Repeat steps 7 through 14 above. <br>
+  •	If you are done using Live Poll for the class meeting, then simply navigate away within Canvas as you like. <br>
+  •	If, however, you have another Live Poll assessment to conduct, then click "Modules" followed by "Live Poll" and then on the next screen select the assessment you wish to conduct next, using the drop-down menu and then place it.  Repeat steps 7 through 14 above. <br>
 
 
 
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">Adjusting a Live poll session after class</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">Adjusting a Live Poll session after class</a>
       <div class="content" id="panel-6-1">
       </div>
     </li>
@@ -312,14 +312,14 @@
           Either will work fine.  The slight advantage of the Canvas app is________.
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Should student smartphones use cellular data or FIU Wifi?</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Should student smartphones use cellular data or FIU WiFi?</a>
         <div class="content" id="panel-2-1">
-          Either will work fine, in principle.  Students should connect to FIU Secure Wifi over FIU WIfi, even though FIU Wifi will often work fine.
+          Either will work fine, in principle.  Students should connect to FIU_SECUREWiFi over FIU_WiFi, even though FIU_WiFi will often work fine.
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">How can I make the questions and answers reviewable to students after class?</a>
         <div class="content" id="panel-4-1">
-          There are settings to do this per assessment.  As long as the assessment is available and the answers are open to review in the gradebook it will work, as shown here, under the "Settings" selection for the specific assessment:
+          Adjust the settings at the assessment level to accomplish this.  As long as the assessment is available and the answers are open to review in the gradebook it will work, as shown here, under the "Settings" selection for the specific assessment:
           <img max-width="50%" src="./img/FAQ Instructor review answers pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
           Instruct students to click on _______ to see the questions, answers, and moreover their actual responses to the questions that compose the assessment.
         </div>
@@ -329,9 +329,19 @@
           You should click on ___________.
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">  I have a multi-question Live Poll assessment, and I only did some, but not all of the questions during class. Should I delete the unused ones?</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">I have a multi-question Live Poll assessment, and I only did some, but not all of the questions during class. Should I delete the unused ones?</a>
       <div class="content" id="panel-6-1">
        It is easiest to leave them alone, unless you think it will reduce student confusion.  The unused questions have no effect on the grade generated for the assessment, so withdrawing them is not needed.
+      </div>
+    </li>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">How can the answering of Live Poll questions be restricted to only students who are physically present in class?</a>
+      <div class="content" id="panel-6-1">
+      Adjust the settings at the assessment level to accomplish this.  Under the  "Settings" selection, first ensure you are in the "Simple View".
+      <img max-width="50%" src="./img/FAQ Geofencing pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+      At the bottom you have four options under the drop-down box.
+      <img max-width="50%" src="./img/FAQ Geofencing pic 2.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+      Only the "Custom Location" option will allow you to move the blue center marker and adjust the radius.  Here is what geofencing to PG6 looks like:
+      <img max-width="50%" src="./img/FAQ Geofencing pic 3.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
       </div>
     </li>
 </ul>
@@ -356,7 +366,7 @@
 
 
 <article>
-<h2>How to use Live poll (for students)</h2>
+<h2>How to use Live Poll (for students)</h2>
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Setting up an iMathAS Account</a>
         <div class="content" id="panel-1-1">
@@ -364,31 +374,31 @@
            <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Setting up your Live poll course</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Setting up your Live Poll course</a>
         <div class="content" id="panel-2-1">
            Text using <b>HTML</b> marking. This is how to enter pictures:
            <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Connecting your Live poll course to Canvas</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Connecting your Live Poll course to Canvas</a>
         <div class="content" id="panel-3-1">
            Text using <b>HTML</b> marking. This is how to enter pictures:
            <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Setting up a Live poll session before class</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Setting up a Live Poll session before class</a>
         <div class="content" id="panel-4-1">
            Text using <b>HTML</b> marking. This is how to enter pictures:
            <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Running a Live poll session during class</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Running a Live Poll session during class</a>
         <div class="content" id="panel-5-1">
            Text using <b>HTML</b> marking. This is how to enter pictures:
            <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">Adjusting a Live poll session after class</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">Adjusting a Live Poll session after class</a>
       <div class="content" id="panel-6-1">
          Text using <b>HTML</b> marking. This is how to enter pictures:
          <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
