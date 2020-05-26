@@ -146,18 +146,17 @@
 
   <h2>What is Live Poll?</h2>
   <ul class="accordion" data-accordion="">
-      <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Setting up an iMathAS Instructor Account</a>
-          <div class="content" id="panel-1-1">
-            <ul>
-              <li> Free quizzing tool <br> </li>
+          <ul>
+              <li> Free quizzing and attendance tool <br> </li>
+              <li> Many answer formats avaialable: Multiple Choice, Open-Ended Text-Box Entry, File Upload, Matching, Heat Map, Numerical, Equation, and more. <br> </li>
               <li> Available to use in any FIU course through Canvas<br> </li>
               <li> Always no cost for faculty and students <br> </li>
-              <li> Many answer formats avaialable: Multiple Choice, Open-Ended Text-Box Entry, File Upload, Matching, Numerical, Matching, and more. <br> </li>
+              <li>
               <li> Homegrown innovation developed by FIU Faculty <br> </li>
               <li> <br> </li>
             </ul>
-          </div>
-      </li>
+          
+
 
 
 
