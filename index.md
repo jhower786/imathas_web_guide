@@ -317,10 +317,7 @@
       </div>
     </li>
 </ul>
-</article>
 
-
-<article>
 <h4>Frequently Asked Questions (for instructors)</h4>
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">What devices and browsers should my students use for Live Poll?</a>
