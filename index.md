@@ -304,9 +304,9 @@
 <article>
 <h2>Frequently Asked Questions (for instructors)</h2>
 <ul class="accordion" data-accordion="">
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">What browsers and devices should my students use for Live Poll?</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">What devices and browsers should my students use for Live Poll?</a>
         <div class="content" id="panel-1-1">
-           Live Poll works well on all browsers including Chrome, Firefox, Safari, Edge.  It can be used on a laptop, desktop, chromebook, tablet, iPad, and smartphone.  Basically, any hardware/software choices that will let students do work in their Canvas course, will continue to work successfully when they do Live Poll.
+           Live Poll can be used on a laptop, desktop, chromebook, tablet, iPad, and smartphone.  It works well on all browsers including Chrome, Firefox, Safari, Edge.  In addition, the Canvas app is an option for smartphones and tablets.  Basically, any hardware/software choices that will let students do work in their Canvas course already, will continue to work successfully when they do Live Poll.
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Should students on smartphones and tablets use the Canvas app or a web browser? </a>
@@ -326,10 +326,9 @@
           Instruct students to click on _______ to see the questions, answers, and moreover their actual responses to the questions that compose the assessment.
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Running a live poll session during class</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">I have a student who claims the posted live poll grade in Canvas is incorrect.  What can I do to check?</a>
         <div class="content" id="panel-5-1">
-           Text using <b>HTML</b> marking. This is how to enter pictures:
-           <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+          You should click on ___________.
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">Adjusting a live poll session after class</a>
