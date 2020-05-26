@@ -154,7 +154,6 @@
               <li> Integraes seamlessly into Canvas <br> </li>
               <li> Can geofence to locations on campus <br> </li>
               <li> Homegrown innovation developed by FIU Faculty <br> </li>
-              <li> <br> </li>
             </ul>
 
 
