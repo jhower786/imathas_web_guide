@@ -352,7 +352,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">I have a multi-question Live Poll assessment, and I only did some, but not all of the questions during class. Should I delete the unused ones?</a>
       <div class="content" id="panel-6-1">
-       It is easiest to leave them alone, unless you think it will reduce student confusion.  The unused questions have no effect on the grade generated for the assessment, so withdrawing them is not needed. <br>
+       It is recommended that you leave them alone, unless you think it will reduce student confusion.  The unused questions have no effect on the grade generated for the assessment, so withdrawing them is not needed. <br>
       </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-7-1" aria-expanded="false">How can the answering of Live Poll questions be restricted to only students who are physically present in class?</a>
