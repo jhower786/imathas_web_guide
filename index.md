@@ -243,6 +243,8 @@
           <img max-width="50%" src="./img/Writing Questions pic 6.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
           The "Writing Questions Help" and "Macro Library Help" links will assist you in understanding the different components of writing your question.
           <img max-width="50%" src="./img/Writing Questions pic 7.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+
+
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Setting up a Live Poll session before class</a>
@@ -255,7 +257,12 @@
           Scroll down below where you will set many settings you can adjust.  The default settings are commonly requested ones.  However, something you may want to adjust now is the ratio of participation to correctness for student responses, by adjusting the slider here: <br>
           <img max-width="50%" src="./img/Assessment builder pic 3.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
           Once finished hit "Save Changes". <br> <br>
-          Now select the questions you want to use for your assessment. <br>
+          Now select the questions you want to use for your assessment. Click on "Questions" under the drop-down menu for your assessment:
+          <img max-width="50%" src="./img/Writing Questions pic 8.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          Then use the "Search" features to locate the questions you want to add.
+          <img max-width="50%" src="./img/Writing Questions pic 9.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          After adding your questions hit "Done"
+          <img max-width="50%" src="./img/Writing Questions pic 10.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">Running a Live Poll session during class</a>
