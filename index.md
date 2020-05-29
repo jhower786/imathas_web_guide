@@ -234,15 +234,15 @@
           Check the box for "General Templates" and click "Use Libraries"
           <img max-width="50%" src="./img/Writing Questions pic 3.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
           Click on "Search" while leaving the search box empty.
-          You will see a list of questions that you can use as templates including </br>
-          A) Multiple Choice with four or five answer alternatives
+          You will see a list of questions that you can use as templates including <br>
+          A) Multiple Choice with four or five alternatives
           <img max-width="50%" src="./img/Writing Questions pic 5.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
           B) Questions of various answer formats
           <img max-width="50%" src="./img/Writing Questions pic 4.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
           To use of one these types to build your own custom question, identify the question and from the Action drop-down menu select "Template (copy)"
           <img max-width="50%" src="./img/Writing Questions pic 6.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
           The "Writing Questions Help" and "Macro Library Help" links will assist you in understanding the different components of writing your question.
-          <img max-width="50%" src="./img/Writing Questions pic 7.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          <img max-width="50%" src="./img/Writing Question pic 7.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
 
 
         </div>
