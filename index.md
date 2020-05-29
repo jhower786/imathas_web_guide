@@ -148,7 +148,7 @@
   <ul class="accordion" data-accordion="">
           <ul>
               <li> Free digital quizzing and attendance tool <br> </li>
-              <li> Many answer formats avaialable: Multiple-Choice, Essay, File Upload, Matching, Heat Map, Multipart, Number, Multiple-Answer, Function, Interval, and more. <br> </li>
+              <li> Many answer formats avaialable: Multiple-Choice, String, Essay, File Upload, Matching, Heat Map, Multipart, Number, Multiple-Answer, Function, Interval, and more. <br> </li>
               <li> Formative or summative assessments <br> </li>
               <li> Available to use in any FIU course through Canvas<br> </li>
               <li> Always no cost for faculty and students <br> </li>
@@ -243,8 +243,6 @@
           <img max-width="50%" src="./img/Writing Questions pic 6.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
           The "Writing Questions Help" and "Macro Library Help" links will assist you in understanding the different components of writing your question.
           <img max-width="50%" src="./img/Writing Question pic 7.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
-
-
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Setting up a Live Poll session before class</a>
