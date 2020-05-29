@@ -230,15 +230,19 @@
           In the left column click on "Manage" under Questions:
           <img max-width="50%" src="./img/Writing Questions pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
           At the top click on "Select Libraries"
-          <img max-width="50%" src="./img/Screen Shot 2020-05-29 at 2.30.37 AM.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          <img max-width="50%" src="./img/Screen Shot 2020-05-29 at 2.30.27 AM.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
           Check the box for "General Templates" and click "Use Libraries"
           <img max-width="50%" src="./img/Writing Questions pic 3.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
           Click on "Search" while leaving the search box empty
           You will see a list of questions that you can use as templates including
           A) Multiple Choice with four or five answer alternatives
-          <img max-width="50%" src="./img/Writing Questions pic 4.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
-          B) Questions of various answer formats
           <img max-width="50%" src="./img/Writing Questions pic 5.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          B) Questions of various answer formats
+          <img max-width="50%" src="./img/Writing Questions pic 4.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          To use of one these types to build your own custom question, identify the question and from the Action drop-down menu select "Template (copy)"
+          <img max-width="50%" src="./img/Writing Questions pic 6.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+
+
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Setting up a Live Poll session before class</a>
