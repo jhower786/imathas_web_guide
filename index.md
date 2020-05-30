@@ -167,16 +167,16 @@
            <li>An iMathAS instructor account is required to use Live Poll.  The account is always free.  If you already have an instructor account, do not set up another one, just simply log in here, as usual: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> <br> </li>
            <li>If you forgot your password or want to reset it, go here: <a href="https://imathas.fiu.edu/forms.php?action=resetpw">Password Reset</a> <br> </li>
            <li>If you forgot your username, then look it up here: <a href="https://imathas.fiu.edu/forms.php?action=lookupusername">Username Lookup</a> <br> </li>
-           <li>To establish your instructor account for the first time, make a request here: <a href="https://imathas.fiu.edu/newinstructor.php">Instructor Account Request</a> It takes up to 24 hours for your request to be approved; you will recieve a confirmation email at the time its approved.<br> </li>
+           <li>To establish your instructor account for the first time, make a request here: <a href="https://imathas.fiu.edu/newinstructor.php">Instructor Account Request</a> It takes up to 24 hours for your request to be approved; you will recieve a confirmation email at the time it is approved.<br> </li>
           </ul>
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Setting up your Live Poll course</a>
         <div class="content" id="panel-2-1">
           <ol Type="1">
-           <li>After signing into iMathAS here: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> scroll down and click on "Add A New Course".   <br>
+           <li>After signing into iMathAS here: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> scroll down and click on "Add New Course".   <br>
            <img max-width="50%" src="./img/Setting up course pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br> </li>
-           <li>Create one separate iMathAS course for each section you teach.  Always keep them separate. <br> </li>
+           <li>Create one separate iMathAS course for each section you teach.  Always have them separately named. <br> </li>
            <li>Select “Copy from my, a colleague's, or template course” , then select “Template Courses” followed by selecting “Live Poll SHELL”. <br>
            <i>Note: This method guarantees Live Poll Sync is set up and does not need to be modified. </i> <br> </li>
            <li>Make a unique course name, specific to your course.  Avoid verbatim use of a course name that already exists.  Leave the "Enrollment key" box empty, it will never be needed. <br>
