@@ -171,8 +171,8 @@
           </ul>
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Setting up your Live Poll course</a>
-        <div class="content" id="panel-2-1">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-2" aria-expanded="false">Setting up your Live Poll course</a>
+        <div class="content" id="panel-1-2">
           <ol Type="1">
            <li>After signing into iMathAS here: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> scroll down and click on "Add New Course".   <br>
            <img max-width="50%" src="./img/Setting up course pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br> </li>
@@ -186,8 +186,8 @@
           </ol>
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Connecting your Live Poll course to Canvas</a>
-        <div class="content" id="panel-3-1">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-3" aria-expanded="false">Connecting your Live Poll course to Canvas</a>
+        <div class="content" id="panel-1-3">
           You will need to install two different links in Canvas in order to get Live Poll up and running. <br>
          <ol Type="1">
           Step 1: First you will need to set up the actual Live Poll. <br>
@@ -225,8 +225,8 @@
          </ol>
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Writing your own custom Live Poll questions</a>
-        <div class="content" id="panel-4-1">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-4" aria-expanded="false">Writing your own custom Live Poll questions</a>
+        <div class="content" id="panel-1-4">
           Log into iMathAS.
           In the left column click on "Manage" under Questions:
           <img max-width="50%" src="./img/Writing Questions pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
@@ -246,8 +246,8 @@
           <img max-width="50%" src="./img/Writing Question pic 7 .png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-8-1" aria-expanded="false">Example: Writing a custom multiple-choice question</a>
-      <div class="content" id="panel-8-1">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-5" aria-expanded="false">Example: Writing a custom multiple-choice question</a>
+      <div class="content" id="panel-1-5">
        1) Click on the arrow to the right of the assignment and select "Questions" from the drop-down menu <br>
        <img max-width="50%" src="./img/Custom pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
        2)	Click on “Add New Question” <br>
@@ -287,8 +287,8 @@
 
 
 
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Setting up a Live Poll session before class</a>
-        <div class="content" id="panel-5-1">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-6" aria-expanded="false">Setting up a Live Poll session before class</a>
+        <div class="content" id="panel-1-6">
           Log into iMathAS and select your course.  The first time it will look like this, and you should create your first assessment by choosing "Copy" under the
           toogle gear for the "Example" assessment already there: <br>
           <img max-width="50%" src="./img/Assessment builder pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
@@ -305,8 +305,8 @@
           <img max-width="50%" src="./img/Writing Questions pic 10.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">Running a Live Poll session during class</a>
-        <div class="content" id="panel-6-1">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-7" aria-expanded="false">Running a Live Poll session during class</a>
+        <div class="content" id="panel-1-7">
 
 
   1)	Log into your course in Canvas <br>
@@ -375,8 +375,8 @@
 
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-7-1" aria-expanded="false">Choosing the settings for your Live Poll assessment</a>
-      <div class="content" id="panel-7-1">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-8" aria-expanded="false">Choosing the settings for your Live Poll assessment</a>
+      <div class="content" id="panel-1-8">
       </div>
     </li>
 
@@ -388,40 +388,46 @@
 <article>
 <h4>Frequently Asked Questions (for instructors)</h4>
 <ul class="accordion" data-accordion="">
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">What devices and browsers should my students use for Live Poll?</a>
-        <div class="content" id="panel-1-1">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">What devices and browsers should my students use for Live Poll?</a>
+        <div class="content" id="panel-2-1">
            Live Poll can be used on a laptop, desktop, chromebook, tablet, iPad, and smartphone.  It works well on all browsers including Chrome, Firefox, Safari, and Edge.  In addition, the Canvas app is an option for smartphones and tablets.  Basically, any hardware/software choices that will let students do work in their Canvas course already, will continue to work successfully when they do Live Poll.
         </div>
     </li>
+<<<<<<< HEAD
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Should students on smartphones and tablets use the Canvas Student app or a web browser? </a>
         <div class="content" id="panel-3-1">
           Either will work fine.  The slight advantage of the Canvas Student app is that is logged in all the time, so students have faster access.  Live Poll is easier to use with the app.
+=======
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-2" aria-expanded="false">Should students on smartphones and tablets use the Canvas Student app or a web browser? </a>
+        <div class="content" id="panel-2-2">
+          Either will work fine.  The slight advantage of the Canvas Student app is________.
+>>>>>>> dfabe2afdfc73905a93481c4c273d9462e9f0c3e
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Should student smartphones use cellular data or FIU WiFi?</a>
-        <div class="content" id="panel-2-1">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-3" aria-expanded="false">Should student smartphones use cellular data or FIU WiFi?</a>
+        <div class="content" id="panel-2-3">
           Either will work fine, in principle.  Students should connect to FIU_SECUREWiFi over FIU_WiFi, even though FIU_WiFi will often work fine.
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">How can I make the questions and answers reviewable to students after class?</a>
-        <div class="content" id="panel-4-1">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-4" aria-expanded="false">How can I make the questions and answers reviewable to students after class?</a>
+        <div class="content" id="panel-2-4">
           Adjust the settings at the assessment level to accomplish this.  As long as the assessment is available and the answers are open to review in the gradebook it will work, as shown here, under the "Settings" selection for the specific assessment:
           <img max-width="50%" src="./img/FAQ Instructor review answers pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
           Instruct students to click on _______ to see the questions, answers, and moreover their actual responses to the questions that compose the assessment.
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">I have a student who claims the posted Live Poll grade in Canvas is incorrect.  What can I do to check?</a>
-        <div class="content" id="panel-5-1">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-5" aria-expanded="false">I have a student who claims the posted Live Poll grade in Canvas is incorrect.  What can I do to check?</a>
+        <div class="content" id="panel-2-5">
           You should click on ___________.
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">I have a multi-question Live Poll assessment, and I only did some, but not all of the questions during class. Should I delete the unused ones?</a>
-      <div class="content" id="panel-6-1">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-6" aria-expanded="false">I have a multi-question Live Poll assessment, and I only did some, but not all of the questions during class. Should I delete the unused ones?</a>
+      <div class="content" id="panel-2-6">
        It is recommended that you leave them alone, unless you think it will reduce student confusion.  The unused questions have no effect on the grade generated for the assessment, so withdrawing them is not needed. <br>
       </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-7-1" aria-expanded="false">How can the answering of Live Poll questions be restricted to only students who are physically present in class?</a>
-      <div class="content" id="panel-7-1">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-7" aria-expanded="false">How can the answering of Live Poll questions be restricted to only students who are physically present in class?</a>
+      <div class="content" id="panel-2-7">
       Adjust the settings at the assessment level to accomplish this.  Under the  "Settings" selection, first ensure you are in the "Simple View" as shown here: <br>
       <img max-width="50%" src="./img/FAQ Geofencing pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
       Then, at the bottom of the screen you have four options under the drop-down box. <br>
@@ -431,8 +437,8 @@
       <i> Note: Geofencing does not work necessarily for studnets on a laptop, so consider directing any such students in your class to swtich and use their smartphone for these questions.    </i>
       </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-8-1" aria-expanded="false">How can I change the particpation-correctness grade ratio after an assessment is already over?</a>
-      <div class="content" id="panel-8-1">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-8" aria-expanded="false">How can I change the particpation-correctness grade ratio after an assessment is already over?</a>
+      <div class="content" id="panel-2-8">
         Go into the "Settings" of your assessment at any point and adjust the weight slider under "Grading and Feedback" and then save.  The grades will update instantly, both for students (they need to refresh their browser) and you.
       </div>
     </li>
@@ -460,15 +466,20 @@
 <article>
 <h5>Frequently Asked Questions (for students)</h5>
 <ul class="accordion" data-accordion="">
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">My grade seems wrong, what do I do?</a>
-        <div class="content" id="panel-1-1">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">My grade seems wrong, what do I do?</a>
+        <div class="content" id="panel-3-1">
         If there is any chance you have never clicked on the "Live Poll Sync" button then do so now, by selecting your course in Canvas, and then selecting "Modules" followed
         by scrolling down until you see "Live Poll Sync", which you then click on: <br>
         <img max-width="50%" src="./img/Live Poll sync pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
         </div>
     </li>
+<<<<<<< HEAD
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Where do I find Live Poll if I am using the Canvas Student app?</a>
         <div class="content" id="panel-2-1">
+=======
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-2" aria-expanded="false">Where do I find Live Poll if I am using the Canvas App?</a>
+        <div class="content" id="panel-3-2">
+>>>>>>> dfabe2afdfc73905a93481c4c273d9462e9f0c3e
         For iOS do the following: <br>
         1) Enter your class in Canvas <br>
         <img max-width="50%" src="./img/App pic1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
@@ -492,8 +503,8 @@
         <img max-width="50%" src="./img/App pic11.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">How do I review the Live Poll questions and answers after class?</a>
-        <div class="content" id="panel-3-1">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-3" aria-expanded="false">How do I review the Live Poll questions and answers after class?</a>
+        <div class="content" id="panel-3-3">
         This is indeed an available feature, but only if your instructor enables it.  Please reach out to them.  If you did not attempt any questions in an assessment, then you will
         be unable to review the questions, even if your insturctor enables student review. <br>
         </div>
@@ -515,4 +526,3 @@
         }, 3000);
 
     </script>
-    </body>
