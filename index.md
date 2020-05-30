@@ -333,10 +333,15 @@
 
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-7-1" aria-expanded="false">Fixing a Live Poll assessment after class</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-7-1" aria-expanded="false">Choosing the settings for your Live Poll assessment</a>
       <div class="content" id="panel-7-1">
       </div>
     </li>
+  <li class="accordion-navigation"><a class="accordion-link" href="#panel-8-1" aria-expanded="false">Example: Writing a custom multile-choice question</a>
+    <div class="content" id="panel-8-1">
+    </div>
+  </li>
+  </li>
 </ul>
 </article>
 
