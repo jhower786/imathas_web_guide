@@ -496,7 +496,7 @@
       </div>
     </li>
 </ul>
-</article>
+
 
 
 
