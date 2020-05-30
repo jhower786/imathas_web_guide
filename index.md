@@ -325,17 +325,17 @@
 
   If you find that your course is linked to the wrong course in iMathAS, click on ‘Change Course Link’.  This will allow you to choose the correct course. <br>
 
-<img max-width="50%" src="./img/Running Guide Item 4 Course Link pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+<img max-width="50%" src="./img/Running Guide Item 4 pic4 fixed again.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
   5)	Choose the assessment that you want and click "Make Placement". <br>
 
-<img max-width="50%" src="./img/Running Guide Item 5 Session pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+<img max-width="50%" src="./img/Running Guide Item pic5 fixed.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
   6)	Announce to your students that they should now log into Canvas and access the Live Poll.  If they do so before you click "Make Placement", then they will need to click on the Live Poll link again in Canvas. <br>
 
   7)	Assuming that the assessment is ready to go, click on "Preview Assessment". <br>
 
   This will take you directly to the question in iMathAS. <br>
-<img max-width="50%" src="./img/Running Guide Item 7 Preview Session pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+<img max-width="50%" src="./img/Running Guide Item pic7 fixed.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
   8)	The assessments have three default settings: <br>
   a.	Show question on this computer before it is available to students – this allows you to see the question and verify it for yourself before the students see it. <br>
@@ -395,7 +395,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Should students on smartphones and tablets use the Canvas Student app or a web browser? </a>
         <div class="content" id="panel-3-1">
-          Either will work fine.  The slight advantage of the Canvas Student app is________.
+          Either will work fine.  The slight advantage of the Canvas Student app is that is logged in all the time, so students have faster access.  Live Poll is easier to use with the app.
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Should student smartphones use cellular data or FIU WiFi?</a>
@@ -463,11 +463,11 @@
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">My grade seems wrong, what do I do?</a>
         <div class="content" id="panel-1-1">
         If there is any chance you have never clicked on the "Live Poll Sync" button then do so now, by selecting your course in Canvas, and then selecting "Modules" followed
-        by scrolling down until you see "Live Poll Sync", which you click: <br>
+        by scrolling down until you see "Live Poll Sync", which you then click on: <br>
         <img max-width="50%" src="./img/Live Poll sync pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Where do I find Live Poll if I am using the Canvas App?</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Where do I find Live Poll if I am using the Canvas Student app?</a>
         <div class="content" id="panel-2-1">
         For iOS do the following: <br>
         1) Enter your class in Canvas <br>
