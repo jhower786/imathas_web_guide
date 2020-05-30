@@ -245,6 +245,47 @@
           <img max-width="50%" src="./img/Writing Question pic 7.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
         </div>
     </li>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-8-1" aria-expanded="false">Example: Writing a custom multiple-choice question</a>
+      <div class="content" id="panel-8-1">
+       1) Click on the arrow to the right of the assignment and select "Questions" from the drop-down menu <br>
+       <img max-width="50%" src="./img/Custom pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+       2)	Click on “Add New Question” <br>
+       <img max-width="50%" src="./img/Custom pic 2.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+       3)	Click on “Tutorial Style Editor” <br>
+       <img max-width="50%" src="./img/Custom pic 3.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+       4)	In “Description” write the name of the question <br>
+       5)	In “Use Rights” we suggest changing it “Allow use , use as template, no modifications” <br>
+       6)	Enter in the multiple-choice answers.  You can click on the “E” next to each answer to get the math type editor <br>
+       7)	Under ‘Question Text’ enter in the text of the question <br>
+          a.	To add math type, click on the ‘Add New Math’ button <br>
+          You can also use the link: http://www1.chapman.edu/~jipsen/mathml/asciimathsyntax.html to find a list of some of the available mathtype options. <br>
+          <img max-width="50%" src="./img/Custom pic 4.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+          b.	To add a picture, click on ‘Insert’ and then “Image” <br>
+          <img max-width="50%" src="./img/Custom pic 5.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+       8)	On the bottom, select “Save and Test”.  The problem will pop up in an alternate window <br>
+       9)	Click on “Add/Remove Questions” at the topic to get back to your assessment <br>
+       <img max-width="50%" src="./img/Custom pic 6.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+       10) If you do not see your question listed in the list below, you may need to change the library.  Click on "Select Libraries" which will pull up a box that will allow you to select the library in which you stored your problem <br>
+       <img max-width="50%" src="./img/Custom pic 7.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+
+       11) Click on “Use Libraries” once you have checked the box next to the correct library <br>
+       <img max-width="50%" src="./img/Custom pic 8.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+
+       12) Check the box next to the question that you want to add and then click "Add (using defaults)" <br>
+       <img max-width="50%" src="./img/Custom pic 9.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+
+       13) You can reorder the questions by click on the drop down next to the question and changing the Question Number <br>
+       <img max-width="50%" src="./img/Custom pic 10.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+
+       14)	You can remove a question by checking the box next to it and selecting “Remove” <br>
+       <img max-width="50%" src="./img/Custom pic 11.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+
+       15)	When you are finished, select “Done” <br>
+      </div>
+    </li>
+
+
+
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Setting up a Live Poll session before class</a>
         <div class="content" id="panel-5-1">
           Log into iMathAS and select your course.  The first time it will look like this, and you should create your first assessment by choosing "Copy" under the
@@ -337,44 +378,7 @@
       <div class="content" id="panel-7-1">
       </div>
     </li>
-  <li class="accordion-navigation"><a class="accordion-link" href="#panel-8-1" aria-expanded="false">Example: Writing a custom multile-choice question</a>
-    <div class="content" id="panel-8-1">
-     1) Click on the arrow to the right of the assignment and select "Questions" from the drop-down menu <br>
-     <img max-width="50%" src="./img/Custom pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
-     2)	Click on “Add New Question” <br>
-     <img max-width="50%" src="./img/Custom pic 2.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
-     3)	Click on “Tutorial Style Editor” <br>
-     <img max-width="50%" src="./img/Custom pic 3.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
-     4)	In “Description” write the name of the question <br>
-     5)	In “Use Rights” we suggest changing it “Allow use , use as template, no modifications” <br>
-     6)	Enter in the multiple-choice answers.  You can click on the “E” next to each answer to get the math type editor <br>
-     7)	Under ‘Question Text’ enter in the text of the question <br>
-        a.	To add math type, click on the ‘Add New Math’ button <br>
-        You can also use the link: http://www1.chapman.edu/~jipsen/mathml/asciimathsyntax.html to find a list of some of the available mathtype options. <br>
-        <img max-width="50%" src="./img/Custom pic 4.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
-        b.	To add a picture, click on ‘Insert’ and then “Image” <br>
-        <img max-width="50%" src="./img/Custom pic 5.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
-     8)	On the bottom, select “Save and Test”.  The problem will pop up in an alternate window <br>
-     9)	Click on “Add/Remove Questions” at the topic to get back to your assessment <br>
-     <img max-width="50%" src="./img/Custom pic 6.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
-     10) If you do not see your question listed in the list below, you may need to change the library.  Click on "Select Libraries" which will pull up a box that will allow you to select the library in which you stored your problem <br>
-     <img max-width="50%" src="./img/Custom pic 7.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
-     11) Click on “Use Libraries” once you have checked the box next to the correct library <br>
-     <img max-width="50%" src="./img/Custom pic 8.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
-
-     12) Check the box next to the question that you want to add and then click "Add (using defaults)" <br>
-     <img max-width="50%" src="./img/Custom pic 9.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
-
-     13) You can reorder the questions by click on the drop down next to the question and changing the Question Number <br>
-     <img max-width="50%" src="./img/Custom pic 10.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
-
-     14)	You can remove a question by checking the box next to it and selecting “Remove” <br>
-     <img max-width="50%" src="./img/Custom pic 11.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
-
-     15)	When you are finished, select “Done” <br>
-    </div>
-  </li>
 
 </ul>
 </article>
