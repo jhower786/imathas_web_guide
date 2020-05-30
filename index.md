@@ -325,7 +325,7 @@
 
   If you find that your course is linked to the wrong course in iMathAS, click on ‘Change Course Link’.  This will allow you to choose the correct course. <br>
 
-<img max-width="50%" src="./img/Running Guide Item 4 pic4 fixed again.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+<img max-width="50%" src="./img/Running Guide Item 4 pi4 fixed again.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
   5)	Choose the assessment that you want and click "Make Placement". <br>
 
 <img max-width="50%" src="./img/Running Guide Item pic5 fixed.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
