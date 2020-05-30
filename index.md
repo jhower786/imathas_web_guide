@@ -278,7 +278,7 @@
        <img max-width="50%" src="./img/Custom pic 10.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
        14)	You can remove a question by checking the box next to it and selecting “Remove” <br>
-       <img max-width="50%" src="./img/Custom pic 11.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+       <img max-width="50%" src="./img/Custon pic 11.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
 
        15)	When you are finished, select “Done” <br>
       </div>
@@ -381,7 +381,7 @@
 
 
 </ul>
-</article>
+
 
 
 <article>
