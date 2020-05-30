@@ -486,11 +486,12 @@
         <img max-width="50%" src="./img/App pic10.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
         5) If asked for location permission, select "Allow use of Location."  Live Poll is then loaded and the screen looks like: <br>
         <img max-width="50%" src="./img/App pic11.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
-
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">How do I see the questions after class?</a>
         <div class="content" id="panel-3-1">
+        This is an available feature, but only if your instructor enables it.  Please reach out to them.  If you did not attempt any questions in an assessment, then you will
+        be unable to review the questions, even if your insturctor enables student review.
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Running a Live Poll session during class</a>
