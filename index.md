@@ -341,7 +341,7 @@
     <div class="content" id="panel-8-1">
     </div>
   </li>
-  </li>
+
 </ul>
 </article>
 
@@ -419,21 +419,21 @@
 
 
 <article>
-<h5>How to use Live Poll (for students)</h5>
+<h5>Frequently Asked Questions (for students)</h5>
 <ul class="accordion" data-accordion="">
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Setting up an iMathAS Account</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">My grade seems wrong, what do I do?</a>
         <div class="content" id="panel-1-1">
            Text using <b>HTML</b> marking. This is how to enter pictures:
            <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Setting up your Live Poll course</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Where do I find Live Poll if I am using the Canvas App?</a>
         <div class="content" id="panel-2-1">
            Text using <b>HTML</b> marking. This is how to enter pictures:
            <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Connecting your Live Poll course to Canvas</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">How do I see the questions after class?</a>
         <div class="content" id="panel-3-1">
            Text using <b>HTML</b> marking. This is how to enter pictures:
            <img max-width="50%" src="./img/Picture1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
