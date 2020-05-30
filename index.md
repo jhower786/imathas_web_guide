@@ -461,11 +461,10 @@
 <h5>Frequently Asked Questions (for students)</h5>
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">My grade seems wrong, what do I do?</a>
+        <div class="content" id="panel-1-1">
         If there is any chance you have never clicked on the "Live Poll Sync" button then do so now, by selecting your course in Canvas, and then selecting "Modules" followed
         by scrolling down until you see "Live Poll Sync", which you click: <br>
         <img max-width="50%" src="./img/Live Poll sync pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
-
-        <div class="content" id="panel-1-1">
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Where do I find Live Poll if I am using the Canvas App?</a>
@@ -493,9 +492,9 @@
         <img max-width="50%" src="./img/App pic11.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">How do I see the questions after class?</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">How do I review the Live Poll questions and answers after class?</a>
         <div class="content" id="panel-3-1">
-        This is an available feature, but only if your instructor enables it.  Please reach out to them.  If you did not attempt any questions in an assessment, then you will
+        This is indeed an available feature, but only if your instructor enables it.  Please reach out to them.  If you did not attempt any questions in an assessment, then you will
         be unable to review the questions, even if your insturctor enables student review. <br>
         </div>
     </li>
