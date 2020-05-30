@@ -462,7 +462,7 @@
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">My grade seems wrong, what do I do?</a>
         If there is any chance you have never clicked on the "Live Poll Sync" button then do so now, by selecting your course in Canvas, and then selecting "Modules" followed
         by scrolling down until you see "Live Poll Sync", which you click: <br>
-        <img max-width="50%" src="./img/Live Poll Sync.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+        <img max-width="50%" src="./img/Live Poll sync pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
 
         <div class="content" id="panel-1-1">
         </div>
@@ -497,14 +497,6 @@
         This is an available feature, but only if your instructor enables it.  Please reach out to them.  If you did not attempt any questions in an assessment, then you will
         be unable to review the questions, even if your insturctor enables student review. <br>
         </div>
-    </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-5-1" aria-expanded="false">Running a Live Poll session during class</a>
-        <div class="content" id="panel-5-1">
-        </div>
-    </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-6-1" aria-expanded="false">Adjusting a Live Poll session after class</a>
-      <div class="content" id="panel-6-1">
-      </div>
     </li>
 </ul>
 
