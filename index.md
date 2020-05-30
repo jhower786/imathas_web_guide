@@ -465,12 +465,12 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Where do I find Live Poll if I am using the Canvas App?</a>
         <div class="content" id="panel-2-1">
-        For ioS do the following: <br>
+        For iOS do the following: <br>
         1) Enter your class in Canvas <br>
         <img max-width="50%" src="./img/App pic1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
-        2) Click on "Modules" followed by "Student Resources" <br>
+        2) Click on "Modules" followed by "Student Resources", to reach this screen: <br>
         <img max-width="50%" src="./img/App pic2.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
-        3) Click on "Live Poll" to reach this screen <br>
+        3) Click on "Live Poll", to reach this screen <br>
         <img max-width="50%" src="./img/App pic3.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
         4) After clicking on "Launch External Tool" you want to allow use of your current location by selecting "OK" <br>
         <img max-width="50%" src="./img/App pic4.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
@@ -479,16 +479,14 @@
         1) Enter your class in Canvas <br>
         <img max-width="50%" src="./img/App pic5.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
         2) After clicking on "Modules" you will see this screen, where you click on "Live Poll" <br>
-        <img max-width="50%" src="./img/App pic6.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
-        3) The next screen looks like this and you then select "OK": <br>
         <img max-width="50%" src="./img/App pic7.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
-        4) Select the circled icon to open the page in an external browser:
+        3) The next screen looks like this and you then select "OK": <br>
         <img max-width="50%" src="./img/App pic8.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
-        5) If asked for location permission, select "Allow use of Location."  Live Poll is then loaded and the screen looks like: <br>
-        <img max-width="50%" src="./img/App pic9.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
-
+        4) Select the circled icon to open the page in an external browser:
         <img max-width="50%" src="./img/App pic10.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+        5) If asked for location permission, select "Allow use of Location."  Live Poll is then loaded and the screen looks like: <br>
         <img max-width="50%" src="./img/App pic11.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">How do I see the questions after class?</a>
