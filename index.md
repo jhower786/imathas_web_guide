@@ -243,7 +243,7 @@
           To use of one these types to build your own custom question, identify the question and from the Action drop-down menu select "Template (copy)"
           <img max-width="50%" src="./img/Writing Questions pic 6.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
           The "Writing Questions Help" and "Macro Library Help" links will assist you in understanding the different components of writing your question.
-          <img max-width="50%" src="./img/Writing Question pic 7.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          <img max-width="50%" src="./img/Writing Question pic 7 .png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-8-1" aria-expanded="false">Example: Writing a custom multiple-choice question</a>
@@ -257,11 +257,11 @@
        4)	In “Description” write the name of the question <br>
        5)	In “Use Rights” we suggest changing it “Allow use , use as template, no modifications” <br>
        6)	Enter in the multiple-choice answers.  You can click on the “E” next to each answer to get the math type editor <br>
-       7)	Under ‘Question Text’ enter in the text of the question <br>
-          a.	To add math type, click on the ‘Add New Math’ button <br>
+       7)	Under "Question Text" enter in the text of the question <br>
+          a.	To add math type, click on the "Add New Math" button <br>
           You can also use the link: http://www1.chapman.edu/~jipsen/mathml/asciimathsyntax.html to find a list of some of the available mathtype options. <br>
           <img max-width="50%" src="./img/Custom pic 4.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
-          b.	To add a picture, click on ‘Insert’ and then “Image” <br>
+          b.	To add a picture, click on "Insert" and then “Image” <br>
           <img max-width="50%" src="./img/Custom pic 5.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
        8)	On the bottom, select “Save and Test”.  The problem will pop up in an alternate window <br>
        9)	Click on “Add/Remove Questions” at the topic to get back to your assessment <br>
@@ -390,12 +390,12 @@
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">What devices and browsers should my students use for Live Poll?</a>
         <div class="content" id="panel-1-1">
-           Live Poll can be used on a laptop, desktop, chromebook, tablet, iPad, and smartphone.  It works well on all browsers including Chrome, Firefox, Safari, Edge.  In addition, the Canvas app is an option for smartphones and tablets.  Basically, any hardware/software choices that will let students do work in their Canvas course already, will continue to work successfully when they do Live Poll.
+           Live Poll can be used on a laptop, desktop, chromebook, tablet, iPad, and smartphone.  It works well on all browsers including Chrome, Firefox, Safari, and Edge.  In addition, the Canvas app is an option for smartphones and tablets.  Basically, any hardware/software choices that will let students do work in their Canvas course already, will continue to work successfully when they do Live Poll.
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Should students on smartphones and tablets use the Canvas app or a web browser? </a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Should students on smartphones and tablets use the Canvas Student app or a web browser? </a>
         <div class="content" id="panel-3-1">
-          Either will work fine.  The slight advantage of the Canvas app is________.
+          Either will work fine.  The slight advantage of the Canvas Student app is________.
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Should student smartphones use cellular data or FIU WiFi?</a>
