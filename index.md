@@ -292,10 +292,11 @@
           Log into iMathAS and select your course.  The first time it will look like this, and you should create your first assessment by choosing "Copy" under the
           toogle gear for the "Example" assessment already there: <br>
           <img max-width="50%" src="./img/Assessment builder pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
-          This generates a new assessment called "Example (Copy)".  Under its toggle gear select "Settings", and then edit the name of this assessment
-          <img max-width="50%" src="./img/Assessment builder pic 2.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          This generates a new assessment called "Example (Copy)".  Under its toggle gear select "Settings", and then on the next screen you should switch to "Simple View" at the top right, rename the assessment in the box, and set the end date if you want students to review the questions, answers, and their responses after a certain date and time. <br>
           Scroll down below where you will set many settings you can adjust.  The default settings are commonly requested ones.  However, something you may want to adjust now is the ratio of participation to correctness for student responses, by adjusting the slider here: <br>
-          <img max-width="50%" src="./img/Assessment builder pic 3.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          <img max-width="50%" src="./img/Assessment builder pic3 fixed.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          At the bottom of the screen you will see several settings to consider adjusting.
+          <img max-width="50%" src="./img/Assessment builder pic4.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>          
           Once finished hit "Save Changes". <br> <br>
           Now select the questions you want to use for your assessment. Click on "Questions" under the drop-down menu for your assessment:
           <img max-width="50%" src="./img/Writing Questions pic 8.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
@@ -439,7 +440,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-8" aria-expanded="false">How can I change the particpation-correctness grade ratio after an assessment is already over?</a>
       <div class="content" id="panel-2-8">
-        Go into the "Settings" of your assessment at any point and adjust the weight slider under "Grading and Feedback" and then save.  The grades will update instantly, both for students (they need to refresh their browser) and you.
+        This ratio can only be adjusted at a course level, which affects all Live Poll assessments.  Go into the "Live Poll Sync" assessment in your iMathAS course. Click on "Settings", scroll down and under "Grading and Feedback" adjust the slider and then save.  The grades will update instantly, both for students (they need to refresh their browser) and you.
       </div>
     </li>
 </ul>
