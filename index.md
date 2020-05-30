@@ -294,7 +294,7 @@
           <img max-width="50%" src="./img/Assessment builder pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
           This generates a new assessment called "Example (Copy)".  Under its toggle gear select "Settings", and then on the next screen you should switch to "Simple View" at the top right, rename the assessment in the box, and set the end date if you want students to review the questions, answers, and their responses after a certain date and time. <br>
           Scroll down below where you will set many settings you can adjust.  The default settings are commonly requested ones.  However, something you may want to adjust now is the ratio of participation to correctness for student responses, by adjusting the slider here: <br>
-          <img max-width="50%" src="./img/Assessment Builder pic 3 fixed.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          <img max-width="50%" src="./img/Assessment Builder pic3 fixed.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
           At the bottom of the screen you will see several settings to consider adjusting.
           <img max-width="50%" src="./img/Assessment Builder pic4.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
           Once finished hit "Save Changes". <br> <br>
