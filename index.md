@@ -184,7 +184,7 @@
            <img max-width="50%" src="./img/Setting up course name of course pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br> </li>
            <li>Before hitting the "Submit" button, you have several feature types to expand and adjust at the bottom of the screen.  Be careful, as usually the default options are the ones wanted. <br> </li>
            <li>Now find the "Live Poll Sync" assessment and select "Settings".  Do not change any settings with the possible exception of "Participation Weight" under the "Grading and Feedback" tab at the bottom of the page.
-             <br> You have to make a decison for the whole course on how much of the grade for a question you want to come from the student simply participating.  Here is an example setting, namely the slider positioned so that a students get 80% on a question for submitting for answering a question, but never answering it correctly, no matter how many times they can attempt it. <br> </li>
+             <br> <br> You have to make a decison for the whole course on how much of the grade for a question you want to come from the student simply participating.  Here is an example setting, namely the slider positioned so that a students get 80% on a question for attempting it, without ever answering it correctly, no matter how many attempt(s) they are allowed on it. <br> </li>
            <img max-width="50%" src="./img/Live Poll Sync setting pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br> </li>
           </ol>
         </div>
