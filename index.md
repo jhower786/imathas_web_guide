@@ -391,17 +391,10 @@
            Live Poll can be used on a laptop, desktop, chromebook, tablet, iPad, and smartphone.  It works well on all browsers including Chrome, Firefox, Safari, and Edge.  In addition, the Canvas app is an option for smartphones and tablets.  Basically, any hardware/software choices that will let students do work in their Canvas course already, will continue to work successfully when they do Live Poll.
         </div>
     </li>
-<<<<<<< HEAD
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Should students on smartphones and tablets use the Canvas Student app or a web browser? </a>
-        <div class="content" id="panel-3-1">
-          Either will work fine.  The slight advantage of the Canvas Student app is that is logged in all the time, so students have faster access.  Live Poll is easier to use with the app.
-=======
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-2" aria-expanded="false">Should students on smartphones and tablets use the Canvas Student app or a web browser? </a>
         <div class="content" id="panel-2-2">
-          Either will work fine.  The slight advantage of the Canvas Student app is________.
->>>>>>> dfabe2afdfc73905a93481c4c273d9462e9f0c3e
-        </div>
-    </li>
+          Either will work fine.  The slight advantage of the Canvas Student app is that is logged in all the time, so students have faster access.  Live Poll is easier to use with the app. </a>
+
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-3" aria-expanded="false">Should student smartphones use cellular data or FIU WiFi?</a>
         <div class="content" id="panel-2-3">
           Either will work fine, in principle.  Students should connect to FIU_SECUREWiFi over FIU_WiFi, even though FIU_WiFi will often work fine.
