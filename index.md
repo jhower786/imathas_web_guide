@@ -394,10 +394,11 @@
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Should students on smartphones and tablets use the Canvas Student app or a web browser? </a>
         <div class="content" id="panel-2-2">
           Either will work fine.  The slight advantage of the Canvas Student app is that is logged in all the time, so students have faster access.  Live Poll is easier to use with the app. </a>
-
+        </div>
+    </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-3" aria-expanded="false">Should student smartphones use cellular data or FIU WiFi?</a>
         <div class="content" id="panel-2-3">
-          Either will work fine, in principle.  Students should connect to FIU_SECUREWiFi over FIU_WiFi, even though FIU_WiFi will often work fine.
+          Either will work fine, in principle.  Students should connect to FIU_SECUREWiFi over FIU_WiFi, even though FIU_WiFi may work fine.
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-4" aria-expanded="false">How can I make the questions and answers reviewable to students after class?</a>
@@ -464,13 +465,8 @@
         <img max-width="50%" src="./img/Live Poll sync pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
         </div>
     </li>
-<<<<<<< HEAD
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">Where do I find Live Poll if I am using the Canvas Student app?</a>
-        <div class="content" id="panel-2-1">
-=======
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-2" aria-expanded="false">Where do I find Live Poll if I am using the Canvas App?</a>
         <div class="content" id="panel-3-2">
->>>>>>> dfabe2afdfc73905a93481c4c273d9462e9f0c3e
         For iOS do the following: <br>
         1) Enter your class in Canvas <br>
         <img max-width="50%" src="./img/App pic1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
@@ -500,7 +496,7 @@
         be unable to review the questions, even if your insturctor enables student review. <br>
         </div>
     </li>
-</ul>
+
 
 
 
