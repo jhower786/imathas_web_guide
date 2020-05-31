@@ -183,6 +183,8 @@
            <li>Make a unique course name, specific to your course.  Avoid verbatim use of a course name that already exists.  Leave the "Enrollment key" box empty, it will never be needed. <br>
            <img max-width="50%" src="./img/Setting up course name of course pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br> </li>
            <li>Before hitting the "Submit" button, you have several feature types to expand and adjust at the bottom of the screen.  Be careful, as usually the default options are the ones wanted. <br> </li>
+           <li>Now find the "Live Poll Sync" assessment and select "Settings" <br>
+           <img max-width="50%" src="./img/Setting up course Live Poll Sync Settings.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br> </li>
           </ol>
         </div>
     </li>
