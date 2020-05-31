@@ -442,7 +442,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-8" aria-expanded="false">How can I change the particpation-correctness grade ratio after an assessment is already over?</a>
       <div class="content" id="panel-2-8">
-        This ratio can only be adjusted at a course level, which affects all Live Poll assessments.  Go into the "Live Poll Sync" assessment in your iMathAS course. Click on "Settings", scroll down and under "Grading and Feedback" adjust the slider and then save.  The grades will update instantly, both for students (they need to refresh their browser) and you.
+        This ratio can only be adjusted at a course level, which affects all Live Poll assessments.  Go into the "Live Poll Sync" assessment in your iMathAS course. Click on "Settings", scroll down and under "Grading and Feedback" adjust the slider and then save.  The grades will update automatically the next time you run live poll in class, to update sooner simply go into your Canvas course and click on "Live Poll Sync" followed by clicking on the button called "Iniaite Grade Sync", the grades will be updated within minutes. <br>
       </div>
     </li>
 </ul>
