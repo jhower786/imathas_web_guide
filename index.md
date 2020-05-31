@@ -440,9 +440,9 @@
       <i> Note: Geofencing does not work necessarily for studnets on a laptop, so consider directing any such students in your class to swtich and use their smartphone for these questions.    </i>
       </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-8" aria-expanded="false">How can I change the particpation-correctness grade ratio after an assessment is already over?</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-8" aria-expanded="false">How can I change the participation-correctness grade ratio after an assessment is already over?</a>
       <div class="content" id="panel-2-8">
-        This ratio can only be adjusted at a course level, which affects all Live Poll assessments.  Go into the "Live Poll Sync" assessment in your iMathAS course. Click on "Settings", scroll down and under "Grading and Feedback" adjust the slider and then save.  The grades will update automatically the next time you run live poll in class, to update sooner simply go into your Canvas course and click on "Live Poll Sync" followed by clicking on the button called "Iniaite Grade Sync", the grades will be updated within minutes. <br>
+        This ratio can only be adjusted at a course level, which affects all Live Poll assessments.  Go into the "Live Poll Sync" assessment in your iMathAS course. Click on "Settings", scroll down and under "Grading and Feedback" adjust the slider as desired and then save.  The grades will update automatically after the next time you run Live Poll in class.  To update sooner, simply go into your Canvas course and click on "Live Poll Sync" followed by clicking on the button called "Initiate Grade Sync", the grades will be updated within 5 minutes. <br>
       </div>
     </li>
 </ul>
