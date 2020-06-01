@@ -393,7 +393,7 @@
            Live Poll can be used on a laptop, desktop, chromebook, tablet, iPad, and smartphone.  It works well on all browsers including Chrome, Firefox, Safari, and Edge.  In addition, the Canvas app is an option for smartphones and tablets.  Basically, any hardware/software choices that will let students do work in their Canvas course already, will continue to work successfully when they do Live Poll.
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Should students on smartphones and tablets use the Canvas Student app or a web browser? </a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-2" aria-expanded="false">Should students on smartphones and tablets use the Canvas Student app or a web browser? </a>
         <div class="content" id="panel-2-2">
           Either will work fine.  The slight advantage of the Canvas Student app is that is logged in all the time, so students have faster access.  Live Poll is easier to use with the app. </a>
         </div>
