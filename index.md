@@ -171,15 +171,15 @@
           <ol Type="1">
            <li>After signing into iMathAS here: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> scroll down and click on "Add New Course".   <br>
            <img max-width="50%" src="./img/Setting up course pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; width: 80%; display: block"> <br> <br> </li>
-           <li>You must create a separate iMathAS course for each section you teach.  Always have these courses uniquely named. <br> </li>
-           <li>Select “Copy from my, a colleague's, or template course” , then select “Template Courses” followed by selecting “Live Poll SHELL”. <br>
+           <li>You must create a separate iMathAS course for each section you teach.  Always have these courses uniquely named. <br> <br> </li>
+           <li>Select “Copy from my, a colleague's, or template course” , then select “Template Courses” followed by selecting “Live Poll SHELL”. <br> <br>
            <i>Note: This method is very useful as it guarantees Live Poll Sync is set up and does not need to be modified. </i> <br>
-           <img max-width="50%" src="./img/Setting up course Copy template pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br> </li>
+           <img max-width="50%" src="./img/Setting up course Copy template pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br> <br> </li>
            <li>Make a unique course name, specific to your course.  Avoid verbatim use of a course name that already exists.  Leave the "Enrollment key" box empty, it will never be needed. <br>
-           <img max-width="50%" src="./img/Setting up course name of course pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br> </li>
-           <li>Before hitting the "Submit" button, you have several feature types to expand and adjust at the bottom of the screen.  Be careful, as usually the default options are the ones wanted. <br> </li>
-           <li>Now find the "Live Poll Sync" assessment and select "Settings".  Do not change any settings with the possible exception of "Participation Weight" under the "Grading and Feedback" tab at the bottom of the page.
-             <br> <br> You have to make a decison for the whole course on how much of the grade for a question you want to come from the student simply participating.  Here is an example setting, namely the slider positioned so that a students get 80% on a question for attempting it, without ever answering it correctly, no matter how many attempt(s) they are allowed on it. <br> </li>
+           <img max-width="50%" src="./img/Setting up course name of course pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br> <br> </li>
+           <li>Before hitting the "Submit" button, you have several feature types to expand and adjust at the bottom of the screen.  Be careful, as usually the default options are the ones wanted. <br> <br> </li>
+           <li>Now find the "Live Poll Sync" assessment and select "Settings".  Do not change any settings with the possible exception of "Participation Weight" under the "Grading and Feedback" tab at the bottom of the page. <br>
+               You have to make a decison for the whole course on how much of the grade for a question you want to come from the student simply participating.  Here is an example setting, namely the slider positioned so that a students get 80% on a question for attempting it, without ever answering it correctly, no matter how many attempt(s) they are allowed on it. <br> </li>
            <img max-width="50%" src="./img/Live Poll Sync setting pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
           </ol>
         </div>
