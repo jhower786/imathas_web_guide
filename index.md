@@ -170,7 +170,7 @@
         <div class="content" id="panel-1-2">
           <ol Type="1">
            <li>After signing into iMathAS here: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> scroll down and click on "Add New Course".   <br>
-           <img max-width="50%" src="./img/Setting up course pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br> </li>
+           <img max-width="50%" src="./img/Setting up course pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; width: 50%; display: block"> <br> <br> </li>
            <li>You must create a separate iMathAS course for each section you teach.  Always have these courses uniquely named. <br> </li>
            <li>Select “Copy from my, a colleague's, or template course” , then select “Template Courses” followed by selecting “Live Poll SHELL”. <br>
            <i>Note: This method is very useful as it guarantees Live Poll Sync is set up and does not need to be modified. </i> <br>
