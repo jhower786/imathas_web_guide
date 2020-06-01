@@ -170,17 +170,17 @@
         <div class="content" id="panel-1-2">
           <ol Type="1">
            <li>After signing into iMathAS here: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> scroll down and click on "Add New Course".   <br>
-           <img max-width="50%" src="./img/Setting up course pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; width: 80%; display: block"> <br> <br> </li>
+           <img class="livepollimg" src="./img/Setting up course pic 1.png" alt="sample picture"> <br> <br> </li>
            <li>You must create a separate iMathAS course for each section you teach.  Always have these courses uniquely named. <br> <br> </li>
            <li>Select “Copy from my, a colleague's, or template course” , then select “Template Courses” followed by selecting “Live Poll SHELL”.  <br>
            <i>Note: This method is very useful as it guarantees Live Poll Sync is set up and does not need to be modified. </i> <br>
-           <img max-width="50%" src="./img/Setting up course Copy template pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br> <br> </li>
+           <img class="livepollimg" src="./img/Setting up course Copy template pic.png" alt="sample picture" > <br> <br> </li>
            <li>Make a unique course name, specific to your course.  Avoid verbatim use of a course name that already exists.  Leave the "Enrollment key" box empty, it will never be needed. <br>
-           <img max-width="50%" src="./img/Setting up course name of course pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br> <br> </li>
+           <img class="livepollimg" src="./img/Setting up course name of course pic.png" alt="sample picture" > <br> <br> </li>
            <li>Before hitting the "Submit" button, you have several feature types to expand and adjust at the bottom of the screen.  Be careful, as usually the default options are the ones wanted. <br> <br> </li>
            <li>Now find the "Live Poll Sync" assessment and select "Settings".  Do not change any settings with the possible exception of "Participation Weight" under the "Grading and Feedback" tab at the bottom of the page. <br> <br>
                You have to make a decison for the whole course on how much of the grade for a question you want to come from the student simply participating.  Here is an example setting, namely the slider positioned so that a students get 80% on a question for attempting it, without ever answering it correctly, no matter how many attempt(s) they are allowed on it. <br> </li>
-           <img max-width="50%" src="./img/Live Poll Sync setting pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+           <img class="livepollimg" src="./img/Live Poll Sync setting pic.png" alt="sample picture" > <br>
           </ol>
         </div>
     </li>
@@ -228,58 +228,58 @@
           <ol Type="1">
           <li>Log into iMathAS. <br> </li>
           <li> In the left column click on "Manage" under Questions: <br> </li>
-          <img max-width="50%" src="./img/Writing Questions pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          <img class="livepollimg" src="./img/Writing Questions pic 1.png" alt="sample picture" > <br>
           At the top click on "Select Libraries"
-          <img max-width="50%" src="./img/Screen Shot 2020-05-29 at 2.30.27 AM.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          <img class="livepollimg" src="./img/Screen Shot 2020-05-29 at 2.30.27 AM.png" alt="sample picture" > <br>
           Check the box for "General Templates" and click "Use Libraries"
-          <img max-width="50%" src="./img/Writing Questions pic 3.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          <img class="livepollimg" src="./img/Writing Questions pic 3.png" alt="sample picture" > <br>
           Click on "Search" while leaving the search box empty.
           You will see a list of questions that you can use as templates including <br>
           A) Multiple Choice with four or five alternatives
-          <img max-width="50%" src="./img/Writing Questions pic 5.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          <img class="livepollimg" src="./img/Writing Questions pic 5.png" alt="sample picture" > <br>
           B) Questions of various answer formats
-          <img max-width="50%" src="./img/Writing Questions pic 4.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          <img class="livepollimg" src="./img/Writing Questions pic 4.png" alt="sample picture" > <br>
           To use of one these types to build your own custom question, identify the question and from the Action drop-down menu select "Template (copy)"
-          <img max-width="50%" src="./img/Writing Questions pic 6.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          <img class="livepollimg" src="./img/Writing Questions pic 6.png" alt="sample picture" > <br>
           The "Writing Questions Help" and "Macro Library Help" links will assist you in understanding the different components of writing your question.
-          <img max-width="50%" src="./img/Writing Question pic 7 .png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          <img class="livepollimg" src="./img/Writing Question pic 7 .png" alt="sample picture" > <br>
           </ol>
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-5" aria-expanded="false">Example: Writing a custom multiple-choice question</a>
       <div class="content" id="panel-1-5">
        1) Click on the arrow to the right of the assignment and select "Questions" from the drop-down menu <br>
-       <img max-width="50%" src="./img/Custom pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+       <img class="livepollimg" src="./img/Custom pic 1.png" alt="sample picture" >
        2)	Click on “Add New Question” <br>
-       <img max-width="50%" src="./img/Custom pic 2.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+       <img class="livepollimg" src="./img/Custom pic 2.png" alt="sample picture" >
        3)	Click on “Tutorial Style Editor” <br>
-       <img max-width="50%" src="./img/Custom pic 3.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+       <img class="livepollimg" src="./img/Custom pic 3.png" alt="sample picture" >
        4)	In “Description” write the name of the question <br>
        5)	In “Use Rights” we suggest changing it “Allow use , use as template, no modifications” <br>
        6)	Enter in the multiple-choice answers.  You can click on the “E” next to each answer to get the math type editor <br>
        7)	Under "Question Text" enter in the text of the question <br>
           a.	To add math type, click on the "Add New Math" button <br>
           You can also use the link: http://www1.chapman.edu/~jipsen/mathml/asciimathsyntax.html to find a list of some of the available mathtype options. <br>
-          <img max-width="50%" src="./img/Custom pic 4.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+          <img class="livepollimg" src="./img/Custom pic 4.png" alt="sample picture" >
           b.	To add a picture, click on "Insert" and then “Image” <br>
-          <img max-width="50%" src="./img/Custom pic 5.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+          <img class="livepollimg" src="./img/Custom pic 5.png" alt="sample picture" >
        8)	On the bottom, select “Save and Test”.  The problem will pop up in an alternate window <br>
        9)	Click on “Add/Remove Questions” at the topic to get back to your assessment <br>
-       <img max-width="50%" src="./img/Custom pic 6.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+       <img class="livepollimg" src="./img/Custom pic 6.png" alt="sample picture" >
        10) If you do not see your question listed in the list below, you may need to change the library.  Click on "Select Libraries" which will pull up a box that will allow you to select the library in which you stored your problem <br>
-       <img max-width="50%" src="./img/Custom pic 7.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+       <img class="livepollimg" src="./img/Custom pic 7.png" alt="sample picture" >
 
        11) Click on “Use Libraries” once you have checked the box next to the correct library <br>
-       <img max-width="50%" src="./img/Custom pic 8.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+       <img class="livepollimg" src="./img/Custom pic 8.png" alt="sample picture" >
 
        12) Check the box next to the question that you want to add and then click "Add (using defaults)" <br>
-       <img max-width="50%" src="./img/Custom pic 9.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+       <img class="livepollimg" src="./img/Custom pic 9.png" alt="sample picture" >
 
        13) You can reorder the questions by click on the drop down next to the question and changing the Question Number <br>
-       <img max-width="50%" src="./img/Custom pic 10.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+       <img class="livepollimg" src="./img/Custom pic 10.png" alt="sample picture" >
 
        14)	You can remove a question by checking the box next to it and selecting “Remove” <br>
-       <img max-width="50%" src="./img/Custon pic 11.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+       <img class="livepollimg" src="./img/Custon pic 11.png" alt="sample picture" >
 
        15)	When you are finished, select “Done” <br>
       </div>
@@ -291,18 +291,18 @@
         <div class="content" id="panel-1-6">
           Log into iMathAS and select your course.  The first time it will look like this, and you should create your first assessment by choosing "Copy" under the
           toogle gear for the "Example" assessment already there: <br>
-          <img max-width="50%" src="./img/Assessment builder pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          <img class="livepollimg" src="./img/Assessment builder pic 1.png" alt="sample picture" > <br>
           This generates a new assessment called "Example (Copy)".  Under its toggle gear select "Settings", and then on the next screen you should switch to "Simple View" at the top right, rename the assessment in the box, and set the end date if you want students to review the questions, answers, and their responses after a certain date and time. <br>
-          <img max-width="50%" src="./img/Assessment Builder pic3 fixed.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          <img class="livepollimg" src="./img/Assessment Builder pic3 fixed.png" alt="sample picture" > <br>
           At the bottom of the screen you will see several settings to consider adjusting.
-          <img max-width="50%" src="./img/Assessment Builder pic4.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          <img class="livepollimg" src="./img/Assessment Builder pic4.png" alt="sample picture" > <br>
           Once finished hit "Save Changes". <br> <br>
           Now select the questions you want to use for your assessment. Click on "Questions" under the drop-down menu for your assessment:
-          <img max-width="50%" src="./img/Writing Questions pic 8.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          <img class="livepollimg" src="./img/Writing Questions pic 8.png" alt="sample picture" > <br>
           Then use the "Search" features to locate the questions you want to add.
-          <img max-width="50%" src="./img/Writing Questions pic 9.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          <img class="livepollimg" src="./img/Writing Questions pic 9.png" alt="sample picture" > <br>
           After adding your questions hit "Done"
-          <img max-width="50%" src="./img/Writing Questions pic 10.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+          <img class="livepollimg" src="./img/Writing Questions pic 10.png" alt="sample picture" > <br>
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-7" aria-expanded="false">Running a Live Poll session during class</a>
@@ -317,7 +317,7 @@
 
 
   This will take you directly to iMathAS. <br>
-  <img max-width="50%" src="./img/Running Guide Item 3 Live Poll Link pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+  <img class="livepollimg" src="./img/Running Guide Item 3 Live Poll Link pic.png" alt="sample picture" >
 
   4)	Your first time using the Live Poll during the course you will see the following screen: <br>
 
@@ -325,17 +325,17 @@
 
   If you find that your course is linked to the wrong course in iMathAS, click on ‘Change Course Link’.  This will allow you to choose the correct course. <br>
 
-<img max-width="50%" src="./img/Running Guide Item 4 pi4 fixed again.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+<img class="livepollimg" src="./img/Running Guide Item 4 pi4 fixed again.png" alt="sample picture" >
   5)	Choose the assessment that you want and click "Make Placement". <br>
 
-<img max-width="50%" src="./img/Running Guide Item pic5 fixed.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+<img class="livepollimg" src="./img/Running Guide Item pic5 fixed.png" alt="sample picture" >
 
   6)	Announce to your students that they should now log into Canvas and access the Live Poll.  If they do so before you click "Make Placement", then they will need to click on the Live Poll link again in Canvas. <br>
 
   7)	Assuming that the assessment is ready to go, click on "Preview Assessment". <br>
 
   This will take you directly to the question in iMathAS. <br>
-<img max-width="50%" src="./img/Running Guide Item pic7 fixed.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+<img class="livepollimg" src="./img/Running Guide Item pic7 fixed.png" alt="sample picture" >
 
   8)	The assessments have three default settings: <br>
   a.	Show question on this computer before it is available to students – this allows you to see the question and verify it for yourself before the students see it. <br>
@@ -343,29 +343,29 @@
   c.	Show answers automatically after closing the assessment – this shows the students whether or not their answer is correct as well as the correct answer on their screens.<br>
 
   9)	If you wish the question to have a time limit, you will need to check "Use per-question time limit" and set the time you wish. If selected, students will see the time running out on their screens during the assessment.  Note: the default is to not have a time limit for the question. <br>
-  <img max-width="50%" src="./img/Running Guide Item 9 pic Timer.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+  <img class="livepollimg" src="./img/Running Guide Item 9 pic Timer.png" alt="sample picture" >
 
 
   10)	If you wish to see the student results as the students select their options while the assessment is still open, check "Show results on this computer as students submit answers". <br>
-  <img max-width="50%" src="./img/Running Guide Item 10 pic Student Results.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+  <img class="livepollimg" src="./img/Running Guide Item 10 pic Student Results.png" alt="sample picture" >
 
 
   11)	Select the question that you want from the left-hand side under "Questions". This will open up the question for you. You can do the questions in any order you like. <br>
-  <img max-width="50%" src="./img/Running Guide Item 11 pic Question 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+  <img class="livepollimg" src="./img/Running Guide Item 11 pic Question 1.png" alt="sample picture" >
 
 
   12)	To start the assessment and have it shown to students, click on "Start Assessment".  This will send the assessment to all of the students’ screens. You will be able to see the time running on the upper right-hand side.  Note: if you have students that cannot see the question, have them refresh the page or click on the Live Poll link again in Canvas. <br>
-  <img max-width="50%" src="./img/Running Guide Item 12 Start Assessment pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+  <img class="livepollimg" src="./img/Running Guide Item 12 Start Assessment pic.png" alt="sample picture" >
 
 
 
   13)	To close the quiz, click on "Stop Assessment".  <br>
-  <img max-width="50%" src="./img/Running Guide Item 13 pic Stop Assessment.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+  <img class="livepollimg" src="./img/Running Guide Item 13 pic Stop Assessment.png" alt="sample picture" >
 
 
 
   14)	To do another question from the assessment, click on the new question to load it and then repeat the "Start Assessment"—->"Stop Assessment" cycle, just as in the earlier question. <br>
-    <img max-width="50%" src="./img/Running Guide item 14.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+    <img class="livepollimg" src="./img/Running Guide item 14.png" alt="sample picture" >
 
   15)	When finished asking all the questions you want to from this assessment, you have two options: <br>
   •	If you are done using Live Poll for the class meeting, then simply navigate away within Canvas as you like. <br>
@@ -406,7 +406,7 @@
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-4" aria-expanded="false">How can I make the questions and answers reviewable to students after class?</a>
         <div class="content" id="panel-2-4">
           Adjust the settings at the assessment level to accomplish this.  As long as the assessment is available and the answers are open to review in the gradebook it will work, as shown here, under the "Settings" selection for the specific assessment:
-          <img max-width="50%" src="./img/FAQ Instructor review answers pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block">
+          <img class="livepollimg" src="./img/FAQ Instructor review answers pic.png" alt="sample picture" >
           Instruct students to click on _______ to see the questions, answers, and moreover their actual responses to the questions that compose the assessment.
         </div>
     </li>
@@ -423,11 +423,11 @@
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-7" aria-expanded="false">How can the answering of Live Poll questions be restricted to only students who are physically present in class?</a>
       <div class="content" id="panel-2-7">
       Adjust the settings at the assessment level to accomplish this.  Under the  "Settings" selection, first ensure you are in the "Simple View" as shown here: <br>
-      <img max-width="50%" src="./img/FAQ Geofencing pic 1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+      <img class="livepollimg" src="./img/FAQ Geofencing pic 1.png" alt="sample picture" > <br>
       Then, at the bottom of the screen you have four options under the drop-down box. <br>
-      <img max-width="50%" src="./img/FAQ Geofencing pic 2.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+      <img class="livepollimg" src="./img/FAQ Geofencing pic 2.png" alt="sample picture" > <br>
       Only the "Custom Location" option will allow you to move the blue center marker and adjust the radius.  Here is what geofencing to PG6 looks like: <br>
-      <img max-width="50%" src="./img/FAQ Geofencing pic 3.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+      <img class="livepollimg" src="./img/FAQ Geofencing pic 3.png" alt="sample picture" > <br>
       <i> Note: Geofencing does not work necessarily for studnets on a laptop, so consider directing any such students in your class to swtich and use their smartphone for these questions.    </i>
       </div>
     </li>
@@ -464,32 +464,32 @@
         <div class="content" id="panel-3-1">
         If there is any chance you have never clicked on the "Live Poll Sync" button then do so now, by selecting your course in Canvas, and then selecting "Modules" followed
         by scrolling down until you see "Live Poll Sync", which you then click on: <br>
-        <img max-width="50%" src="./img/Live Poll sync pic.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+        <img class="livepollimg" src="./img/Live Poll sync pic.png" alt="sample picture" > <br>
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-2" aria-expanded="false">Where do I find Live Poll if I am using the Canvas App?</a>
         <div class="content" id="panel-3-2">
         For iOS do the following: <br>
         1) Enter your class in Canvas <br>
-        <img max-width="50%" src="./img/App pic1.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+        <img class="livepollimg" src="./img/App pic1.png" alt="sample picture" > <br>
         2) Click on "Modules" followed by "Student Resources", to reach this screen: <br>
-        <img max-width="50%" src="./img/App pic2.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+        <img class="livepollimg" src="./img/App pic2.png" alt="sample picture" > <br>
         3) Click on "Live Poll", to reach this screen <br>
-        <img max-width="50%" src="./img/App pic3.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+        <img class="livepollimg" src="./img/App pic3.png" alt="sample picture" > <br>
         4) After clicking on "Launch External Tool" you want to allow use of your current location by selecting "OK" <br>
-        <img max-width="50%" src="./img/App pic4.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+        <img class="livepollimg" src="./img/App pic4.png" alt="sample picture" > <br>
         <br> <br>
         For Android do the following: <br>
         1) Enter your class in Canvas <br>
-        <img max-width="50%" src="./img/App pic5.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+        <img class="livepollimg" src="./img/App pic5.png" alt="sample picture" > <br>
         2) After clicking on "Modules" you will see this screen, where you click on "Live Poll" <br>
-        <img max-width="50%" src="./img/App pic7.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+        <img class="livepollimg" src="./img/App pic7.png" alt="sample picture" > <br>
         3) The next screen looks like this and you then select "OK": <br>
-        <img max-width="50%" src="./img/App pic8.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+        <img class="livepollimg" src="./img/App pic8.png" alt="sample picture" > <br>
         4) Select the circled icon to open the page in an external browser:
-        <img max-width="50%" src="./img/App pic10.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+        <img class="livepollimg" src="./img/App pic10.png" alt="sample picture" > <br>
         5) If asked for location permission, select "Allow use of Location."  Live Poll is then loaded and the screen looks like: <br>
-        <img max-width="50%" src="./img/App pic11.png" alt="sample picture" style="margin-left: auto; margin-right: auto; display: block"> <br>
+        <img class="livepollimg" src="./img/App pic11.png" alt="sample picture" > <br>
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-3" aria-expanded="false">How do I review the Live Poll questions and answers after class?</a>
