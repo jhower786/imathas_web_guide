@@ -419,7 +419,7 @@
        It is recommended that you leave them alone, unless you think it will reduce student confusion.  The unused questions have no effect on the grade generated for the assessment, so withdrawing them is not needed. <br>
       </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-7" aria-expanded="false">How can the answering of Live Poll questions be restricted to only students who are physically present in class?</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-7" aria-expanded="false">How can the answering of Live Poll questions be restricted to only the students who are physically present in class?</a>
       <div class="content" id="panel-2-7">
       Adjust the settings at the assessment level to accomplish this.  Under the  "Settings" selection, first ensure you are in the "Simple View" as shown here: <br>
       <img class="livepollimg" src="./img/FAQ Geofencing pic 1.png" alt="sample picture" > <br>
