@@ -443,12 +443,13 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-10" aria-expanded="false">What is Live Poll Sync and is it required?</a>
       <div class="content" id="panel-2-10">
-        This ratio can only be adjusted at a course level, which affects all Live Poll assessments.  Go into the "Live Poll Sync" assessment in your iMathAS course. Click on "Settings", scroll down and under "Grading and Feedback" adjust the slider as desired and then save.  The grades will update automatically after the next time you run Live Poll in class.  To update sooner, simply go into your Canvas course and click on "Live Poll Sync" followed by clicking on the button called "Initiate Grade Sync", the grades will be updated within 5 minutes. <br>
+        Yes, Live Poll Sync must be installed if you want the assessments to count for any sort of grade. <br>
       </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-11" aria-expanded="false">What is IMathAS?</a>
       <div class="content" id="panel-2-11">
-        The Live Poll for Canvas is run by the open-source platfrom IMathAS.  For more information go here: <a href="http://www.imathas.com">IMathAS Main Page</a> <br> <br>
+        The Live Poll for Canvas is run by the open-source platfrom IMathAS.  <br> <br>
+        For more information go here: <a href="http://www.imathas.com">IMathAS Main Page</a> <br> <br>
       </div>
     </li>
 </ul>
