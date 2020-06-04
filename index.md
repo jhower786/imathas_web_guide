@@ -229,11 +229,11 @@
           <li>Log into iMathAS. <br> <br> </li>
           <li> In the left column click on "Manage" under Questions: <br> </li>
           <img class="livepollimg" src="./img/Writing Questions pic 1.png" alt="sample picture" > <br>
-          <li> At the top click on "Select Libraries": <li>
+          <li> At the top click on "Select Libraries": </li>
           <img class="livepollimg" src="./img/Screen Shot 2020-05-29 at 2.30.27 AM.png" alt="sample picture" > <br>
-          <li> Check the box for "General Templates" and click "Use Libraries" <li>
+          <li> Check the box for "General Templates" and click "Use Libraries" </li>
           <img class="livepollimg" src="./img/Writing Questions pic 3.png" alt="sample picture" > <br>
-          <li> Click on "Search" while leaving the search box empty. <li>
+          <li> Click on "Search" while leaving the search box empty. </li>
           You will see a list of questions that you can use as templates including <br>
           A) Multiple Choice with four or five alternatives
           <img class="livepollimg" src="./img/Writing Questions pic 5.png" alt="sample picture" > <br>
