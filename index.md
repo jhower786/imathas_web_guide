@@ -169,7 +169,7 @@
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-2" aria-expanded="false">Setting up your Live Poll course</a>
         <div class="content" id="panel-1-2">
           <ol Type="1">
-           <li>After signing into iMathAS here: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> scroll down and click on "Add New Course".   <br>
+           <li>After signing into iMathAS here: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> scroll down and click on "Add New Course":   <br>
            <img class="livepollimg" src="./img/Setting up course pic 1.png" alt="sample picture"> <br> <br> </li>
            <li>You must create a separate iMathAS course for each section you teach.  Always have these courses uniquely named. <br> <br> </li>
            <li>Select “Copy from my, a colleague's, or template course” , then select “Template Courses” followed by selecting “Live Poll SHELL”.  <br>
@@ -226,14 +226,14 @@
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-4" aria-expanded="false">Writing your own custom Live Poll questions</a>
         <div class="content" id="panel-1-4">
           <ol Type="1">
-          <li>Log into iMathAS. <br> </li>
+          <li>Log into iMathAS. <br> <br> </li>
           <li> In the left column click on "Manage" under Questions: <br> </li>
           <img class="livepollimg" src="./img/Writing Questions pic 1.png" alt="sample picture" > <br>
-          At the top click on "Select Libraries"
+          <li> At the top click on "Select Libraries": <li>
           <img class="livepollimg" src="./img/Screen Shot 2020-05-29 at 2.30.27 AM.png" alt="sample picture" > <br>
-          Check the box for "General Templates" and click "Use Libraries"
+          <li> Check the box for "General Templates" and click "Use Libraries" <li>
           <img class="livepollimg" src="./img/Writing Questions pic 3.png" alt="sample picture" > <br>
-          Click on "Search" while leaving the search box empty.
+          <li> Click on "Search" while leaving the search box empty. <li>
           You will see a list of questions that you can use as templates including <br>
           A) Multiple Choice with four or five alternatives
           <img class="livepollimg" src="./img/Writing Questions pic 5.png" alt="sample picture" > <br>
@@ -248,11 +248,11 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-5" aria-expanded="false">Example: Writing a custom multiple-choice question</a>
       <div class="content" id="panel-1-5">
-       1) Click on the arrow to the right of the assignment and select "Questions" from the drop-down menu <br>
+       1) Click on the arrow to the right of the assignment and select "Questions" from the drop-down menu: <br>
        <img class="livepollimg" src="./img/Custom pic 1.png" alt="sample picture" >
-       2)	Click on “Add New Question” <br>
+       2)	Click on “Add New Question”: <br>
        <img class="livepollimg" src="./img/Custom pic 2.png" alt="sample picture" >
-       3)	Click on “Tutorial Style Editor” <br>
+       3)	Click on “Tutorial Style Editor”: <br>
        <img class="livepollimg" src="./img/Custom pic 3.png" alt="sample picture" >
        4)	In “Description” write the name of the question <br>
        5)	In “Use Rights” we suggest changing it “Allow use , use as template, no modifications” <br>
