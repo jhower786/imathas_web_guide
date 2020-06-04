@@ -406,7 +406,7 @@
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-4" aria-expanded="false">How can I make the questions and answers reviewable to students after class?</a>
         <div class="content" id="panel-2-4">
           Adjust the settings at the assessment level to accomplish this.  As long as the assessment is available and the answers are open to review in the gradebook it will work, as shown here, under the "Settings" selection for the specific assessment:
-          <img class="livepollimg" src="./img/FAQ Instructor review answers pic.png" alt="sample picture" >
+          <img class="livepollimg" src="./img/FAQ Review Answer pic fixed.png" alt="sample picture" >
           Instruct students to click on _______ to see the questions, answers, and moreover their actual responses to the questions that compose the assessment.
         </div>
     </li>
