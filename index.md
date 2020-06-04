@@ -146,7 +146,7 @@
 
   <h2>What is Live Poll?</h2>
   <ul class="accordion" data-accordion="">
-    Live Poll is a digital quizzing and attendance tool that is free for students and faculty.  It integrates seamlessly with Canvas for any FIU course and can geofence polling to any location on campus.  Live Poll allows faculty to give both formative and summative assessments with many answer formats available such as multiple-choice, essay, file upload, matching, multiple-answer and more.
+    Live Poll is a digital quizzing and attendance tool that is free for students and faculty.  It integrates seamlessly with Canvas for any FIU course and can geofence polling to any location on campus.  Live Poll allows faculty to give both formative and summative assessments with many answer formats available such as multiple-choice, essay, file upload, matching, multiple-answer, function and more.
     <br> <br>
 
 
@@ -233,8 +233,7 @@
           <img class="livepollimg" src="./img/Screen Shot 2020-05-29 at 2.30.27 AM.png" alt="sample picture" > <br>
           <li> Check the box for "General Templates" and click "Use Libraries" </li>
           <img class="livepollimg" src="./img/Writing Questions pic 3.png" alt="sample picture" > <br>
-          <li> Click on "Search" while leaving the search box empty. </li>
-          You will see a list of questions that you can use as templates including <br>
+          <li> Click on "Search" while leaving the search box empty. You will then see a list of questions that you can use as templates including: <br> </li>
           A) Multiple Choice with four or five alternatives
           <img class="livepollimg" src="./img/Writing Questions pic 5.png" alt="sample picture" > <br>
           B) Questions of various answer formats
