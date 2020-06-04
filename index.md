@@ -355,12 +355,12 @@
 
 
   12)	To start the assessment and have it shown to students, click on "Start Assessment".  This will send the assessment to all of the students’ screens. You will be able to see the time running on the upper right-hand side.  Note: if you have students that cannot see the question, have them refresh the page or click on the Live Poll link again in Canvas. <br>
-  <img class="livepollimg" src="./img/Running Guide Item 12 Start Assessment pic.png" alt="sample picture" >
+  <img class="livepollimg" src="./img/Running Guide pic12.png" alt="sample picture" >
 
 
 
   13)	To close the quiz, click on "Stop Assessment".  <br>
-  <img class="livepollimg" src="./img/Running Guide Item 13 pic Stop Assessment.png" alt="sample picture" >
+  <img class="livepollimg" src="./img/Running Guide pic13.png" alt="sample picture" >
 
 
 
