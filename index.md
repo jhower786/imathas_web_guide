@@ -343,15 +343,15 @@
   c.	Show answers automatically after closing the assessment – this shows the students whether or not their answer is correct as well as the correct answer on their screens.<br>
 
   9)	If you wish the question to have a time limit, you will need to check "Use per-question time limit" and set the time you wish. If selected, students will see the time running out on their screens during the assessment.  Note: the default is to not have a time limit for the question. <br>
-  <img class="livepollimg" src="./img/Running Guide Item 9 pic Timer.png" alt="sample picture" >
+  <img class="livepollimg" src="./img/Running Guide pic9.png" alt="sample picture" >
 
 
   10)	If you wish to see the student results as the students select their options while the assessment is still open, check "Show results on this computer as students submit answers". <br>
-  <img class="livepollimg" src="./img/Running Guide Item 10 pic Student Results.png" alt="sample picture" >
+  <img class="livepollimg" src="./img/Running Guide pic10.png" alt="sample picture" >
 
 
   11)	Select the question that you want from the left-hand side under "Questions". This will open up the question for you. You can do the questions in any order you like. <br>
-  <img class="livepollimg" src="./img/Running Guide Item 11 pic Question 1.png" alt="sample picture" >
+  <img class="livepollimg" src="./img/Running Guide pic11.png" alt="sample picture" >
 
 
   12)	To start the assessment and have it shown to students, click on "Start Assessment".  This will send the assessment to all of the students’ screens. You will be able to see the time running on the upper right-hand side.  Note: if you have students that cannot see the question, have them refresh the page or click on the Live Poll link again in Canvas. <br>
