@@ -443,7 +443,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-10" aria-expanded="false">What is Live Poll Sync and is it required?</a>
       <div class="content" id="panel-2-10">
-        Yes, Live Poll Sync must be installed if you want the assessments you run to count for any sort of student grade, even for partcipation.  Students need to click on the Live Poll Sync link in Canvas once during the course.  As soon as they do that their Live Poll grades will sync to the canvas gradebook, including any assessments they answered before clicking the button. <br>
+        Yes, Live Poll Sync must be added by you in Canvas if you want the assessments you run to count for any sort of student grade, even for partcipation.  Students need to click on the Live Poll Sync link in Canvas only once during the course.  As soon as they do that their Live Poll grades will sync to the canvas gradebook, including any assessments they answered before clicking the button. <br>
       </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-11" aria-expanded="false">What is IMathAS?</a>
