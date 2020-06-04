@@ -186,9 +186,9 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-3" aria-expanded="false">Connecting your Live Poll course to Canvas</a>
         <div class="content" id="panel-1-3">
-          You will need to install two different links in Canvas in order to get Live Poll up and running. <br>
+          You will need to install two different links in Canvas in order to get Live Poll up and running. <br> <br>
          <ol Type="1">
-          Step 1: First you will need to set up the actual Live Poll. <br>
+          Step 1: First you will need to set up the actual Live Poll: <br>
          <li>	Go to your course in Canvas and click on "Modules" on the left <br> </li>
          <li> Find the Module marked “Student Resources" and click the arrow to expand it. <br> </li>
          <li> Click on the + sign <br> </li>
@@ -443,7 +443,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-10" aria-expanded="false">What is Live Poll Sync and is it required?</a>
       <div class="content" id="panel-2-10">
-        Yes, Live Poll Sync must be installed if you want the assessments to count for any sort of grade. <br>
+        Yes, Live Poll Sync must be installed if you want the assessments you run to count for any sort of student grade, even for partcipation.  Students need to click on the Live Poll Sync link in Canvas once during the course.  As soon as they do that their Live Poll grades will sync to the canvas gradebook, including any assessments they answered before clicking the button. <br>
       </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-11" aria-expanded="false">What is IMathAS?</a>
