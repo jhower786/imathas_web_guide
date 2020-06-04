@@ -248,20 +248,20 @@
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-5" aria-expanded="false">Example: Writing a custom multiple-choice question</a>
       <div class="content" id="panel-1-5">
        1) Click on the arrow to the right of the assignment and select "Questions" from the drop-down menu: <br>
-       <img class="livepollimg" src="./img/Custom pic 1.png" alt="sample picture" > <br>
+       <img class="livepollimg" src="./img/Custom pic 1.png" alt="sample picture" > <br> <br>
        2)	Click on “Add New Question”: <br>
-       <img class="livepollimg" src="./img/Custom pic 2.png" alt="sample picture" > <br>
+       <img class="livepollimg" src="./img/Custom pic 2.png" alt="sample picture" > <br> <br>
        3)	Click on “Tutorial Style Editor”: <br>
-       <img class="livepollimg" src="./img/Custom pic 3.png" alt="sample picture" > <br>
-       4)	In “Description” write the name of the question <br>
-       5)	In “Use Rights” we suggest changing it “Allow use , use as template, no modifications” <br>
-       6)	Enter in the multiple-choice answers.  You can click on the “E” next to each answer to get the math type editor <br>
+       <img class="livepollimg" src="./img/Custom pic 3.png" alt="sample picture" > <br> <br>
+       4)	In “Description” write the name of the question <br> <br>
+       5)	In “Use Rights” we suggest changing it “Allow use , use as template, no modifications” <br> <br>
+       6)	Enter in the multiple-choice answers.  You can click on the “E” next to each answer to get the math type editor <br> <br>
        7)	Under "Question Text" enter in the text of the question <br>
           a.	To add math type, click on the "Add New Math" button <br>
           You can also use the link: http://www1.chapman.edu/~jipsen/mathml/asciimathsyntax.html to find a list of some of the available mathtype options. <br>
-          <img class="livepollimg" src="./img/Custom pic 4.png" alt="sample picture" >
+          <img class="livepollimg" src="./img/Custom pic 4.png" alt="sample picture" > <br>
           b.	To add a picture, click on "Insert" and then “Image” <br>
-          <img class="livepollimg" src="./img/Custom pic 5.png" alt="sample picture" >
+          <img class="livepollimg" src="./img/Custom pic 5.png" alt="sample picture" > <br>
        8)	On the bottom, select “Save and Test”.  The problem will pop up in an alternate window <br>
        9)	Click on “Add/Remove Questions” at the topic to get back to your assessment <br>
        <img class="livepollimg" src="./img/Custom pic 6.png" alt="sample picture" >
