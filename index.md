@@ -448,7 +448,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-11" aria-expanded="false">What is IMathAS?</a>
       <div class="content" id="panel-2-11">
-        The Live Poll for Canvas is run by the open-source platfrom IMathAS.  For more information go here: <a href=http://www.imathas.com/imathas/help.php?section=writingquestions#questiontypes>IMathAS Questions Types</a> <br> <br>
+        The Live Poll for Canvas is run by the open-source platfrom IMathAS.  For more information go here: <a href="http://www.imathas.com">IMathAS Main Page</a> <br> <br>
       </div>
     </li>
 </ul>
