@@ -249,11 +249,11 @@
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-5" aria-expanded="false">Example: Writing a custom multiple-choice question</a>
       <div class="content" id="panel-1-5">
        1) Click on the arrow to the right of the assignment and select "Questions" from the drop-down menu: <br>
-       <img class="livepollimg" src="./img/Custom pic 1.png" alt="sample picture" >
+       <img class="livepollimg" src="./img/Custom pic 1.png" alt="sample picture" > <br>
        2)	Click on “Add New Question”: <br>
-       <img class="livepollimg" src="./img/Custom pic 2.png" alt="sample picture" >
+       <img class="livepollimg" src="./img/Custom pic 2.png" alt="sample picture" > <br>
        3)	Click on “Tutorial Style Editor”: <br>
-       <img class="livepollimg" src="./img/Custom pic 3.png" alt="sample picture" >
+       <img class="livepollimg" src="./img/Custom pic 3.png" alt="sample picture" > <br>
        4)	In “Description” write the name of the question <br>
        5)	In “Use Rights” we suggest changing it “Allow use , use as template, no modifications” <br>
        6)	Enter in the multiple-choice answers.  You can click on the “E” next to each answer to get the math type editor <br>
