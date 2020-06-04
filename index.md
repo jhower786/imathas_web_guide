@@ -238,9 +238,9 @@
           <img class="livepollimg" src="./img/Writing Questions pic 5.png" alt="sample picture" > <br>
           B) Questions of various answer formats
           <img class="livepollimg" src="./img/Writing Questions pic 4.png" alt="sample picture" > <br>
-          To use of one these types to build your own custom question, identify the question and from the Action drop-down menu select "Template (copy)"
+          To use of one these types to build your own custom question, identify the question and from the Action drop-down menu select "Template (copy)":
           <img class="livepollimg" src="./img/Writing Questions pic 6.png" alt="sample picture" > <br>
-          The "Writing Questions Help" and "Macro Library Help" links will assist you in understanding the different components of writing your question.
+          The "Writing Questions Help" and "Macro Library Help" links will assist you in understanding the different components of writing your question.  Here are their links:
           <img class="livepollimg" src="./img/Writing Question pic 7 .png" alt="sample picture" > <br>
           </ol>
         </div>
