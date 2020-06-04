@@ -437,7 +437,8 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-9" aria-expanded="false">What are all the different questions types besides multiple-choice that I can use?</a>
       <div class="content" id="panel-2-9">
-        Questions can have the following answer formats: For more information go here: <a href=http://www.imathas.com/imathas/help.php?section=writingquestions#questiontypes>IMathAS Questions Types</a> <br>
+        Questions can have the following answer formats: Number, Calculated, Multiple-Choice, Multiple-Answer, Matching, Function, String, Essay, Drawing, N-Tuple, Calculated N-Tuple, Complex, Calculated Complex, Numerical Matrix, Calculated Matrix, Interval, Calculated Interval, File Upload, Multipart
+        For more information go here: <a href=http://www.imathas.com/imathas/help.php?section=writingquestions#questiontypes>IMathAS Questions Types</a> <br>
       </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-10" aria-expanded="false">What is Live Poll Sync and is it required?</a>
