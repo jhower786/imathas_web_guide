@@ -171,7 +171,7 @@
           <ol Type="1">
            <li>After signing into iMathAS here: <a href="https://imathas.fiu.edu/">iMathAS Instructor Login</a> scroll down and click on "Add New Course":   <br>
            <img class="livepollimg" src="./img/Setting up course pic 1.png" alt="sample picture"> <br> <br> </li>
-           <li>You must create a separate iMathAS course for each section you teach.  Always have these courses uniquely named. <br> <br> </li>
+           <li>You must create a separate iMathAS course for each section you teach. <br> <br> </li>
            <li>Select “Copy from my, a colleague's, or template course” , then select “Template Courses” followed by selecting “Live Poll SHELL”.  <br>
            <i>Note: This method is very useful as it guarantees Live Poll Sync is set up and does not need to be modified. </i> <br>
            <img class="livepollimg" src="./img/Setting up course Copy template pic.png" alt="sample picture" > <br> <br> </li>
@@ -480,7 +480,7 @@
         <div class="content" id="panel-3-1">
         If there is any chance you have never clicked on the "Live Poll Sync" button then do so now, by selecting your course in Canvas, and then selecting "Modules" followed
         by scrolling down until you see "Live Poll Sync", which you then click on: <br>
-        <img class="livepollimg" src="./img/Live Poll sync pic.png" alt="sample picture" > <br>
+        <img class="livepollimg" src="./img/FAQ Students live poll sync pic fixed.png" alt="sample picture" > <br>
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-2" aria-expanded="false">Where do I find Live Poll if I am using the Canvas App?</a>
