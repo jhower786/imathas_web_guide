@@ -193,8 +193,8 @@
          <img class="livepollimg" src="./img/Connecting live poll pic1.png" alt="sample picture"> <br> <br> </li>
          <li> Find the Module marked “Student Resources" and click the arrow to expand it, and then click on the "+" sign: <br>
          <img class="livepollimg" src="./img/Connecting live poll pic2.png" alt="sample picture"> <br> <br> </li>
-         <li> From the dropdown menu select "Add External Tool", and then scroll down and choose "IMathAS": <br>
-         <i> Note: If the scroll feature does not work for your browser, then copy and paste this in the URL box: https://imathas.fiu.edu/bltilaunch.php followed by clicking on "Add Item". </i> <br>
+         <li> From the dropdown menu select "Add External Tool", and then scroll down and choose "IMathAS", then click on "Add Item": <br>
+         <i> Note: If the scroll feature does not work for your browser, then copy and paste this in the URL box: https://imathas.fiu.edu/bltilaunch.php </i> <br>
          <img class="livepollimg" src="./img/Connecting live poll pic3 fixed.png" alt="sample picture"> <br> <br> </li>
          <li> You should now see IMathAS in the module.  Click the three dots to the right of IMathAS and choose "Edit": <br>
          <img class="livepollimg" src="./img/Connecting Live Poll pic4.png" alt="sample picture"> <br> <br> </li>
