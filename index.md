@@ -220,14 +220,18 @@
          <li> Once you have done this, you will see link asking you to log into IMathAS.  You will only need to do this once for the semester. <br> </li>
 
          <li> On the next page, select "Change Course Link" <br>
-         <img class="livepollimg" src="./img/Connecting course Live Poll pic11.png" alt="sample picture"> <br> <br> </li>
+         <img class="livepollimg" src="./img/Connecting course Live Poll pic 11.png" alt="sample picture"> <br> <br> </li>
          <li> Then select your course from the drop-down menu and select "Link Course" <br>
-         <img class="livepollimg" src="./img/Connecting course Live Poll pic12.png" alt="sample picture"> <br> <br> </li>
+         <img class="livepollimg" src="./img/Connecting course Live Poll pic 12.png" alt="sample picture"> <br> <br> </li>
+         <li> Next, from the "Link Resource" screen select the "Live Poll Sync" assessment from the drop-down menu: <br>
+         <img class="livepollimg" src="./img/Connecting course Live Poll pic 13.png" alt="sample picture"> <br> <br> </li>
+         <li>	Finally, select "Initiate Grade Sync" and wait until the syncing process is completed. <br>
+         <img class="livepollimg" src="./img/Connecting course Live Poll pic 14.png" alt="sample picture"> <br> <br> </li>
 
 
-         <li>	Link the assignment to “Live Poll Sync” Assessment <br> </li>
+         The last decision to make is where to place the "Live Poll" and "Live Poll Sync" buttons that students will use. <br>
 
-         <li> Go to Modules on the left <br> </li>
+
          <li> Click on the + sign to the right of "Live Poll" <br> </li>
 
          <li> Select “Live Poll Sync” from the list and click on “Add Item” <br> </li>
