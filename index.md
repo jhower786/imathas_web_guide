@@ -206,31 +206,31 @@
          Step 2: Next, you will need to set up the link that will allow the grades to sync from IMathAS to Canvas.  Once this is set up, you will not need to touch it the rest of the semester.  Your students will need to click on this link only once in order to activate their grade sync. <br> <br>
          <li>	Go to your course in Canvas and click on "Assignments" on the left: <br>
          <img class="livepollimg" src="./img/Connecting Course Live Poll pic 7.png" alt="sample picture"> <br> <br> </li>
-         <li>Click on “+ Assignment“ <br>
+         <li>Click on “+ Assignment“: <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic 8.png" alt="sample picture"> <br> <br> </li>
 
-         a.	Set the Assignment Name as “Live Poll Sync” and then set the Points to 100: <br>
+         a.	Set the Assignment Name to “Live Poll Sync” and then set the Points to 100: <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic 9.png" alt="sample picture"> <br> <br>
 
-         b.	Set Submission Type to "External Tool", click on "Find", select “IMathAS” and click on "Select": <br>
+         b.	Set Submission Type to "External Tool", then on the next screen here click on "Find", select “IMathAS” and click on "Select": <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic7 10a.png" alt="sample picture"> <br> <br>
-         c.	Click on "Save & Publish" <br> <br>
+         c.	Click on "Save & Publish". <br> <br>
 
 
          <li> Once you have done this, you will see link asking you to log into IMathAS.  You will only need to do this once for the semester. <br> </li>
-
-         <li> On the next page, select "Change Course Link": <br>
+          ????????? <br>
+         <li> On the next page, slect "Change Course Link": <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic 11.png" alt="sample picture"> <br> <br> </li>
-         <li> Then select your course from the drop-down menu and select "Link Course": <br>
+         <li> Then select your course from the drop-down menu and click "Link Course": <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic 12.png" alt="sample picture"> <br> <br> </li>
-         <li> Next, from the "Link Resource" screen select the "Live Poll Sync" assessment from the drop-down menu: <br>
+         <li> Next, from the "Link Resource" screen select the "Live Poll Sync" assessment from the drop-down menu followed by clicking "Make Placement": <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic 13.png" alt="sample picture"> <br> <br> </li>
          <li>	After that, select "Initiate Grade Sync" and then wait until the syncing process is completed: <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic 14.png" alt="sample picture"> <br> <br> </li>
 
-
-         Finally click on "Modules" in the left-column, scroll down to the module where you want the "Live Poll Sync" button to appear for students.
-         Click on "+ assignment" and 
+         Finally click on "Modules" in the left-column, scroll down to the module where you want the insert the "Live Poll Sync" button for students.
+         Note: Putting it within the different module from "Live Poll" rather than the same module is a decison to make.  Students attempting to enter a Live Poll assessment during class may mistakenly think they should access it via "Live Poll Sync", which will never display the assessment questions. <br>
+         Click on "+ assignment" and
 
          last decision to make is where to place the "Live Poll" and "Live Poll Sync" buttons that students will use. <br>
 
