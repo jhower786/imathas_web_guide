@@ -219,7 +219,9 @@
 
          <li> Once you have done this, you will see link asking you to log into IMathAS.  You will only need to do this once for the semester. <br> </li>
 
-         <li> Link your course on the next page. <br> </li>
+         <li> On the next page, select "Change Course Link" <br>
+         <img class="livepollimg" src="./img/Connecting course Live Poll pic11.png" alt="sample picture"> <br> <br> </li>
+
 
          <li>	Link the assignment to “Live Poll Sync” Assessment <br> </li>
 
