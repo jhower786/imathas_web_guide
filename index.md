@@ -322,15 +322,12 @@
         <div class="content" id="panel-1-7">
 
 
-  1)	Log into your course in Canvas <br>
+  1)	Log into your course in Canvas <br> <br>
 
-  2)	Click on "Modules" on the left-hand side. <br>
+  2)	Click on "Modules" on the left-hand side. <br> <br>
 
-  3)	Open up "Student Resources" and click on "Live Poll". <br>
-
-
-  This will take you directly to IMathAS. <br>
-  <img class="livepollimg" src="./img/Running Guide Item 3 Live Poll Link pic.png" alt="sample picture" >
+  3)	Open up "Student Resources" and click on "Live Poll" (this will next take you directly to IMathAS) : <br>
+  <img class="livepollimg" src="./img/Running Guide Item 3 Live Poll Link pic.png" alt="sample picture" > <br> <br>
 
   4)	Your first time using the Live Poll during the course you will see the following screen: <br>
 
@@ -338,7 +335,7 @@
 
   If you find that your course is linked to the wrong course in IMathAS, click on "Change Course Link".  This will allow you to choose the correct course. <br>
 
-<img class="livepollimg" src="./img/Running Guide Item 4 pi4 fixed again.png" alt="sample picture" >
+<img class="livepollimg" src="./img/Running Guide Item pi4 fixed again.png" alt="sample picture" >
   5)	Choose the assessment that you want and click "Make Placement". <br>
 
 <img class="livepollimg" src="./img/Running Guide Item pic5 fixed.png" alt="sample picture" >
