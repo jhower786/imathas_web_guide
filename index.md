@@ -146,7 +146,7 @@
 
   <h2>What is Live Poll?</h2>
   <ul class="accordion" data-accordion="">
-    Live Poll is a digital quizzing and attendance tool that is free for students and faculty.  It integrates seamlessly with Canvas for any FIU course and can geofence polling to any location on campus.  Live Poll allows faculty to give both formative and summative assessments with many answer formats available such as multiple-choice, essay, file upload, matching, multiple-answer, number, function and more.
+    Live Poll is a digital quizzing and attendance tool that is free for students and faculty.  It integrates seamlessly with Canvas for any FIU course and can geofence polling to any location on campus.  Live Poll allows faculty to give both formative and summative assessments with many answer formats available such as multiple-choice, essay, file upload, matching, multiple-answer, number, string and more.
     <br> <br>
 
 
