@@ -340,7 +340,7 @@
 
 <img class="livepollimg" src="./img/Running Guide Item pic5 fixed.png" alt="sample picture" > <br> <br>
 
-  6)	Announce to your students that they should now log into Canvas and access the Live Poll.  If they do so before you click "Make Placement", then they will need to click on the Live Poll link again in Canvas. <br>
+  6)	Announce to your students that they should now log into Canvas and access the Live Poll.  If they do so before you click "Make Placement", then they will need to click on the Live Poll link again in Canvas. <br> <br>
 
   7)	Assuming that the assessment is ready to go, click on "Preview Assessment". <br>
 
@@ -350,7 +350,7 @@
   8)	The assessments have three default settings: <br>
   a.	Show question on this computer before it is available to students – this allows you to see the question and verify it for yourself before the students see it. <br>
   b.	Show results on your computer after closing the assessment – this shows you the breakdown of student results after the assessment is finished. <br>
-  c.	Show answers automatically after closing the assessment – this shows the students whether or not their answer is correct as well as the correct answer on their screens.<br>
+  c.	Show answers automatically after closing the assessment – this shows the students whether or not their answer is correct as well as the correct answer on their screens.<br> <br>
 
   9)	If you wish the question to have a time limit, you will need to check "Use per-question time limit" and set the time you wish. If selected, students will see the time running out on their screens during the assessment.  Note: the default is to not have a time limit for the question. <br>
   <img class="livepollimg" src="./img/Running Guide pic9.png" alt="sample picture" > <br> <br>
@@ -364,7 +364,8 @@
   <img class="livepollimg" src="./img/Running Guide pic11.png" alt="sample picture" > <br> <br>
 
 
-  12)	To start the assessment and have it shown to students, click on "Start Assessment".  This will send the assessment to all of the students’ screens. You will be able to see the time running on the upper right-hand side.  Note: if you have students that cannot see the question, have them refresh the page or click on the Live Poll link again in Canvas. <br>
+  12)	To start the assessment and have it shown to students, click on "Start Assessment".  This will send the assessment to all of the students’ screens. You will be able to see the time running on the upper right-hand side. <br>
+  <i> Note: if you have students that cannot see the question, have them refresh the page or click on the Live Poll link again in Canvas. </i> <br>
   <img class="livepollimg" src="./img/Running Guide pic12.png" alt="sample picture" > <br> <br>
 
 
