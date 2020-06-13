@@ -189,7 +189,8 @@
           You will need to install two different links in Canvas in order to get Live Poll up and running. <br> <br>
          <ol Type="1">
           Step 1: First you will need to set up the actual Live Poll: <br>
-         <li>	Go to your course in Canvas and click on "Modules" on the left <br> </li>
+         <li>	Go to your course in Canvas and click on "Modules" on the left <br>
+         <img class="livepollimg" src="./img/Connecting live poll pic1.png" alt="sample picture"> <br> <br> </li>
          <li> Find the Module marked “Student Resources" and click the arrow to expand it. <br> </li>
          <li> Click on the + sign <br> </li>
          <li> From the dropdown menu select "Add External Tool" <br> </li>
