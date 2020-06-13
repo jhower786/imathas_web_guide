@@ -229,7 +229,7 @@
          <li>	After that, select "Initiate Grade Sync" and then wait until the syncing process is completed: <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic 14.png" alt="sample picture"> <br> <br> </li>
          Finally click on "Modules" in the left-column, scroll down to the module where you want the insert the "Live Poll Sync" button for students. <br>
-         <i >Note: Putting it within a different module from "Live Poll" rather than the same module is a decison to make.  Students attempting to enter a Live Poll assessment during class may mistakenly think they should access it via "Live Poll Sync", which will never display the assessment questions. </i> <br>
+         <i >Note: Putting it within a module that is different from the module that contains "Live Poll" is a decison you get to make.  Students attempting to enter a Live Poll assessment during class may mistakenly think they should access it via "Live Poll Sync", which will never display the assessment questions. </i> <br>
          Click on "+ assignment" to the right of the module you want and  Select “Live Poll Sync” from the list and click on “Add Item” <br>
          </ol>
         </div>
