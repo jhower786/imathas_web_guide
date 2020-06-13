@@ -322,30 +322,30 @@
         <div class="content" id="panel-1-7">
 
 
-  1)	Log into your course in Canvas <br> <br>
+  1)	Log into your course in Canvas. <br> <br>
 
   2)	Click on "Modules" on the left-hand side. <br> <br>
 
-  3)	Open up "Student Resources" and click on "Live Poll" (this will next take you directly to IMathAS) : <br>
+  3)	Open up "Student Resources" and click on "Live Poll" (this will next take you directly to IMathAS): <br>
   <img class="livepollimg" src="./img/Running Guide Item 3 Live Poll Link pic.png" alt="sample picture" > <br> <br>
 
-  4)	Your first time using the Live Poll during the course you will see the following screen: <br>
+  4)	Your first time using the Live Poll during the course you will see the following screen: <br> <br>
 
   Choose your course from the dropdown menu and click "Link Course". You will not need to do this again during the semester. <br>
 
   If you find that your course is linked to the wrong course in IMathAS, click on "Change Course Link".  This will allow you to choose the correct course. <br>
 
-<img class="livepollimg" src="./img/Running Guide Item pi4 fixed again.png" alt="sample picture" >
+<img class="livepollimg" src="./img/Running Guide Item pi4 fixed again.png" alt="sample picture" > <br> <br>
   5)	Choose the assessment that you want and click "Make Placement". <br>
 
-<img class="livepollimg" src="./img/Running Guide Item pic5 fixed.png" alt="sample picture" >
+<img class="livepollimg" src="./img/Running Guide Item pic5 fixed.png" alt="sample picture" > <br> <br>
 
   6)	Announce to your students that they should now log into Canvas and access the Live Poll.  If they do so before you click "Make Placement", then they will need to click on the Live Poll link again in Canvas. <br>
 
   7)	Assuming that the assessment is ready to go, click on "Preview Assessment". <br>
 
   This will take you directly to the question in iMathAS. <br>
-<img class="livepollimg" src="./img/Running Guide Item pic7 fixed.png" alt="sample picture" >
+<img class="livepollimg" src="./img/Running Guide Item pic7 fixed.png" alt="sample picture" > <br> <br>
 
   8)	The assessments have three default settings: <br>
   a.	Show question on this computer before it is available to students – this allows you to see the question and verify it for yourself before the students see it. <br>
@@ -353,29 +353,29 @@
   c.	Show answers automatically after closing the assessment – this shows the students whether or not their answer is correct as well as the correct answer on their screens.<br>
 
   9)	If you wish the question to have a time limit, you will need to check "Use per-question time limit" and set the time you wish. If selected, students will see the time running out on their screens during the assessment.  Note: the default is to not have a time limit for the question. <br>
-  <img class="livepollimg" src="./img/Running Guide pic9.png" alt="sample picture" >
+  <img class="livepollimg" src="./img/Running Guide pic9.png" alt="sample picture" > <br> <br>
 
 
   10)	If you wish to see the student results as the students select their options while the assessment is still open, check "Show results on this computer as students submit answers". <br>
-  <img class="livepollimg" src="./img/Running Guide pic10.png" alt="sample picture" >
+  <img class="livepollimg" src="./img/Running Guide pic10.png" alt="sample picture" > <br> <br>
 
 
   11)	Select the question that you want from the left-hand side under "Questions". This will open up the question for you. You can do the questions in any order you like. <br>
-  <img class="livepollimg" src="./img/Running Guide pic11.png" alt="sample picture" >
+  <img class="livepollimg" src="./img/Running Guide pic11.png" alt="sample picture" > <br> <br>
 
 
   12)	To start the assessment and have it shown to students, click on "Start Assessment".  This will send the assessment to all of the students’ screens. You will be able to see the time running on the upper right-hand side.  Note: if you have students that cannot see the question, have them refresh the page or click on the Live Poll link again in Canvas. <br>
-  <img class="livepollimg" src="./img/Running Guide pic12.png" alt="sample picture" >
+  <img class="livepollimg" src="./img/Running Guide pic12.png" alt="sample picture" > <br> <br>
 
 
 
   13)	To close the quiz, click on "Stop Assessment".  <br>
-  <img class="livepollimg" src="./img/Running Guide pic13.png" alt="sample picture" >
+  <img class="livepollimg" src="./img/Running Guide pic13.png" alt="sample picture" > <br> <br>
 
 
 
   14)	To do another question from the assessment, click on the new question to load it and then repeat the "Start Assessment"—->"Stop Assessment" cycle, just as in the earlier question. <br>
-    <img class="livepollimg" src="./img/Running Guide item 14.png" alt="sample picture" >
+    <img class="livepollimg" src="./img/Running Guide item 14.png" alt="sample picture" > <br> <br>
 
   15)	When finished asking all the questions you want to from this assessment, you have two options: <br>
   •	If you are done using Live Poll for the class meeting, then simply navigate away within Canvas as you like. <br>
