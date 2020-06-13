@@ -188,13 +188,13 @@
         <div class="content" id="panel-1-3">
           You will need to install two different links in Canvas in order to get Live Poll up and running. <br> <br>
          <ol Type="1">
-          Step 1: First you will need to set up the actual Live Poll: <br>
-         <li>	Go to your course in Canvas and click on "Modules" on the left <br>
+          Step 1: First you will need to set up the actual Live Poll. <br>
+         <li>	Go to your course in Canvas and click on "Modules" on the left: <br>
          <img class="livepollimg" src="./img/Connecting live poll pic1.png" alt="sample picture"> <br> <br> </li>
-         <li> Find the Module marked “Student Resources" and click the arrow to expand it. <br> </li>
-         <li> Click on the + sign <br> </li>
-         <li> From the dropdown menu select "Add External Tool" <br> </li>
-         <li> Scroll down and choose "IMathAS" - click on "Add Item" <br> </li>
+         <li> Find the Module marked “Student Resources" and click the arrow to expand it, and then click on the "+" sign: <br>
+         <img class="livepollimg" src="./img/Connecting live poll pic2.png" alt="sample picture"> <br> <br> </li>
+         <li> From the dropdown menu select "Add External Tool", and then scroll down and choose "IMathAS", followed by click on "Add Item": <br> </li>
+         <img class="livepollimg" src="./img/Connecting live poll pic3.png" alt="sample picture"> <br> <br> </li>
          You should now see IMathAS in the module <br>
          <li> Click the three dots to the right of IMathAS and choose "edit" <br> </li>
          <li> Change the title to "Live Poll" and click "Update" <br> </li>
