@@ -253,6 +253,8 @@
           <img class="livepollimg" src="./img/Writing Questions pic 6.png" alt="sample picture" > <br>
           The "Writing Questions Help" and "Macro Library Help" links will assist you in understanding the different components of writing your question.  Here are their links:
           <img class="livepollimg" src="./img/Writing Question pic 7 .png" alt="sample picture" > <br>
+          Be sure to attend to the settings, in particular the four indicated here: <br>
+          <img class="livepollimg" src="./img/Writing Custom Questions Settings pic.png" alt="sample picture" > <br>
           </ol>
         </div>
     </li>
