@@ -242,7 +242,7 @@
           <img class="livepollimg" src="./img/Writing Questions pic 1.png" alt="sample picture" > <br>
           <li> At the top click on "Select Libraries": </li>
           <img class="livepollimg" src="./img/Screen Shot 2020-05-29 at 2.30.27 AM.png" alt="sample picture" > <br>
-          <li> Check the box for "General Templates" and click "Use Libraries" </li>
+          <li> Check the box for "General Templates" and click "Use Libraries": </li>
           <img class="livepollimg" src="./img/Writing Questions pic 3.png" alt="sample picture" > <br>
           <li> Click on "Search" while leaving the search box empty. You will then see a list of questions that you can use as templates including: <br> </li>
           A) Multiple Choice with four or five alternatives
@@ -267,17 +267,17 @@
        <img class="livepollimg" src="./img/Custom pic 2.png" alt="sample picture" > <br> <br>
        3)	Click on “Tutorial Style Editor”: <br>
        <img class="livepollimg" src="./img/Custom pic 3.png" alt="sample picture" > <br> <br>
-       4)	In “Description” write the name of the question <br> <br>
-       5)	In “Use Rights” we suggest changing it “Allow use , use as template, no modifications” <br> <br>
-       6)	Enter in the multiple-choice answers.  You can click on the “E” next to each answer to get the math type editor <br> <br>
-       7)	Under "Question Text" enter in the text of the question <br>
-          a.	To add math type, click on the "Add New Math" button <br>
+       4)	In “Description” write the name of the question. <br> <br>
+       5)	In “Use Rights” we suggest changing it “Allow use , use as template, no modifications”. <br> <br>
+       6)	Enter in the multiple-choice answers.  You can click on the “E” next to each answer to get the math type editor. <br> <br>
+       7)	Under "Question Text" enter in the text of the question: <br>
+          a.	To add math type, click on the "Add New Math" button. <br>
           You can also use the link: http://www1.chapman.edu/~jipsen/mathml/asciimathsyntax.html to find a list of some of the available mathtype options. <br>
           <img class="livepollimg" src="./img/Custom pic 4.png" alt="sample picture" > <br>
-          b.	To add a picture, click on "Insert" and then “Image” <br>
+          b.	To add a picture, click on "Insert" and then “Image”. <br>
           <img class="livepollimg" src="./img/Custom pic 5.png" alt="sample picture" > <br>
-       8)	On the bottom, select “Save and Test”.  The problem will pop up in an alternate window <br>
-       9)	Click on “Add/Remove Questions” at the topic to get back to your assessment <br>
+       8)	On the bottom, select “Save and Test”.  The problem will pop up in an alternate window. <br>
+       9)	Click on “Add/Remove Questions” at the topic to get back to your assessment. <br>
        <img class="livepollimg" src="./img/Custom pic 6.png" alt="sample picture" >
        10) If you do not see your question listed in the list below, you may need to change the library.  Click on "Select Libraries" which will pull up a box that will allow you to select the library in which you stored your problem <br>
        <img class="livepollimg" src="./img/Custom pic 7.png" alt="sample picture" >
