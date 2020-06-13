@@ -282,19 +282,19 @@
        10) If you do not see your question listed in the list below, you may need to change the library.  Click on "Select Libraries" which will pull up a box that will allow you to select the library in which you will store your question. <br>
        <img class="livepollimg" src="./img/Custom pic 7.png" alt="sample picture" > <br> <br>
 
-       11) Click on “Use Libraries” once you have checked the box next to the correct library <br>
+       11) Click on “Use Libraries” once you have checked the box next to the correct library: <br>
        <img class="livepollimg" src="./img/Custom pic 8.png" alt="sample picture" > <br> <br>
 
-       12) Check the box next to the question that you want to add and then click "Add (using defaults)" <br>
+       12) Check the box next to the question that you want to add and then click "Add (using defaults)": <br>
        <img class="livepollimg" src="./img/Custom pic 9.png" alt="sample picture" > <br> <br>
 
-       13) You can reorder the questions by click on the drop down next to the question and changing the Question Number <br>
+       13) You can reorder the questions by click on the drop down next to the question and changing the Question Number: <br>
        <img class="livepollimg" src="./img/Custom pic 10.png" alt="sample picture" > <br> <br>
 
-       14)	You can remove a question by checking the box next to it and selecting “Remove” <br>
+       14)	You can remove a question by checking the box next to it and selecting “Remove”: <br>
        <img class="livepollimg" src="./img/Custon pic 11.png" alt="sample picture" > <br> <br>
 
-       15)	When you are finished, select “Done” <br>
+       15)	When you are finished, select “Done”. <br>
       </div>
     </li>
 
