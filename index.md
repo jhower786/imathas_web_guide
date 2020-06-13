@@ -255,6 +255,7 @@
           <img class="livepollimg" src="./img/Writing Question pic 7 .png" alt="sample picture" > <br>
           Be sure to attend to the settings, in particular the four indicated here: <br>
           <img class="livepollimg" src="./img/Writing Custom Questions Settings pic.png" alt="sample picture" > <br>
+          In "Description" write how you wished the question to be named.  Under "Use Rights" allowing modificiatons by others permits them to permanenlty alter commands, wording, and settings to your question.  Do adjust the library under "My library assignments" depending on where the want to question to be kept. <br>
           </ol>
         </div>
     </li>
