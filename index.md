@@ -370,7 +370,7 @@
 
 
 
-  13)	To close the quiz, click on "Stop Assessment".  <br>
+  13)	To close the quiz, click on "Stop Assessment":  <br>
   <img class="livepollimg" src="./img/Running Guide pic13.png" alt="sample picture" > <br> <br>
 
 
