@@ -208,13 +208,14 @@
          <img class="livepollimg" src="./img/Connecting Live Poll pic 7.png" alt="sample picture"> <br> <br> </li>
          <li>Click on “+ Assignment“ <br>
          <img class="livepollimg" src="./img/Connecting Live Poll pic 8.png" alt="sample picture"> <br> <br> </li>
-   
-         a.	Set the Assignment Name as “Live Poll Sync” and then set the Points to 100: <br>
-         <img class="livepollimg" src="./img/Connecting Live Poll pic 9.png" alt="sample picture"> <br> <br> </li>
 
-         b.	Set Submission Type to "External Tool" <br>
-         d.	Click on Find, select “IMathAS” and click on Select <br>
-         e.	Click on "Save & Publish" <br>
+         a.	Set the Assignment Name as “Live Poll Sync” and then set the Points to 100: <br>
+         <img class="livepollimg" src="./img/Connecting Live Poll pic 9.png" alt="sample picture"> <br> <br>
+
+         b.	Set Submission Type to "External Tool", click on "Find", select “IMathAS” and click on "Select" <br>
+         <img class="livepollimg" src="./img/Connecting Live Poll pic7 10a.png" alt="sample picture"> <br> <br>
+         c.	Click on "Save & Publish" <br> <br>
+
 
          <li> Once you have done this, you will see link asking you to log into IMathAS.  You will only need to do this once for the semester. <br> </li>
 
