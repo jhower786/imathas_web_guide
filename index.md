@@ -242,7 +242,7 @@
           <img class="livepollimg" src="./img/Writing Questions pic 1.png" alt="sample picture" > <br>
           <li> At the top click on "Select Libraries": </li>
           <img class="livepollimg" src="./img/Screen Shot 2020-05-29 at 2.30.27 AM.png" alt="sample picture" > <br>
-          <li> Check the box for "General Templates" and click "Use Libraries": </li>
+          <li> Check the box for "General Templates" and then click "Use Libraries": </li>
           <img class="livepollimg" src="./img/Writing Questions pic 3.png" alt="sample picture" > <br>
           <li> Click on "Search" while leaving the search box empty. You will then see a list of questions that you can use as templates including: <br> </li>
           A) Multiple Choice with four or five alternatives
@@ -251,11 +251,11 @@
           <img class="livepollimg" src="./img/Writing Questions pic 4.png" alt="sample picture" > <br>
           To use of one these types to build your own custom question, identify the question and from the Action drop-down menu select "Template (copy)":
           <img class="livepollimg" src="./img/Writing Questions pic 6.png" alt="sample picture" > <br>
-          The "Writing Questions Help" and "Macro Library Help" links will assist you in understanding the different components of writing your question.  Here are their links:
+          The "Writing Questions Help" and "Macro Library Help" links will assist you in understanding the different components of writing your question.  Here is where you the links are found:
           <img class="livepollimg" src="./img/Writing Question pic 7 .png" alt="sample picture" > <br>
           Be sure to attend to the settings, in particular the four indicated here: <br>
           <img class="livepollimg" src="./img/Writing Custom Questions Settings pic.png" alt="sample picture" > <br>
-          In "Description" write how you wished the question to be named.  Under "Use Rights" allowing modificiatons by others permits them to permanenlty alter commands, wording, and settings to your question.  Do adjust the library under "My library assignments" depending on where the want to question to be kept. <br>
+          In "Description" write how you wish the question to be named.  In "Use Rights" note that allowing modificiatons will permit others to permanenlty alter commands, wording, and settings to your question, as they desire.  Do adjust the library under "My library assignments" to have it reflect what library/libraries that you want. Do not keep any of your custom questions under "General Templates". <br>
           </ol>
         </div>
     </li>
