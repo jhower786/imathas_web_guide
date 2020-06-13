@@ -221,6 +221,8 @@
 
          <li> On the next page, select "Change Course Link" <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic11.png" alt="sample picture"> <br> <br> </li>
+         <li> Then select your course from the drop-down menu and select "Link Course" <br>
+         <img class="livepollimg" src="./img/Connecting course Live Poll pic12.png" alt="sample picture"> <br> <br> </li>
 
 
          <li>	Link the assignment to “Live Poll Sync” Assessment <br> </li>
