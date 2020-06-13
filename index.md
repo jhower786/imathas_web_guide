@@ -194,7 +194,7 @@
          <li> Find the Module marked “Student Resources" and click the arrow to expand it, and then click on the "+" sign: <br>
          <img class="livepollimg" src="./img/Connecting live poll pic2.png" alt="sample picture"> <br> <br> </li>
          <li> From the dropdown menu select "Add External Tool", and then scroll down and choose "IMathAS": <br>
-         <i> Note: If the scroll feature does not work for your browser, then copy and paste in the URL here: https://imathas.fiu.edu/bltilaunch.php followed by clicking on "Add Item": </i> <br>
+         <i> Note: If the scroll feature does not work for your browser, then copy and paste in the URL here: https://imathas.fiu.edu/bltilaunch.php followed by clicking on "Add Item". </i> <br>
          <img class="livepollimg" src="./img/Connecting live poll pic3 fixed.png" alt="sample picture"> <br> <br> </li>
          <li> You should now see IMathAS in the module.  Click the three dots to the right of IMathAS and choose "Edit": <br>
          <img class="livepollimg" src="./img/Connecting Live Poll pic4.png" alt="sample picture"> <br> <br> </li>
@@ -229,7 +229,7 @@
          <li>	After that, select "Initiate Grade Sync" and then wait until the syncing process is completed: <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic 14.png" alt="sample picture"> <br> <br> </li>
          Finally click on "Modules" in the left-column, scroll down to the module where you want the insert the "Live Poll Sync" button for students. <br>
-         <i >Note: Putting it within the different module from "Live Poll" rather than the same module is a decison to make.  Students attempting to enter a Live Poll assessment during class may mistakenly think they should access it via "Live Poll Sync", which will never display the assessment questions. </i> <br>
+         <i >Note: Putting it within a different module from "Live Poll" rather than the same module is a decison to make.  Students attempting to enter a Live Poll assessment during class may mistakenly think they should access it via "Live Poll Sync", which will never display the assessment questions. </i> <br>
          Click on "+ assignment" to the right of the module you want and  Select “Live Poll Sync” from the list and click on “Add Item” <br>
          </ol>
         </div>
