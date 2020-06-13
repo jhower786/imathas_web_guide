@@ -193,7 +193,7 @@
          <img class="livepollimg" src="./img/Connecting live poll pic1.png" alt="sample picture"> <br> <br> </li>
          <li> Find the Module marked “Student Resources" and click the arrow to expand it, and then click on the "+" sign: <br>
          <img class="livepollimg" src="./img/Connecting live poll pic2.png" alt="sample picture"> <br> <br> </li>
-         <li> From the dropdown menu select "Add External Tool", and then scroll down and choose "IMathAS" (the URL is https://imathas.fiu.edu/bltilaunch.php), followed by clicking on "Add Item": <br>
+         <li> From the dropdown menu select "Add External Tool", and then scroll down and choose "IMathAS" (Note: if the scroll feature does not work for you browser, then copy and paste in the URL here: https://imathas.fiu.edu/bltilaunch.php), followed by clicking on "Add Item": <br>
          <img class="livepollimg" src="./img/Connecting live poll pic3 fixed.png" alt="sample picture"> <br> <br> </li>
          <li> You should now see IMathAS in the module.  Click the three dots to the right of IMathAS and choose "Edit": <br>
          <img class="livepollimg" src="./img/Connecting Live Poll pic4.png" alt="sample picture"> <br> <br> </li>
@@ -205,15 +205,15 @@
          <ol Type="1">
          Step 2: Next, you will need to set up the link that will allow the grades to sync from IMathAS to Canvas.  Once this is set up, you will not need to touch it the rest of the semester.  Your students will need to click on this link only once in order to activate their grade sync. <br> <br>
          <li>	Go to your course in Canvas and click on "Assignments" on the left: <br>
-         <img class="livepollimg" src="./img/Connecting Live Poll pic 7.png" alt="sample picture"> <br> <br> </li>
+         <img class="livepollimg" src="./img/Connecting Course Live Poll pic 7.png" alt="sample picture"> <br> <br> </li>
          <li>Click on “+ Assignment“ <br>
-         <img class="livepollimg" src="./img/Connecting Live Poll pic 8.png" alt="sample picture"> <br> <br> </li>
+         <img class="livepollimg" src="./img/Connecting course Live Poll pic 8.png" alt="sample picture"> <br> <br> </li>
 
          a.	Set the Assignment Name as “Live Poll Sync” and then set the Points to 100: <br>
-         <img class="livepollimg" src="./img/Connecting Live Poll pic 9.png" alt="sample picture"> <br> <br>
+         <img class="livepollimg" src="./img/Connecting course Live Poll pic 9.png" alt="sample picture"> <br> <br>
 
          b.	Set Submission Type to "External Tool", click on "Find", select “IMathAS” and click on "Select" <br>
-         <img class="livepollimg" src="./img/Connecting Live Poll pic7 10a.png" alt="sample picture"> <br> <br>
+         <img class="livepollimg" src="./img/Connecting course Live Poll pic7 10a.png" alt="sample picture"> <br> <br>
          c.	Click on "Save & Publish" <br> <br>
 
 
