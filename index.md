@@ -162,7 +162,7 @@
            <li>An IMathAS instructor account is required to use Live Poll.  The account is always free.  If you already have an instructor account, do not set up another one, just simply log in here, as usual: <a href="https://imathas.fiu.edu/">IMathAS Instructor Login</a> <br> <br> </li>
            <li>If you forgot your password or want to reset it, go here: <a href="https://imathas.fiu.edu/forms.php?action=resetpw">Password Reset</a> <br> <br> </li>
            <li>If you forgot your username, then look it up here: <a href="https://imathas.fiu.edu/forms.php?action=lookupusername">Username Lookup</a> <br> <br> </li>
-           <li>To establish your instructor account for the first time, make a request here: <a href="https://imathas.fiu.edu/newinstructor.php">Instructor Account Request</a> It takes up to 24 hours for your request to be approved; you will recieve a confirmation email at the time it is approved.<br> </li>
+           <li>To establish your instructor account for the first time, make a request here: <a href="https://imathas.fiu.edu/newinstructor.php">Instructor Account Request</a> It takes up to 24 hours for your request to be approved; at the time of approval you will recieve a confirmation email sent to the email address you provided.<br> </li>
           </ul>
         </div>
     </li>
@@ -212,25 +212,27 @@
          a.	Set the Assignment Name as “Live Poll Sync” and then set the Points to 100: <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic 9.png" alt="sample picture"> <br> <br>
 
-         b.	Set Submission Type to "External Tool", click on "Find", select “IMathAS” and click on "Select" <br>
+         b.	Set Submission Type to "External Tool", click on "Find", select “IMathAS” and click on "Select": <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic7 10a.png" alt="sample picture"> <br> <br>
          c.	Click on "Save & Publish" <br> <br>
 
 
          <li> Once you have done this, you will see link asking you to log into IMathAS.  You will only need to do this once for the semester. <br> </li>
 
-         <li> On the next page, select "Change Course Link" <br>
+         <li> On the next page, select "Change Course Link": <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic 11.png" alt="sample picture"> <br> <br> </li>
-         <li> Then select your course from the drop-down menu and select "Link Course" <br>
+         <li> Then select your course from the drop-down menu and select "Link Course": <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic 12.png" alt="sample picture"> <br> <br> </li>
          <li> Next, from the "Link Resource" screen select the "Live Poll Sync" assessment from the drop-down menu: <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic 13.png" alt="sample picture"> <br> <br> </li>
-         <li>	Finally, select "Initiate Grade Sync" and wait until the syncing process is completed. <br>
+         <li>	After that, select "Initiate Grade Sync" and then wait until the syncing process is completed: <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic 14.png" alt="sample picture"> <br> <br> </li>
 
 
-         The last decision to make is where to place the "Live Poll" and "Live Poll Sync" buttons that students will use. <br>
+         Finally click on "Modules" in the left-column, scroll down to the module where you want the "Live Poll Sync" button to appear for students.
+         Click on "+ assignment" and 
 
+         last decision to make is where to place the "Live Poll" and "Live Poll Sync" buttons that students will use. <br>
 
          <li> Click on the + sign to the right of "Live Poll" <br> </li>
 
