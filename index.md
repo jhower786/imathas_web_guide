@@ -197,11 +197,11 @@
          <i> Note: If the scroll feature does not work for your browser, then copy and paste this directly in the URL box instead: https://imathas.fiu.edu/bltilaunch.php For the "Page Name" box enter "IMathAS".</i> <br>
          <img class="livepollimg" src="./img/Connecting live poll pic3 fixed.png" alt="sample picture"> <br> <br> </li>
          <li> You should now see IMathAS in the module.  Click the three dots to the right of IMathAS and choose "Edit": <br>
-         <img class="livepollimg" src="./img/Connecting Live Poll pic4.png" alt="sample picture"> <br> <br> </li>
+         <img class="livepollimg" src="./img/Connecting live poll pic6 fixed.png" alt="sample picture"> <br> <br> </li>
          <li> Change the title to "Live Poll" and click "Update": <br>
          <img class="livepollimg" src="./img/Connecting Live Poll pic5.png" alt="sample picture"> <br> <br> </li>
          <li> Click on the little "No Solution" symbol to publish: <br>
-         <img class="livepollimg" src="./img/Connecting Live Poll pic6.png" alt="sample picture"> <br> <br> </li>
+         <img class="livepollimg" src="./img/Connecting Live Poll pic 6 fixed.png" alt="sample picture"> <br> <br> </li>
          </ol>
          <ol Type="1">
          Step 2: Next, you will need to set up the link that will allow the grades to sync from IMathAS to Canvas.  Once this is set up, you will not need to touch it the rest of the semester.  Your students will need to click on this link only once in order to activate their grade sync. <br> <br>
