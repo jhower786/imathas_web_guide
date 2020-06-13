@@ -204,11 +204,15 @@
          </ol>
          <ol Type="1">
          Step 2: Next, you will need to set up the link that will allow the grades to sync from IMathAS to Canvas.  Once this is set up, you will not need to touch it the rest of the semester.  Your students will need to click on this link only once in order to activate their grade sync. <br> <br>
-         <li>	Go to your course in Canvas and click on "Assignments" on the left: <br> </li>
-         <li>Click on “+ Assignment“ <br> </li>
-         a.	Set the Assignment Name as “Live Poll Sync” <br>
-         b.	Set the Points to 100 <br>
-         c.	Set Submission Type to "External Tool" <br>
+         <li>	Go to your course in Canvas and click on "Assignments" on the left: <br>
+         <img class="livepollimg" src="./img/Connecting Live Poll pic 7.png" alt="sample picture"> <br> <br> </li>
+         <li>Click on “+ Assignment“ <br>
+         <img class="livepollimg" src="./img/Connecting Live Poll pic 8.png" alt="sample picture"> <br> <br> </li>
+   
+         a.	Set the Assignment Name as “Live Poll Sync” and then set the Points to 100: <br>
+         <img class="livepollimg" src="./img/Connecting Live Poll pic 9.png" alt="sample picture"> <br> <br> </li>
+
+         b.	Set Submission Type to "External Tool" <br>
          d.	Click on Find, select “IMathAS” and click on Select <br>
          e.	Click on "Save & Publish" <br>
 
