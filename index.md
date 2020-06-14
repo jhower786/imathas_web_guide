@@ -307,7 +307,7 @@
           Log into IMathAS and select your course.  The first time it will look like this, and you should create your very first assessment by choosing "Copy" under the
           toogle gear for the "Example" assessment already there: <br>
           <img class="livepollimg" src="./img/Assessment builder pic 1.png" alt="sample picture" > <br>
-          This generates a new assessment called "Example (Copy)".  Under its toggle gear select "Settings", and then on the next screen you should switch to "Simple View" at the top right.  Rename the assessment in the box. <br>
+          This generates a new assessment called "Example (Copy)".  Under its toggle gear select "Settings", and then on the next screen you should switch to "Simple View" at the top right.  Rename the assessment in the box. <br> <br>
           If you want your students to review the questions, answers, and their responses after a certain date and time, then set that date and time as the "Available Until", then scroll down and set "Show Answers" to be "After due date(in gradebook)". <br>
           <img class="livepollimg" src="./img/Assessment Builder pic3 fixed.png" alt="sample picture" > <br>
           At the bottom of the screen you will see several settings to consider adjusting.
@@ -315,9 +315,9 @@
           Once finished hit "Save Changes". <br> <br>
           Now select the questions you want to use for your assessment. Click on "Questions" under the drop-down menu for your assessment:
           <img class="livepollimg" src="./img/Writing Questions pic 8.png" alt="sample picture" > <br>
-          Then use the "Search" features to locate the questions you want to add.
+          Then use the "Search" features to locate the questions you want to add:
           <img class="livepollimg" src="./img/Writing Questions pic 9.png" alt="sample picture" > <br>
-          After adding your questions hit "Done"
+          After adding your questions hit "Done":
           <img class="livepollimg" src="./img/Writing Questions pic 10.png" alt="sample picture" > <br>
         </div>
     </li>
