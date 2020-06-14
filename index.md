@@ -304,11 +304,10 @@
 
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-6" aria-expanded="false">Setting up a Live Poll session before class</a>
         <div class="content" id="panel-1-6">
-          Log into IMathAS and select your course.  The first time it will look like this, and you should create your first assessment by choosing "Copy" under the
+          Log into IMathAS and select your course.  The first time it will look like this, and you should create your very first assessment by choosing "Copy" under the
           toogle gear for the "Example" assessment already there: <br>
           <img class="livepollimg" src="./img/Assessment builder pic 1.png" alt="sample picture" > <br>
           This generates a new assessment called "Example (Copy)".  Under its toggle gear select "Settings", and then on the next screen you should switch to "Simple View" at the top right.  Rename the assessment in the box. <br>
-          <img class="livepollimg" src="./img/Writing Question pic 7 .png" alt="sample picture" > <br>
           If you want your students to review the questions, answers, and their responses after a certain date and time, then set that date and time as the "Available Until", then scroll down and set "Show Answers" to be "After due date(in gradebook)". <br>
           <img class="livepollimg" src="./img/Assessment Builder pic3 fixed.png" alt="sample picture" > <br>
           At the bottom of the screen you will see several settings to consider adjusting.
