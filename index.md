@@ -146,7 +146,7 @@
 
   <h2>What is Live Poll?</h2>
   <ul class="accordion" data-accordion="">
-    Live Poll is a digital quizzing and attendance tool that is free for students and faculty.  It integrates seamlessly with Canvas for any FIU course and can geofence polling to any location on campus.  Live Poll allows faculty to give both formative and summative assessments with many answer formats available such as multiple-choice, essay, file upload, matching, multiple-answer, number, string and more.
+    Live Poll is a digital quizzing and attendance tool that is free for students and faculty.  It integrates seamlessly with Canvas for any FIU course and can geofence polling to any location on campus.  Live Poll allows faculty to give both formative and summative assessments with many answer formats available, such as multiple-choice, essay, file upload, matching, multiple-answer, number, string and more.
     <br> <br>
 
 
@@ -188,7 +188,7 @@
         <div class="content" id="panel-1-3">
           You will need to install two different links in Canvas in order to get Live Poll up and running. <br> <br>
          <ol Type="1">
-          Step 1: First you will need to set up the actual Live Poll. <br>
+          First Step: To start, you will need to set up the actual Live Poll. <br>
          <li>	Go to your course in Canvas and click on "Modules" on the left: <br>
          <img class="livepollimg" src="./img/Connecting live poll pic1.png" alt="sample picture"> <br> <br> </li>
          <li> Find the Module marked “Student Resources" and click the arrow to expand it, and then click on the "+" sign: <br>
@@ -204,7 +204,7 @@
          <img class="livepollimg" src="./img/Connecting Live Poll pic 6 fixed.png" alt="sample picture"> <br> <br> </li>
          </ol>
          <ol Type="1">
-         Step 2: Next, you will need to set up the link that will allow the grades to sync from IMathAS to Canvas.  Once this is set up, you will not need to touch it the rest of the semester.  Your students will need to click on this link only once in order to activate their grade sync. <br> <br>
+         Second Step: Next, you will need to set up the link that will allow the grades to sync from IMathAS to Canvas.  Once this is set up, you will not need to touch it the rest of the semester.  Your students will need to click on this link only once in order to activate their grade sync. <br> <br>
          <li>	Go to your course in Canvas and click on "Assignments" on the left: <br>
          <img class="livepollimg" src="./img/Connecting Course Live Poll pic 7.png" alt="sample picture"> <br> <br> </li>
          <li>Click on “+ Assignment“: <br>
@@ -228,8 +228,8 @@
          <img class="livepollimg" src="./img/Connecting course Live Poll pic 13.png" alt="sample picture"> <br> <br> </li>
          <li>	After that, select "Initiate Grade Sync" and then wait until the syncing process is completed: <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic 14.png" alt="sample picture"> <br> <br> </li>
-         Finally click on "Modules" in the left-column, scroll down to the module where you want the insert the "Live Poll Sync" button for students. <br>
-         <i >Note: Putting it within a module that is different from the module that contains "Live Poll" is a decison you get to make.  Students attempting to enter a Live Poll assessment during class may mistakenly think they should access it via "Live Poll Sync", which will never display the assessment questions. </i> <br>
+         Finally click on "Modules" in the left-column, scroll down to the module where you want the insert the "Live Poll Sync" button for students. <br> <br>
+         <i >Note: Putting it within a module that is different from the module that contains "Live Poll" is a decison you get to make.  Students attempting to enter a Live Poll assessment during class may mistakenly think they should access it via "Live Poll Sync", which will never display the assessment questions. </i> <br> <br>
          Click on "+ assignment" to the right of the module you want and  Select “Live Poll Sync” from the list and click on “Add Item” <br>
          </ol>
         </div>
@@ -255,7 +255,9 @@
           <img class="livepollimg" src="./img/Writing Question pic 7 .png" alt="sample picture" > <br>
           Be sure to attend to the settings, in particular the four indicated here: <br>
           <img class="livepollimg" src="./img/Writing Custom Questions Settings pic.png" alt="sample picture" > <br>
-          In "Description" write how you wish the question to be named.  In "Use Rights" note that allowing modificiatons will permit others to permanenlty alter commands, wording, and settings to your question, as they desire.  Do adjust the library under "My library assignments" to have it reflect what library/libraries that you want. Do not keep any of your custom questions under "General Templates". <br>
+          In "Description" write how you wish the question to be named. <br>
+          In "Use Rights" note that allowing modificiatons will permit others to permanenlty alter commands, wording, and settings to your question, as they desire. The "Allow use by all" feature gives access to the question to anyone else at FIU to use on their own, including make a separate template copy of your question that they can edit.  <br>
+          Do adjust the library under "My library assignments" to have it reflect what library/libraries that you want. Do not keep any of your custom questions under "General Templates". <br>
           </ol>
         </div>
     </li>
@@ -355,7 +357,7 @@
   <img class="livepollimg" src="./img/Running Guide pic9.png" alt="sample picture" > <br> <br>
 
 
-  10)	If you wish to see the student results as the students select their options while the assessment is still open, check "Show results on this computer as students submit answers". <br>
+  10)	If you wish to see the student results as the students select their options while the assessment is still open, check "Show results on this computer as students submit answers": <br>
   <img class="livepollimg" src="./img/Running Guide pic10.png" alt="sample picture" > <br> <br>
 
 
