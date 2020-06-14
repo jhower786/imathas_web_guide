@@ -333,18 +333,16 @@
 
   Choose your course from the dropdown menu and click "Link Course". You will not need to do this again during the semester. <br>
 
-  If you find that your course is linked to the wrong course in IMathAS, click on "Change Course Link".  This will allow you to choose the correct course. <br>
+  If you find that your course is linked to the wrong IMathAS course, then click on "Change Course Link".  This will allow you to choose and place the correct course. <br>
 
 <img class="livepollimg" src="./img/Running Guide Item pi4 fixed again.png" alt="sample picture" > <br> <br>
-  5)	Choose the assessment that you want and click "Make Placement". <br>
+  5)	Choose the assessment that you want and click "Make Placement": <br>
 
 <img class="livepollimg" src="./img/Running Guide Item pic5 fixed.png" alt="sample picture" > <br> <br>
 
   6)	Announce to your students that they should now log into Canvas and access the Live Poll.  If they do so before you click "Make Placement", then they will need to click on the Live Poll link again in Canvas. <br> <br>
 
-  7)	Assuming that the assessment is ready to go, click on "Preview Assessment". <br>
-
-  This will take you directly to the question in iMathAS. <br>
+  7)	Assuming that the assessment is ready to go, click on "Preview Assessment", which will take you directly to the question into IMathAS. <br>
 <img class="livepollimg" src="./img/Running Guide Item pic7 fixed.png" alt="sample picture" > <br> <br>
 
   8)	The assessments have three default settings: <br>
@@ -352,7 +350,8 @@
   b.	Show results on your computer after closing the assessment – this shows you the breakdown of student results after the assessment is finished. <br>
   c.	Show answers automatically after closing the assessment – this shows the students whether or not their answer is correct as well as the correct answer on their screens.<br> <br>
 
-  9)	If you wish the question to have a time limit, you will need to check "Use per-question time limit" and set the time you wish. If selected, students will see the time running out on their screens during the assessment.  Note: the default is to not have a time limit for the question. <br>
+  9)	If you wish the question to have a time limit, you will need to check "Use per-question time limit" and set the time you wish. If selected, students will see the time running out on their screens during the assessment.  <br>
+  <i> Note: the default is to not have a time limit for the question. </i> <br>
   <img class="livepollimg" src="./img/Running Guide pic9.png" alt="sample picture" > <br> <br>
 
 
