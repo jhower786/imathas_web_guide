@@ -306,7 +306,7 @@
         <div class="content" id="panel-1-6">
           Log into IMathAS and select your course.
           <ol Type="1">
-          <li> The first time it will look like this. You should create new assessments by choosing "Copy" under the toogle gear for the "Example" assessment already there: <br>
+          <li> The first time it will look like this. You should always create new assessments by choosing "Copy" under the toogle gear for the "Example" assessment already there: <br>
           <img class="livepollimg" src="./img/Assessment builder pic 1.png" alt="sample picture" > <br> </li>
           <li> This generates a new assessment called "Example (Copy)".  Under its toggle gear select "Settings", and then on the next screen you should switch to "Simple View" at the top right.  Rename the assessment in the box. <br> <br> </li>
           <li> If you want your students to review the questions, answers, and their responses after a certain date and time, then set that date and time as the "Available Until", then scroll down and set "Show Answers" to be "After due date(in gradebook)": <br>
