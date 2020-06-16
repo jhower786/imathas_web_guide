@@ -405,14 +405,16 @@
       <img class="livepollimg" src="./img/Manage Gradebook pic1.png" alt="sample picture" > <br> <br> </li>
       <li> On the next screen scroll down to locate the student's row and then click on the number under the "Grade" column: <br>
       <img class="livepollimg" src="./img/Manage Gradebook pic2.png" alt="sample picture" > <br> <br> </li>
-      <li> If you want to eliminate a question from a past Live Poll assessment, you have two options.  Start by clicking on "Live Poll" and setting the assessment you want: <br>
+      <li> Scroll down to find the question you whose score you want to adjust.  You adjust the point value in the box and then click "Record Changed Grade" here: <br>
       <img class="livepollimg" src="./img/Manage Gradebook pic3.png" alt="sample picture" > <br> <br> </li>
-      <li> On the next screen locate the question you want to elimninate and select "Withdraw" from under its drop-down menu: <br>
+      <li> If you want to eliminate a question from a past Live Poll assessment, you have two options.  Start by clicking on "Live Poll" and setting the assessment you want: <br>
       <img class="livepollimg" src="./img/Manage Gradebook pic4.png" alt="sample picture" > <br> <br> </li>
-      <li> The eliminate the question as if it never existed, choose the first option, and then select "Withdraw Question": <br>
+      <li> On the next screen locate the question you want to elimninate and select "Withdraw" from under its drop-down menu: <br>
       <img class="livepollimg" src="./img/Manage Gradebook pic5.png" alt="sample picture" > <br> <br> </li>
-      <li>  And then and <br>
+      <li> The eliminate the question as if it never existed, choose the first option, and then select "Withdraw Question": <br>
       <img class="livepollimg" src="./img/Manage Gradebook pic6.png" alt="sample picture" > <br> <br> </li>
+      <li>  And then and <br>
+      <img class="livepollimg" src="./img/Manage Gradebook pic7.png" alt="sample picture" > <br> <br> </li>
 
 
       </ol>
