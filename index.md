@@ -313,7 +313,7 @@
           <li> At the bottom of the screen you will see several settings to consider adjusting.
           <img class="livepollimg" src="./img/Assessment Builder pic4.png" alt="sample picture" > <br>
           Once finished hit "Save Changes". <br> <br> </li>
-          <li> Now select the questions you want to use for your assessment. Click on "Questions" under the drop-down menu for your assessment:
+          <li> Now you will select the questions you want to use for your assessment. Click on "Questions" under the drop-down menu for your assessment:
           <img class="livepollimg" src="./img/Writing Questions pic 8.png" alt="sample picture" > <br> </li>
           <li> Then use the "Search" features to locate the questions you want to add:
           <img class="livepollimg" src="./img/Writing Questions pic 9.png" alt="sample picture" > <br> </li>
