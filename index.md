@@ -411,7 +411,7 @@
       <ol Type="1">
       If you want to eliminate a question for everyone in the class from a past Live Poll assessment, you have two options. <br> <br>
       <li> Start by clicking on "Live Poll" and setting the assessment you want.  Then you click on "Quetions" as here: <br>
-      <li> <img class="livepollimg" src="./img/Manage Gradebook pic4.png" alt="sample picture" > <br> <br> </li>
+      <img class="livepollimg" src="./img/Manage Gradebook pic4.png" alt="sample picture" > <br> <br> </li>
       <li> On the next screen locate the question you want to elimninate and select "Withdraw" from under its drop-down menu: <br>
       <img class="livepollimg" src="./img/Manage Gradebook pic5.png" alt="sample picture" > <br> <br> </li>
       <li> To eliminate the question as if it never existed, choose the first option, and then click "Withdraw Question": <br>
