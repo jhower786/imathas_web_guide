@@ -218,7 +218,7 @@
          c.	Click on "Save & Publish". <br> <br>
 
 
-         <li> Once you have done this, you will see link asking you to log into your instructor IMathAS account.  You will only need to do this once for the semester. <br> </li>
+         <li> Once you have done this, you will see a prompt asking you to log into your instructor IMathAS account.  You will only need to do this once for the semester. <br> </li>
           ????????? <br>
          <li> On the next page, slect "Change Course Link": <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic 11.png" alt="sample picture"> <br> <br> </li>
