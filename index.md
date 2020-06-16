@@ -411,9 +411,9 @@
       <img class="livepollimg" src="./img/Manage Gradebook pic4.png" alt="sample picture" > <br> <br> </li>
       <li> On the next screen locate the question you want to elimninate and select "Withdraw" from under its drop-down menu: <br>
       <img class="livepollimg" src="./img/Manage Gradebook pic5.png" alt="sample picture" > <br> <br> </li>
-      <li> The eliminate the question as if it never existed, choose the first option, and then select "Withdraw Question": <br>
+      <li> To eliminate the question as if it never existed, choose the first option, and then click "Withdraw Question": <br>
       <img class="livepollimg" src="./img/Manage Gradebook pic6.png" alt="sample picture" > <br> <br> </li>
-      <li>  And then and <br>
+      <li> To keep the question, but score it as correct, choose the second option, and then click "Withdraw Question": <br>
       <img class="livepollimg" src="./img/Manage Gradebook pic7.png" alt="sample picture" > <br> <br> </li>
 
 
