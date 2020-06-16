@@ -401,7 +401,7 @@
       To adjust the score of a specific student on a specific assessment question you: <br>
       <li> Click on "Modules" and then "Live Poll" </li> <br> <br>
       <li> From the drop-down menu of the next screen set and place the assessment you want to find, generating this screen, from which you select "Assessment Grades": <br>
-      <img class="livepollimg" src="./img/Running Guide item 14.png" alt="sample picture" > <br> <br>
+      <img class="livepollimg" src="./img/Manage Gradebook pic1.png" alt="sample picture" > <br> <br>
 
     </div>
   </li>
