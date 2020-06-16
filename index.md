@@ -388,16 +388,10 @@
 
         </div>
     </li>
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-8" aria-expanded="false">Managing Live Poll Sync</a>
-      <div class="content" id="panel-1-8">
-        A student will not see any Live Poll assessment grades prior to clicking on Live Poll Sync link.  Once Live Poll Sync is click on (only one time is needed) all past and future assessment grades will become available to Canvas, and moreover the overall grade will be visible to students in the Canvas gradebook.
-      </div>
-    </li>
 
 
-
-  <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-9" aria-expanded="false">Managing your Gradebook after class</a>
-    <div class="content" id="panel-1-9">
+  <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-8" aria-expanded="false">Managing your Gradebook after class</a>
+    <div class="content" id="panel-1-8">
       <ol Type="1">
       To adjust the score of a specific student on a specific assessment question you: <br> <br>
       <li> Click on "Modules" and then "Live Poll". </li> <br>
