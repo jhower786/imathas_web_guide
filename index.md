@@ -399,14 +399,22 @@
   <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-9" aria-expanded="false">Managing your Gradebook after class</a>
     <div class="content" id="panel-1-9">
       <ol Type="1">
-      To adjust the score of a specific student on a specific assessment question you: <br>
-      <li> Click on "Modules" and then "Live Poll" </li> <br> <br>
-      <li> From the drop-down menu of the next screen set and place the assessment you want to find, generating this screen, from which you select "Assessment Grades": <br>
+      To adjust the score of a specific student on a specific assessment question you: <br> <br>
+      <li> Click on "Modules" and then "Live Poll" </li> <br>
+      <li> From the drop-down menu on the next screen, set and place the assessment you want to adjust for the student.  This generates the following screen, from which you select "Assessment Grades": <br>
       <img class="livepollimg" src="./img/Manage Gradebook pic1.png" alt="sample picture" > <br> <br> </li>
       <li> From the drop-down menu of the next screen set and place the assessment you want to find, generating this screen, from which you select "Assessment Grades": <br>
       <img class="livepollimg" src="./img/Manage Gradebook pic2.png" alt="sample picture" > <br> <br> </li>
-      <li> From the drop-down menu of the next screen set and place the assessment you want to find, generating this screen, from which you select "Assessment Grades": <br>
+      <li> On the next screen scroll down to locate the student's row and then click on the number under the "Grade" column: <br>
       <img class="livepollimg" src="./img/Manage Gradebook pic3.png" alt="sample picture" > <br> <br> </li>
+      <li> If you want to eliminate a question from a past Live Poll assessment, you have two options.  Start by clicking on "Live Poll" and setting the assessment you want: <br>
+      <img class="livepollimg" src="./img/Manage Gradebook pic4.png" alt="sample picture" > <br> <br> </li>
+      <li> On the next screen locate the question you want to elimninate and select "Withdraw" from under its drop-down menu: <br>
+      <img class="livepollimg" src="./img/Manage Gradebook pic5.png" alt="sample picture" > <br> <br> </li>
+      <li> The eliminate the question as if it never existed, choose the first option, and then select "Withdraw Question": <br>
+      <img class="livepollimg" src="./img/Manage Gradebook pic6.png" alt="sample picture" > <br> <br> </li>
+
+
       </ol>
     </div>
   </li>
