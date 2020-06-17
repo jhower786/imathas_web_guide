@@ -502,15 +502,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
 <article>
 <h5>Frequently Asked Questions (for students)</h5>
 <ul class="accordion" data-accordion="">
@@ -518,7 +509,9 @@
         <div class="content" id="panel-3-1">
         If there is any chance you have never clicked on the "Live Poll Sync" button then do so now, by selecting your course in Canvas, and then selecting "Modules" followed
         by scrolling down until you see "Live Poll Sync", which you then click on: <br>
-        <img class="livepollimg" src="./img/FAQ Students live poll sync pic fixed.png" alt="sample picture" > <br>
+        <img class="livepollimg" src="./img/FAQ Students live poll sync pic fixed.png" alt="sample picture" > <br> <br>
+        Assuming you have already actived "Live Poll Sync", you will now see the following type of screen when clicking on it, a summary of all the assessments your instructor has run, which assessments you did not open, and for the ones you did your score: <br>
+        <img class="livepollimg" src="./img/FAQ Studnet gradebook view.jpg" alt="sample picture" > <br> <br>
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-2" aria-expanded="false">Where do I find Live Poll if I am using the Canvas App?</a>
@@ -549,7 +542,7 @@
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-3" aria-expanded="false">How do I review the Live Poll questions and answers after class?</a>
         <div class="content" id="panel-3-3">
         This is indeed an available feature, but only if your instructor enables it.  Please reach out to your instructor to ask, if you are unsure.  If you did not attempt any questions in an assessment, then you will
-        be unable to review the questions, even if your insturctor enables student review. <br>
+        be unable to review any of that assessment, even if your insturctor enables student review. <br>
         </div>
     </li>
 
