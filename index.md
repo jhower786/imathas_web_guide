@@ -449,7 +449,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-5" aria-expanded="false">I have a student who claims the posted Live Poll grade in Canvas is incorrect.  What can I do to check?</a>
         <div class="content" id="panel-2-5">
-          You should click on ___________.
+          You should log into IMathAS here <a href="https://imathas.fiu.edu/">IMathAS Instructor Login</a> then select the course the student is in, followed by clicking on gradebook in the left-column.
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-6" aria-expanded="false">I have a multi-question Live Poll assessment, and I only did some, but not all of the questions during class. Should I delete the unused ones?</a>
