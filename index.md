@@ -218,11 +218,9 @@
          c.	Click on "Save & Publish". <br> <br>
 
 
-         <li> Once you have done this, you will see a prompt asking you to log into your instructor IMathAS account.  You will only need to do this once for the semester. <br> <br> </li>
+         <li> Once you have done this, you will see a prompt asking you to log into your instructor IMathAS account.  You will only need to do this once. This will link your Canvas account with your IMathAS account. <br> <br> </li>
          <li> On the next page, slect "Change Course Link": <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic 11.png" alt="sample picture"> <br> <br> </li>
-         <li> Then select your course from the drop-down menu and click "Link Course": <br>
-         <img class="livepollimg" src="./img/Connecting course Live Poll pic 12.png" alt="sample picture"> <br> <br> </li>
          <li> Next, from the "Link Resource" screen select the "Live Poll Sync" assessment from the drop-down menu followed by clicking "Make Placement": <br>
          <img class="livepollimg" src="./img/Connecting course Live Poll pic 13.png" alt="sample picture"> <br> <br> </li>
          <li>	After that, select "Initiate Grade Sync" and then wait until the syncing process is completed: <br>
@@ -434,12 +432,12 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-2" aria-expanded="false">Should students on smartphones and tablets use the Canvas Student app or a web browser? </a>
         <div class="content" id="panel-2-2">
-          Either will work fine.  The slight advantage of the Canvas Student app is that is logged in all the time, so students have faster access.  Live Poll is easier to use with the app. </a>
+          Either will work fine.  The slight advantage of the Canvas Student app is that is logged in all the time, so students have faster access.  Live Poll is easier to use with the app.
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-3" aria-expanded="false">Should student smartphones use cellular data or FIU WiFi?</a>
         <div class="content" id="panel-2-3">
-          Either will work fine, in principle.  Students should connect to FIU_SECUREWiFi over FIU_WiFi, even though FIU_WiFi may work fine.
+          Either will work fine, in principle.  Students should connect to FIU_SECUREWiFi over FIU_WiFi, even if FIU_WiFi may work fine.
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-4" aria-expanded="false">How can I make the questions and answers reviewable to students after class?</a>
@@ -467,7 +465,7 @@
       <img class="livepollimg" src="./img/FAQ Geofencing pic 2.png" alt="sample picture" > <br>
       Only the "Custom Location" option will allow you to move the blue center marker and adjust the radius.  Here is what geofencing to PG6 looks like: <br>
       <img class="livepollimg" src="./img/FAQ Geofencing pic 3.png" alt="sample picture" > <br>
-      <i> Note: Geofencing does not work necessarily for studnets on a laptop, so consider directing any such students in your class to swtich and use their smartphone for these questions.    </i>
+      <i> Note: Geofencing does not work necessarily for students on a laptop, so consider directing any such students in your class to swtich and use their smartphone for these questions.    </i>
       </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-8" aria-expanded="false">How can I change the participation-correctness grade ratio after an assessment is already over?</a>
@@ -525,7 +523,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-2" aria-expanded="false">Where do I find Live Poll if I am using the Canvas App?</a>
         <div class="content" id="panel-3-2">
-        For iOS do the following: <br>
+        For iOS do the following: <br> <br>
         1) Enter your class in Canvas <br>
         <img class="livepollimg" src="./img/App pic1.png" alt="sample picture" > <br>
         2) Click on "Modules" followed by "Student Resources", to reach this screen: <br>
@@ -535,7 +533,7 @@
         4) After clicking on "Launch External Tool" you want to allow use of your current location by selecting "OK" <br>
         <img class="livepollimg" src="./img/App pic4.png" alt="sample picture" > <br>
         <br> <br>
-        For Android do the following: <br>
+        For Android do the following: <br> <br>
         1) Enter your class in Canvas <br>
         <img class="livepollimg" src="./img/App pic5.png" alt="sample picture" > <br>
         2) After clicking on "Modules" you will see this screen, where you click on "Live Poll" <br>
@@ -550,7 +548,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-3" aria-expanded="false">How do I review the Live Poll questions and answers after class?</a>
         <div class="content" id="panel-3-3">
-        This is indeed an available feature, but only if your instructor enables it.  Please reach out to them.  If you did not attempt any questions in an assessment, then you will
+        This is indeed an available feature, but only if your instructor enables it.  Please reach out to your instructor to ask, if you are unsure.  If you did not attempt any questions in an assessment, then you will
         be unable to review the questions, even if your insturctor enables student review. <br>
         </div>
     </li>
