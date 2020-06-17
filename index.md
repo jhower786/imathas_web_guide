@@ -552,7 +552,7 @@
 
 
 <!-- ENTER THE CODE ABOVE-->
-    </article>
+    
 
     <!-- Sitemap Generator -->
     <script type="text/javascript">
