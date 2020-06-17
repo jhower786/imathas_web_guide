@@ -444,7 +444,7 @@
         <div class="content" id="panel-2-4">
           Adjust the settings at the assessment level to accomplish this.  As long as the assessment is available and the answers are open to review in the gradebook it will work, as shown here, under the "Settings" selection for the specific assessment:
           <img class="livepollimg" src="./img/FAQ Review Answer pic fixed.png" alt="sample picture" >
-          Instruct students to click on _______ to see the questions, answers, and moreover their actual responses to the questions that compose the assessment.
+          Instruct students to click on "Live Poll Sync" to see the questions, answers, and moreover their actual responses to the items that compose the assessment.
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-5" aria-expanded="false">I have a student who claims the posted Live Poll grade in Canvas is incorrect.  What can I do to check?</a>
