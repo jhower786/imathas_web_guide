@@ -510,7 +510,7 @@
         If there is any chance you have never clicked on the "Live Poll Sync" button then do so now, by selecting your course in Canvas, and then selecting "Modules" followed
         by scrolling down until you see "Live Poll Sync", which you then click on: <br>
         <img class="livepollimg" src="./img/FAQ Students live poll sync pic fixed.png" alt="sample picture" > <br> <br>
-        Each time (after the initial time) you click on "Live Poll Sync", the following type of screen will be generated, which is a summary of all the assessments your instructor has run, including any assessments you did not open, and for the ones you did your score: <br>
+        Each time (after the initial time) you click on "Live Poll Sync", the following type of screen will be generated, which is a summary of all the assessments your instructor has run, including any assessments you did not open, and for the ones you did open your score: <br>
         <img class="livepollimg" src="./img/FAQ Studnet gradebook view.jpg" alt="sample picture" > <br> <br>
         </div>
     </li>
