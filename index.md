@@ -157,8 +157,8 @@
 <h3>How to use Live Poll (for instructors)</h3>
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Setting up an IMathAS Instructor Account</a>
-        <iframe src="https://drive.google.com/file/d/1NjLoiLTGrXPF5DV-gW1t60urKdnLAIAo/preview" width="640" height="480"></iframe>
         <div class="content" id="panel-1-1">
+          <iframe src="https://drive.google.com/file/d/1NjLoiLTGrXPF5DV-gW1t60urKdnLAIAo/preview" width="640" height="356"></iframe>
           <ul>
            <li>An IMathAS instructor account is required to use Live Poll.  The account is always free.  If you already have an instructor account, do not set up another one, just simply log in here, as usual: <a href="https://imathas.fiu.edu/">IMathAS Instructor Login</a> <br> <br> </li>
            <li>If you forgot your password or want to reset it, go here: <a href="https://imathas.fiu.edu/forms.php?action=resetpw">Password Reset</a> <br> <br> </li>
@@ -187,6 +187,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-3" aria-expanded="false">Connecting your Live Poll course to Canvas</a>
         <div class="content" id="panel-1-3">
+          <iframe src="https://drive.google.com/file/d/1NkDhu38YcR5V1cV4Tclp8Qh-CIXjpRKf/preview" width="640" height="356"></iframe>
           You will need to install two different links in Canvas in order to get Live Poll up and running. <br> <br>
          <ol Type="1">
           First Step: To start, you will need to set up the actual Live Poll. <br>
@@ -234,6 +235,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-4" aria-expanded="false">Writing your own custom Live Poll questions</a>
         <div class="content" id="panel-1-4">
+          <iframe src="https://drive.google.com/file/d/1O4esogj4BHSUxKL5oP424GB14Jx0f_RM/preview" width="640" height="356"></iframe>
           <ol Type="1">
           <li>Log into IMathAS. <br> <br> </li>
           <li> In the left column click on "Manage" under Questions: <br> </li>
@@ -261,6 +263,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-5" aria-expanded="false">Example: Writing a custom multiple-choice question</a>
       <div class="content" id="panel-1-5">
+        <iframe src="https://drive.google.com/file/d/1O7znwcPa2ICLpLteS-9IGpfRktkF0Mdk/preview" width="640" height="356"></iframe>
        1. Click on the arrow to the right of the assignment and select "Questions" from the drop-down menu: <br>
        <img class="livepollimg" src="./img/Custom pic 1.png" alt="sample picture" > <br> <br>
        2.	Click on “Add New Question”: <br>
@@ -302,6 +305,7 @@
 
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-6" aria-expanded="false">Setting up a Live Poll session before class</a>
         <div class="content" id="panel-1-6">
+          <iframe src="https://drive.google.com/file/d/1OBlVs90jmnl6xCSqE4Vqw3dE73mQ_x_a/preview" width="640" height="356"></iframe>
           Log into IMathAS and select your course. <br> <br>
           <ol Type="1">
           <li> The first time it will look like this. So that model settings are maintained, you should always create new assessments by choosing "Copy" under the toogle gear for the "Example" assessment already there: <br>
@@ -326,7 +330,7 @@
 
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-7" aria-expanded="false">Running a Live Poll session during class</a>
         <div class="content" id="panel-1-7">
-
+          <iframe src="https://drive.google.com/file/d/1OEpSvS0myi4fz9ojYYMwZs5GLOJT5W_K/preview" width="640" height="356"></iframe>
 
   1.	Log into your course in Canvas. <br> <br>
 
@@ -393,6 +397,7 @@
 
   <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-8" aria-expanded="false">Managing your Gradebook after class</a>
     <div class="content" id="panel-1-8">
+      <iframe src="https://drive.google.com/file/d/1OF3o_s03Qon3O5HtFSdJB_jTFN8p3cFa/preview" width="640" height="356"></iframe>
       <ol Type="1">
       To adjust the score of a specific student on a specific assessment question you: <br> <br>
       <li> Click on "Modules" and then "Live Poll". </li> <br>
