@@ -157,6 +157,7 @@
 <h3>How to use Live Poll (for instructors)</h3>
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Setting up an IMathAS Instructor Account</a>
+        <iframe src="https://drive.google.com/file/d/1NjLoiLTGrXPF5DV-gW1t60urKdnLAIAo/preview" width="640" height="480"></iframe>
         <div class="content" id="panel-1-1">
           <ul>
            <li>An IMathAS instructor account is required to use Live Poll.  The account is always free.  If you already have an instructor account, do not set up another one, just simply log in here, as usual: <a href="https://imathas.fiu.edu/">IMathAS Instructor Login</a> <br> <br> </li>
