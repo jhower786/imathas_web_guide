@@ -170,8 +170,8 @@
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-2" aria-expanded="false">Setting up your Live Poll course</a>
         <div class="content" id="panel-1-2">
           <ol Type="1">
-            <iframe src="https://drive.google.com/file/d/1NjLoiLTGrXPF5DV-gW1t60urKdnLAIAo/preview" width="640" height="356"></iframe> <br>
-             <i> Click on the above video to watch a step-by-step view of the below sequence of instructions</i> <br> <br>
+           <iframe src="https://drive.google.com/file/d/1NjLoiLTGrXPF5DV-gW1t60urKdnLAIAo/preview" width="640" height="356"></iframe> <br>
+           <i> Click on the above video to watch a step-by-step view of the below sequence of instructions</i> <br> <br>
            <li>After signing into IMathAS here: <a href="https://imathas.fiu.edu/">IMathAS Instructor Login</a> scroll down and click on "Add New Course":   <br>
            <img class="livepollimg" src="./img/Setting up course pic 1.png" alt="sample picture"> <br> <br> </li>
            <li>You must create a separate IMathAS course for each section you teach. <br> <br> </li>
@@ -189,7 +189,8 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-3" aria-expanded="false">Connecting your Live Poll course to Canvas</a>
         <div class="content" id="panel-1-3">
-          <iframe src="https://drive.google.com/file/d/1NkDhu38YcR5V1cV4Tclp8Qh-CIXjpRKf/preview" width="640" height="356"></iframe>
+          <iframe src="https://drive.google.com/file/d/1NkDhu38YcR5V1cV4Tclp8Qh-CIXjpRKf/preview" width="640" height="356"></iframe> <br>
+          <i> Click on the above video to watch a step-by-step view of the below sequence of instructions</i> <br> <br>
           You will need to install two different links in Canvas in order to get Live Poll up and running. <br> <br>
          <ol Type="1">
           First Step: To start, you will need to set up the actual Live Poll. <br>
@@ -237,7 +238,8 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-4" aria-expanded="false">Writing your own custom Live Poll questions</a>
         <div class="content" id="panel-1-4">
-          <iframe src="https://drive.google.com/file/d/1O4esogj4BHSUxKL5oP424GB14Jx0f_RM/preview" width="640" height="356"></iframe>
+          <iframe src="https://drive.google.com/file/d/1O4esogj4BHSUxKL5oP424GB14Jx0f_RM/preview" width="640" height="356"></iframe> <br>
+          <i> Click on the above video to watch a step-by-step view of the below sequence of instructions</i> <br> <br>
           <ol Type="1">
           <li>Log into IMathAS. <br> <br> </li>
           <li> In the left column click on "Manage" under Questions: <br> </li>
