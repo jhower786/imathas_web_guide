@@ -158,8 +158,7 @@
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-1" aria-expanded="false">Setting up an IMathAS Instructor Account</a>
         <div class="content" id="panel-1-1">
-          <iframe src="https://drive.google.com/file/d/1NjLoiLTGrXPF5DV-gW1t60urKdnLAIAo/preview" width="640" height="356"></iframe> <br>
-           <i> Click on the above video to watch an step-by-step view of the instrucions below. </i>
+
           <ul>
            <li>An IMathAS instructor account is required to use Live Poll.  The account is always free.  If you already have an instructor account, do not set up another one, just simply log in here, as usual: <a href="https://imathas.fiu.edu/">IMathAS Instructor Login</a> <br> <br> </li>
            <li>If you forgot your password or want to reset it, go here: <a href="https://imathas.fiu.edu/forms.php?action=resetpw">Password Reset</a> <br> <br> </li>
@@ -171,6 +170,8 @@
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-2" aria-expanded="false">Setting up your Live Poll course</a>
         <div class="content" id="panel-1-2">
           <ol Type="1">
+            <iframe src="https://drive.google.com/file/d/1NjLoiLTGrXPF5DV-gW1t60urKdnLAIAo/preview" width="640" height="356"></iframe> <br>
+             <i> Click on the above video to watch an step-by-step view of the instrucions below. </i>
            <li>After signing into IMathAS here: <a href="https://imathas.fiu.edu/">IMathAS Instructor Login</a> scroll down and click on "Add New Course":   <br>
            <img class="livepollimg" src="./img/Setting up course pic 1.png" alt="sample picture"> <br> <br> </li>
            <li>You must create a separate IMathAS course for each section you teach. <br> <br> </li>
