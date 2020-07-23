@@ -171,7 +171,7 @@
         <div class="content" id="panel-1-2">
           <ol Type="1">
            <iframe src="https://drive.google.com/file/d/1NjLoiLTGrXPF5DV-gW1t60urKdnLAIAo/preview" width="640" height="356"></iframe> <br>
-           <i> Click on the above video to watch a step-by-step view of the below sequence of instructions</i> <br> <br>
+           <i> Click on the above video to watch a step-by-step view of the below sequence of instructions.</i> <br> <br>
            <li>After signing into IMathAS here: <a href="https://imathas.fiu.edu/">IMathAS Instructor Login</a> scroll down and click on "Add New Course":   <br>
            <img class="livepollimg" src="./img/Setting up course pic 1.png" alt="sample picture"> <br> <br> </li>
            <li>You must create a separate IMathAS course for each section you teach. <br> <br> </li>
