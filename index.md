@@ -1,5 +1,5 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta content="Ondrej Zjevik,Florida International University" name="author" />
+<meta content="Ondrej Zjevik, Florida International University" name="author" />
 
 <script src="./assets/core-scripts.js" type="text/javascript" defer></script>
 
