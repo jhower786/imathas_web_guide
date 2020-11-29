@@ -145,7 +145,7 @@
           A) Multiple Choice with four or five alternatives
           <img class="livepollimg" src="./img/Writing Questions pic 5.png" alt="sample picture" > <br>
           B) Questions of various answer formats
-          <img class="livepollimg" src="./img/new template pic.png" alt="sample picture" > <br>
+          <img class="livepollimg" src="./img/new template pic 2.png" alt="sample picture" > <br>
           To use of one these types to build your own custom question, identify the question and from the Action drop-down menu select "Template (copy)":
           <img class="livepollimg" src="./img/Writing Questions pic 6.png" alt="sample picture" > <br>
           The "Writing Questions Help" and "Macro Library Help" links will assist you in understanding the different components of writing your question.  Here is where you the links are found:
