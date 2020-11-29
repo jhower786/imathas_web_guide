@@ -42,7 +42,8 @@
     <br> <br>
 
 
-    Live Poll for Canvas is a homegrown innovation developed by FIU faculty, based upon an adaptation of Live Poll from IMathAS. <br> <br>
+    Live Poll for Canvas is a homegrown innovation developed by FIU faculty, based upon an adaptation of Live Poll from IMathAS.
+    <br> <br>
 
 
 
