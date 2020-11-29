@@ -38,11 +38,11 @@
 
   <h2>What is Live Poll?</h2>
   <ul class="accordion" data-accordion="">
-    Live Poll is a digital quizzing and attendance tool that is free for students and faculty.  It integrates seamlessly with Canvas for any FIU course and can geofence polling to any location on campus.  Live Poll allows faculty to give both formative and summative assessments with many answer formats available, such as multiple-choice, essay, file upload, matching, multiple-answer, numerical, string and more.
+    Live Poll is a digital quizzing and attendance tool that is free for students and faculty.  It integrates seamlessly with Canvas for any FIU course and can geofence polling to any location on campus.  Live Poll allows faculty to give both formative and summative assessments with many answer formats available, such as multiple-choice, essay, file upload, matching, word cloud, multiple-answer, numerical, string and more.
     <br> <br>
 
 
-    Live Poll for Canvas is a homegrown innovation developed by FIU Faculty.
+    Live Poll for Canvas is a homegrown innovation developed by FIU Faculty, based upon an adaptation of Live Poll from IMathAS.
 
 
 
@@ -447,7 +447,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-3" aria-expanded="false">How do I review the Live Poll questions and answers after class?</a>
         <div class="content" id="panel-3-3">
-        This is indeed an available feature, but only if your instructor enables it.  Please reach out to your instructor to ask, if you are unsure.  If you did not attempt any questions in an assessment, then you will
+        This is indeed an available feature, but only if your instructor enables it.  Please reach out to your instructor to ask, if you are unsure whether it is enabled.  If you did not attempt any questions in an assessment, then you will
         be unable to review any of that assessment, even if your insturctor enables student review. <br>
         </div>
     </li>
