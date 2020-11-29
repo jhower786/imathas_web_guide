@@ -145,7 +145,7 @@
           A) Multiple Choice with four or five alternatives
           <img class="livepollimg" src="./img/Writing Questions pic 5.png" alt="sample picture" > <br>
           B) Questions of various answer formats
-          <img class="livepollimg" src="./img/Writing Questions pic 4.png" alt="sample picture" > <br>
+          <img class="livepollimg" src="./img/new template pic.png" alt="sample picture" > <br>
           To use of one these types to build your own custom question, identify the question and from the Action drop-down menu select "Template (copy)":
           <img class="livepollimg" src="./img/Writing Questions pic 6.png" alt="sample picture" > <br>
           The "Writing Questions Help" and "Macro Library Help" links will assist you in understanding the different components of writing your question.  Here is where you the links are found:
@@ -153,7 +153,7 @@
           Be sure to attend to the settings, in particular the four indicated here: <br>
           <img class="livepollimg" src="./img/Writing Custom Questions Settings pic.png" alt="sample picture" > <br>
           In "Description" write how you wish the question to be named. <br>
-          In "Use Rights" note that allowing modificiatons will permit others to permanenlty alter commands, wording, and settings to your question, as they desire. The "Allow use by all" feature gives access to the question to anyone else at FIU to use on their own, including make a separate template copy of your question that they can edit.  <br>
+          In "Use Rights" note that allowing modifications will permit others to permanently alter commands, wording, and settings to your question, as they desire. The "Allow use by all" feature gives access to the question to anyone else at FIU to use on their own, including make a separate template copy of your question that they can edit.  <br>
           Do adjust the library under "My library assignments" to have it reflect what library/libraries that you want. Do not keep any of your custom questions under "General Templates". <br>
           </ol>
         </div>
