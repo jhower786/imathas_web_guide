@@ -298,8 +298,8 @@
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-8" aria-expanded="false">Example: Doing a word cloud question</a>
       <div class="content" id="panel-1-8">
        1. The word cloud question type has been combined with the essay question type. <br>
-       2.	To run a word cloud simply run setup and run your question in the essay type format. <br>
-       3.	To see the results in a word cloud at any point while the question is active to students or once it is closed, simply click "Word Cloud": <br>
+       2.	To run a word cloud simply set up and run your desired question in the essay type format. <br>
+       3.	To see the question results in a word cloud structure while the question is active to students or once it is closed, simply click "Word Cloud": <br>
        <img class="livepollimg" src="./img/word cloud.png" alt="sample picture" > <br> <br>
        4.	In “Description” write the name of the question. <br> <br>
        5.	In “Use Rights” we suggest changing it “Allow use , use as template, no modifications”. <br> <br>
