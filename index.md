@@ -330,7 +330,7 @@
 
 
 <article>
-<h4>Frequently Asked Questions (for instructors)</h4>
+<h3>Frequently Asked Questions (for instructors)</h3>
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">What devices and browsers should my students use for Live Poll?</a>
         <div class="content" id="panel-2-1">
@@ -410,7 +410,7 @@
 
 
 <article>
-<h5>Frequently Asked Questions (for students)</h5>
+<h3>Frequently Asked Questions (for students)</h3>
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">My grade seems wrong, what do I do?</a>
         <div class="content" id="panel-3-1">
