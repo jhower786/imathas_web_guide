@@ -158,6 +158,7 @@
           </ol>
         </div>
     </li>
+
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-5" aria-expanded="false">Example: Writing a custom multiple-choice question</a>
       <div class="content" id="panel-1-5">
         <iframe src="https://drive.google.com/file/d/1O7znwcPa2ICLpLteS-9IGpfRktkF0Mdk/preview" width="640" height="356"></iframe> <br>
@@ -198,7 +199,6 @@
        15.	When you are finished, select “Done”. <br>
       </div>
     </li>
-
 
 
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-6" aria-expanded="false">Setting up a Live Poll session before class</a>
@@ -295,8 +295,49 @@
     </li>
 
 
-  <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-8" aria-expanded="false">Managing your Gradebook after class</a>
-    <div class="content" id="panel-1-8">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-8" aria-expanded="false">Example: Doing a word cloud question</a>
+      <div class="content" id="panel-1-8">
+        <iframe src="https://drive.google.com/file/d/1O7znwcPa2ICLpLteS-9IGpfRktkF0Mdk/preview" width="640" height="356"></iframe> <br>
+                  <i> Click on the above video to watch a step-by-step view of the below sequence of instructions.</i> <br> <br>
+       1. Click on the arrow to the right of the assignment and select "Questions" from the drop-down menu: <br>
+       <img class="livepollimg" src="./img/Custom pic 1.png" alt="sample picture" > <br> <br>
+       2.	Click on “Add New Question”: <br>
+       <img class="livepollimg" src="./img/Custom pic 2.png" alt="sample picture" > <br> <br>
+       3.	Click on “Tutorial Style Editor”: <br>
+       <img class="livepollimg" src="./img/Custom pic 3.png" alt="sample picture" > <br> <br>
+       4.	In “Description” write the name of the question. <br> <br>
+       5.	In “Use Rights” we suggest changing it “Allow use , use as template, no modifications”. <br> <br>
+       6.	Enter in the multiple-choice answers.  You can click on the “E” next to each answer to get the math type editor. <br> <br>
+       7.	Under "Question Text" enter in the text of the question: <br>
+          a.	To add math type, click on the "Add New Math" button. <br>
+          You can also use the link: http://www1.chapman.edu/~jipsen/mathml/asciimathsyntax.html to find a list of some of the available mathtype options. <br>
+          <img class="livepollimg" src="./img/Custom pic 4.png" alt="sample picture" > <br>
+          b.	To add a picture, click on "Insert" and then “Image”. <br>
+          <img class="livepollimg" src="./img/Custom pic 5.png" alt="sample picture" > <br>
+       8.	On the bottom, select “Save and Test”.  The problem will pop up in an alternate window. <br> <br>
+       9.	Click on “Add/Remove Questions” at the topic to get back to your assessment. <br>
+       <img class="livepollimg" src="./img/Custom pic 6.png" alt="sample picture" > <br> <br>
+       10. If you do not see your question listed in the list below, you may need to change the library.  Click on "Select Libraries" which will pull up a box that will allow you to select the library in which you will store your question. <br>
+       <img class="livepollimg" src="./img/Custom pic 7.png" alt="sample picture" > <br> <br>
+
+       11. Click on “Use Libraries” once you have checked the box next to the correct library: <br>
+       <img class="livepollimg" src="./img/Custom pic 8.png" alt="sample picture" > <br> <br>
+
+       12. Check the box next to the question that you want to add and then click "Add (using defaults)": <br>
+       <img class="livepollimg" src="./img/Custom pic 9.png" alt="sample picture" > <br> <br>
+
+       13. You can reorder the questions by click on the drop down next to the question and changing the Question Number: <br>
+       <img class="livepollimg" src="./img/Custom pic 10.png" alt="sample picture" > <br> <br>
+
+       14.	You can remove a question by checking the box next to it and selecting “Remove”: <br>
+       <img class="livepollimg" src="./img/Custon pic 11.png" alt="sample picture" > <br> <br>
+
+       15.	When you are finished, select “Done”. <br>
+      </div>
+    </li>
+
+  <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-9" aria-expanded="false">Managing your Gradebook after class</a>
+    <div class="content" id="panel-1-9">
       <iframe src="https://drive.google.com/file/d/1OF3o_s03Qon3O5HtFSdJB_jTFN8p3cFa/preview" width="640" height="356"></iframe> <br>
                 <i> Click on the above video to watch a step-by-step view of the below sequence of instructions.</i> <br> <br>
       <ol Type="1">
