@@ -302,7 +302,6 @@
        3.	To see the question results in a word cloud structure while the question is active to students or once it is closed, simply click "Word Cloud": <br>
        <img class="livepollimg" src="./img/word cloud pic.png" alt="sample picture" > <br> <br>
        4.	In “Description” write the name of the question. <br> <br>
-       5.	In “Use Rights” we suggest changing it “Allow use , use as template, no modifications”. <br> <br>
       </div>
     </li>
 
