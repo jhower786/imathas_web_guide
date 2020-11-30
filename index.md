@@ -479,7 +479,7 @@
         </li>
         <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-2" aria-expanded="false">Writing questions that necessitate higher-order thinking:</a>
             <div class="content" id="panel-4-2">
-            <a href="https://www.depauw.edu/files/resources/krathwohl.pdf">A revision of Bloom's Taxonomy</a>
+            <a href="https://www.depauw.edu/files/resources/krathwohl.pdf">A revision of Bloom's Taxonomy</a> <br>
             <a href="https://link.springer.com/article/10.1007/s40753-015-0023-9">Characterizing assessment items in mathematics</a>
             </div>
         </li>
