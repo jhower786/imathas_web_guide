@@ -467,6 +467,49 @@
 
 
 
+
+    <article>
+    <h3>Additional Resources (for instructors)</h3>
+    <ul class="accordion" data-accordion="">
+        <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Writing formative assessment questions:</a>
+            <div class="content" id="panel-3-1">
+            http://pi.math.cornell.edu/~GoodQuestions/
+            </div>
+        </li>
+        <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-2" aria-expanded="false">Where do I find Live Poll if I am using the Canvas App?</a>
+            <div class="content" id="panel-3-2">
+            For iOS do the following: <br> <br>
+            1) Enter your class in Canvas <br>
+            <img class="livepollimg" src="./img/App pic1.png" alt="sample picture" > <br>
+            2) Click on "Modules" followed by "Student Resources", to reach this screen: <br>
+            <img class="livepollimg" src="./img/App pic2.png" alt="sample picture" > <br>
+            3) Click on "Live Poll", to reach this screen <br>
+            <img class="livepollimg" src="./img/App pic3.png" alt="sample picture" > <br>
+            4) After clicking on "Launch External Tool" you want to allow use of your current location by selecting "OK" <br>
+            <img class="livepollimg" src="./img/App pic4.png" alt="sample picture" > <br>
+            <br> <br>
+            For Android do the following: <br> <br>
+            1) Enter your class in Canvas <br>
+            <img class="livepollimg" src="./img/App pic5.png" alt="sample picture" > <br>
+            2) After clicking on "Modules" you will see this screen, where you click on "Live Poll" <br>
+            <img class="livepollimg" src="./img/App pic7.png" alt="sample picture" > <br>
+            3) The next screen looks like this and you then select "OK": <br>
+            <img class="livepollimg" src="./img/App pic8.png" alt="sample picture" > <br>
+            4) Select the circled icon to open the page in an external browser:
+            <img class="livepollimg" src="./img/App pic10.png" alt="sample picture" > <br>
+            5) If asked for location permission, select "Allow use of Location."  Live Poll is then loaded and the screen looks like: <br>
+            <img class="livepollimg" src="./img/App pic11.png" alt="sample picture" > <br>
+            </div>
+        </li>
+        <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-3" aria-expanded="false">How do I review the Live Poll questions and answers after class?</a>
+            <div class="content" id="panel-3-3">
+            This is indeed an available feature, but only if your instructor enables it.  Please reach out to your instructor to ask, if you are unsure whether it is enabled.  If you did not attempt any questions in an assessment, then you will
+            be unable to review any of that assessment, even if your instructor enables student review. <br>
+            </div>
+        </li>
+
+
+
 <!-- ENTER THE CODE ABOVE-->
 
 
