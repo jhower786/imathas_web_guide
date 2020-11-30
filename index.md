@@ -56,7 +56,7 @@
            <li>An IMathAS instructor account is required to use Live Poll.  The account is always free.  If you already have an instructor account, do not set up another one, just simply log in here, as usual: <a href="https://imathas.fiu.edu/">IMathAS Instructor Login</a> <br> <br> </li>
            <li>If you forgot your password or want to reset it, go here: <a href="https://imathas.fiu.edu/forms.php?action=resetpw">Password Reset</a> <br> <br> </li>
            <li>If you forgot your username, then look it up here: <a href="https://imathas.fiu.edu/forms.php?action=lookupusername">Username Lookup</a> <br> <br> </li>
-           <li>To establish your instructor account for the first time, make a request here: <a href="https://imathas.fiu.edu/newinstructor.php">Instructor Account Request</a> It takes up to 24 hours for your request to be approved; at the time of approval you will recieve a confirmation email sent to the email address you provided.<br> </li>
+           <li>To establish your instructor account for the first time, make a request here: <a href="https://imathas.fiu.edu/newinstructor.php">Instructor Account Request</a> It takes up to 24 hours for your request to be approved; at the time of approval you will receive a confirmation email sent to the email address you provided.<br> </li>
           </ul>
         </div>
     </li>
@@ -74,8 +74,8 @@
            <li>Make a unique course name, specific to your course.  Avoid verbatim use of a course name that already exists.  Leave the "Enrollment key" box empty, it will never be needed: <br>
            <img class="livepollimg" src="./img/Setting up course name of course pic.png" alt="sample picture" > <br> <br> </li>
            <li>Before hitting the "Submit" button, you have several feature types to expand and adjust at the bottom of the screen.  Be careful, as usually the default options are the ones wanted. <br> <br> </li>
-           <li>After hitting the "Submit" button, you are returned back to the main page where you will find the "Live Poll Sync" assessment and under its toogle gear you select "Settings".  Do not change any settings, with the possible exception of "Participation Weight" under the "Grading and Feedback" tab at the bottom of the page. <br> <br>
-               You have to make a decison for the whole course on how much of the grade for a question you want to come from the student simply participating.  Here is an example setting, namely the slider positioned so that all students get 80% on a question for attempting it, without ever answering it correctly, no matter how many attempt(s) they are allowed on it. <br> </li>
+           <li>After hitting the "Submit" button, you are returned back to the main page where you will find the "Live Poll Sync" assessment and under its toggle gear you select "Settings".  Do not change any settings, with the possible exception of "Participation Weight" under the "Grading and Feedback" tab at the bottom of the page. <br> <br>
+               You have to make a decision for the whole course on how much of the grade for a question you want to come from the student simply participating.  Here is an example setting, namely the slider positioned so that all students get 80% on a question for attempting it, without ever answering it correctly, no matter how many attempt(s) they are allowed on it. <br> </li>
            <img class="livepollimg" src="./img/Live Poll Sync setting pic.png" alt="sample picture" > <br>
           </ol>
         </div>
@@ -124,7 +124,7 @@
          <li>	If everything is configured properly, you will see a screen similar to below. Note that the Canvas placement for Live Poll Sync is in assignments as shown here: <br>
          <img class="livepollimg" src="./img/connecting fixed live poll sync pic.jpeg" alt="sample picture"> <br> <br> </li>
          Finally click on "Modules" in the left-column, scroll down to the module where you want the insert the "Live Poll Sync" button for students. <br> <br>
-         <i >Note: Putting it within a module that is different from the module that contains "Live Poll" is a decison you get to make.  Students attempting to enter a Live Poll assessment during class may mistakenly think they should access it via "Live Poll Sync", which will never display the assessment questions. </i> <br> <br>
+         <i >Note: Putting it within a module that is different from the module that contains "Live Poll" is a decision you get to make.  Students attempting to enter a Live Poll assessment during class may mistakenly think they should access it via "Live Poll Sync", which will never display the assessment questions. </i> <br> <br>
          Click on "+ assignment" to the right of the module you want and  Select “Live Poll Sync” from the list and click on “Add Item” <br>
          </ol>
         </div>
@@ -207,7 +207,7 @@
                     <i> Click on the above video to watch a step-by-step view of the below sequence of instructions.</i> <br> <br>
           Log into IMathAS and select your course. <br> <br>
           <ol Type="1">
-          <li> The first time it will look like this. So that model settings are maintained, you should always create new assessments by choosing "Copy" under the toogle gear for the "Example" assessment already there: <br>
+          <li> The first time it will look like this. So that model settings are maintained, you should always create new assessments by choosing "Copy" under the toggle gear for the "Example" assessment already there: <br>
           <img class="livepollimg" src="./img/Assessment builder pic 1.png" alt="sample picture" > <br> </li>
           <li> This generates a new assessment called "Example (Copy)".  Under its toggle gear select "Settings", and then on the next screen you should switch to "Simple View" at the top right.  Rename the assessment in the box. <br> <br> </li>
           <li> If you want your students to review the questions, answers, and their responses after a certain date and time, then set that date and time as the "Available Until", then scroll down and set "Show Answers" to be "After due date(in gradebook)": <br>
@@ -298,7 +298,7 @@
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-8" aria-expanded="false">Example: Doing a word cloud question</a>
       <div class="content" id="panel-1-8">
        1. The word cloud question type has been combined with the essay question type. To run a word cloud simply set up and run your desired question in the essay type format. <br> <br>
-       
+
        2.	To see the question results in a word cloud structure while the question is active to students or once it is closed, simply click "Word Cloud": <br>
        <img class="livepollimg" src="./img/word cloud pic.png" alt="sample picture" > <br> <br>
       </div>
@@ -320,9 +320,9 @@
       </ol>
       <ol Type="1">
       If you want to eliminate a question for everyone in the class from a past Live Poll assessment, you have two options. <br> <br>
-      <li> Start by clicking on "Live Poll" and setting the assessment you want.  Then you click on "Quetions" as here: <br>
+      <li> Start by clicking on "Live Poll" and setting the assessment you want.  Then you click on "Questions" as here: <br>
       <img class="livepollimg" src="./img/Manage Gradebook pic4.png" alt="sample picture" > <br> <br> </li>
-      <li> On the next screen locate the question you want to elimninate and select "Withdraw" from under its drop-down menu: <br>
+      <li> On the next screen locate the question you want to eliminate and select "Withdraw" from under its drop-down menu: <br>
       <img class="livepollimg" src="./img/Manage Gradebook pic5.png" alt="sample picture" > <br> <br> </li>
       <li> To eliminate the question as if it never existed, choose the first option, and then click "Withdraw Question": <br>
       <img class="livepollimg" src="./img/Manage Gradebook pic6.png" alt="sample picture" > <br> <br> </li>
@@ -343,7 +343,7 @@
 <ul class="accordion" data-accordion="">
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-1" aria-expanded="false">What devices and browsers should my students use for Live Poll?</a>
         <div class="content" id="panel-2-1">
-           Live Poll can be used on a laptop, desktop, chromebook, tablet, iPad, and smartphone.  It works well on all browsers including Chrome, Firefox, Safari, and Edge.  In addition, the Canvas app is an option for smartphones and tablets.  Basically, any hardware/software choices that will let students do work in their Canvas course already, will continue to work successfully when they do Live Poll.
+           Live Poll can be used on a laptop, desktop, Chromebook, tablet, iPad, and smartphone.  It works well on all browsers including Chrome, Firefox, Safari, and Edge.  In addition, the Canvas app is an option for smartphones and tablets.  Basically, any hardware/software choices that will let students do work in their Canvas course already, will continue to work successfully when they do Live Poll.
         </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-2" aria-expanded="false">Should students on smartphones and tablets use the Canvas Student app or a web browser? </a>
@@ -381,12 +381,12 @@
       <img class="livepollimg" src="./img/FAQ Geofencing pic 2.png" alt="sample picture" > <br>
       Only the "Custom Location" option will allow you to move the blue center marker and adjust the radius.  Here is what geofencing to PG6 looks like: <br>
       <img class="livepollimg" src="./img/FAQ Geofencing pic 3.png" alt="sample picture" > <br>
-      <i> Note: Geofencing does not work necessarily for students on a laptop, so consider directing any such students in your class to swtich and use their smartphone for these questions.    </i>
+      <i> Note: Geofencing does not work necessarily for students on a laptop, so consider directing any such students in your class to switch and use their smartphone for these questions.    </i>
       </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-8" aria-expanded="false">How can I change the participation-correctness grade ratio after an assessment is already over?</a>
       <div class="content" id="panel-2-8">
-        This ratio can only be adjusted at a course level, which affects all Live Poll assessments.  Go into the "Live Poll Sync" assessment in your iMathAS course. Click on "Settings", scroll down and under "Grading and Feedback" adjust the slider as desired and then save.  The grades will update automatically after the next time you run Live Poll in class.  To update sooner, simply go into your Canvas course and click on "Live Poll Sync" followed by clicking on the button called "Initiate Grade Sync", the grades will be updated within 5 minutes. <br>
+        This ratio can only be adjusted at a course level, which affects all Live Poll assessments.  Go into the "Live Poll Sync" assessment in your IMathAS course. Click on "Settings", scroll down and under "Grading and Feedback" adjust the slider as desired and then save.  The grades will update automatically after the next time you run Live Poll in class.  To update sooner, simply go into your Canvas course and click on "Live Poll Sync" followed by clicking on the button called "Initiate Grade Sync", the grades will be updated within 5 minutes. <br>
       </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-9" aria-expanded="false">What are all the different questions types besides multiple-choice that I can use?</a>
@@ -397,12 +397,12 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-10" aria-expanded="false">What is Live Poll Sync and is it required?</a>
       <div class="content" id="panel-2-10">
-        Yes, Live Poll Sync must be added by you in Canvas if you want the assessments you run to count for any sort of student grade, even for partcipation.  Students need to click on the Live Poll Sync link in Canvas only once during the course.  As soon as they do that their Live Poll grades will sync to the canvas gradebook, including any assessments they answered before clicking the button. <br>
+        Yes, Live Poll Sync must be added by you in Canvas if you want the assessments you run to count for any sort of student grade, even for participation.  Students need to click on the Live Poll Sync link in Canvas only once during the course.  As soon as they do that their Live Poll grades will sync to the canvas gradebook, including any assessments they answered before clicking the button. <br>
       </div>
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-11" aria-expanded="false">What is IMathAS?</a>
       <div class="content" id="panel-2-11">
-        The Live Poll for Canvas is run by the open-source platfrom IMathAS.  <br> <br>
+        The Live Poll for Canvas is run by the open-source platform IMathAS.  <br> <br>
         For more information go here: <a href="http://www.imathas.com">IMathAS Main Page</a> <br> <br>
       </div>
     </li>
@@ -458,7 +458,7 @@
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-3" aria-expanded="false">How do I review the Live Poll questions and answers after class?</a>
         <div class="content" id="panel-3-3">
         This is indeed an available feature, but only if your instructor enables it.  Please reach out to your instructor to ask, if you are unsure whether it is enabled.  If you did not attempt any questions in an assessment, then you will
-        be unable to review any of that assessment, even if your insturctor enables student review. <br>
+        be unable to review any of that assessment, even if your instructor enables student review. <br>
         </div>
     </li>
 
