@@ -471,19 +471,19 @@
     <article>
     <h3>Additional Resources (for instructors)</h3>
     <ul class="accordion" data-accordion="">
-        <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Writing good multiple-choice questions:</a>
-            <div class="content" id="panel-3-1">
+        <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Writing good multiple-choice questions:</a>
+            <div class="content" id="panel-4-1">
             http://pi.math.cornell.edu/~GoodQuestions/ <br>
             https://cft.vanderbilt.edu/guides-sub-pages/writing-good-multiple-choice-test-questions/ <br>
             </div>
         </li>
-        <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-2" aria-expanded="false">Writing questions that necessitate higher-order thinking:</a>
-            <div class="content" id="panel-3-2">
+        <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-2" aria-expanded="false">Writing questions that necessitate higher-order thinking:</a>
+            <div class="content" id="panel-4-2">
             < a href = "krathwohl.pdf" > Revision of Bloom's Taxonomy</a>
             </div>
         </li>
-        <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-3" aria-expanded="false">Writing formative assessment questions:</a>
-            <div class="content" id="panel-3-3">
+        <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-3" aria-expanded="false">Writing formative assessment questions:</a>
+            <div class="content" id="panel-4-3">
 
             </div>
         </li>
