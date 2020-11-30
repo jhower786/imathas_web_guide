@@ -471,7 +471,7 @@
     <article>
     <h3>Additional Resources (for instructors)</h3>
     <ul class="accordion" data-accordion="">
-        <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Writing good multiple-choice questions:</a>
+        <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Writing multiple-choice questions:</a>
             <div class="content" id="panel-4-1">
             <a href="https://cft.vanderbilt.edu/guides-sub-pages/writing-good-multiple-choice-test-questions/">A summary of best practices</a> <br>
 
