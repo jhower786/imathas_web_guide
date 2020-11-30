@@ -461,7 +461,7 @@
         be unable to review any of that assessment, even if your instructor enables student review. <br>
         </div>
     </li>
-
+</ul>
 
 
 
@@ -488,7 +488,7 @@
 
             </div>
         </li>
-
+</ul>
 
 
 <!-- ENTER THE CODE ABOVE-->
