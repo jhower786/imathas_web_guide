@@ -473,8 +473,8 @@
     <ul class="accordion" data-accordion="">
         <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Writing good multiple-choice questions:</a>
             <div class="content" id="panel-4-1">
-            http://pi.math.cornell.edu/~GoodQuestions/ <br>
-            https://cft.vanderbilt.edu/guides-sub-pages/writing-good-multiple-choice-test-questions/ <br>
+            <a href="https://cft.vanderbilt.edu/guides-sub-pages/writing-good-multiple-choice-test-questions/">A summary of best practices</a> <br>
+            <a href="http://pi.math.cornell.edu/~GoodQuestions/">aaaaaaaa</a> <br>
             </div>
         </li>
         <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-2" aria-expanded="false">Writing questions that necessitate higher-order thinking:</a>
