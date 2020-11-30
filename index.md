@@ -482,10 +482,9 @@
             < a href = "krathwohl.pdf" > Revision of Bloom's Taxonomy</a>
             </div>
         </li>
-        <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-3" aria-expanded="false">How do I review the Live Poll questions and answers after class?</a>
+        <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-3" aria-expanded="false">Writing formative assessment questions:</a>
             <div class="content" id="panel-3-3">
-            This is indeed an available feature, but only if your instructor enables it.  Please reach out to your instructor to ask, if you are unsure whether it is enabled.  If you did not attempt any questions in an assessment, then you will
-            be unable to review any of that assessment, even if your instructor enables student review. <br>
+
             </div>
         </li>
 
