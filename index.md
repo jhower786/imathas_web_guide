@@ -473,7 +473,8 @@
     <ul class="accordion" data-accordion="">
         <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-1" aria-expanded="false">Writing formative assessment questions:</a>
             <div class="content" id="panel-3-1">
-            http://pi.math.cornell.edu/~GoodQuestions/
+            http://pi.math.cornell.edu/~GoodQuestions/ <br>
+            https://cft.vanderbilt.edu/guides-sub-pages/writing-good-multiple-choice-test-questions/ <br>
             </div>
         </li>
         <li class="accordion-navigation"><a class="accordion-link" href="#panel-3-2" aria-expanded="false">Where do I find Live Poll if I am using the Canvas App?</a>
