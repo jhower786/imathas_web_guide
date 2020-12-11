@@ -485,7 +485,7 @@
         </li>
         <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-3" aria-expanded="false">Writing formative assessment questions:</a>
             <div class="content" id="panel-4-3">
-            <a href="http://pi.math.cornell.edu/~GoodQuestions/">Formative assessments in mathematics</a> <br>
+            <a href="http://pi.math.cornell.edu/~GoodQuestions/">Formative assessments in Mathematics</a> <br>
             </div>
         </li>
 </ul>
