@@ -474,7 +474,8 @@
         <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-1" aria-expanded="false">Writing multiple-choice questions:</a>
             <div class="content" id="panel-4-1">
             <a href="https://cft.vanderbilt.edu/guides-sub-pages/writing-good-multiple-choice-test-questions/">A summary of best practices</a> <br>
-
+            <div class="content" id="panel-4-1">
+            <a href="https://www.researchgate.net/publication/335459809_Item_analysis_as_tool_to_validate_multiple_choice_question_bank_in_pharmacology">Validating multiple-choice questions</a> <br>
             </div>
         </li>
         <li class="accordion-navigation"><a class="accordion-link" href="#panel-4-2" aria-expanded="false">Writing higher-order thinking questions:</a>
