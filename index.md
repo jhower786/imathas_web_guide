@@ -296,7 +296,8 @@
 
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-8" aria-expanded="false">Example: Doing a heat map question</a>
       <div class="content" id="panel-1-8">
-       1. The word cloud question type has been combined with the essay question type. To run a word cloud simply set up and run your desired question in the essay type format. <br> <br>
+       1. To create a heat map question make sure the "Heatmap" is selected as the question type. Then upload the picture on which you want to do the question:  <br>
+       <img class="livepollimg" src="./img/heatmappic1.png" alt="sample picture" > <br> <br>
 
        2.	To see the question results in a word cloud structure while the question is active to students or once it is closed, simply click "Word Cloud": <br>
        <img class="livepollimg" src="./img/word cloud pic.png" alt="sample picture" > <br> <br>
