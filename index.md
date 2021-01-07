@@ -294,8 +294,7 @@
         </div>
     </li>
 
-
-    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-8" aria-expanded="false">Example: Doing a word cloud question</a>
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-8" aria-expanded="false">Example: Doing a heat map question</a>
       <div class="content" id="panel-1-8">
        1. The word cloud question type has been combined with the essay question type. To run a word cloud simply set up and run your desired question in the essay type format. <br> <br>
 
@@ -304,8 +303,20 @@
       </div>
     </li>
 
-  <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-9" aria-expanded="false">Managing your Gradebook after class</a>
-    <div class="content" id="panel-1-9">
+    <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-9" aria-expanded="false">Example: Doing a word cloud question</a>
+      <div class="content" id="panel-1-9">
+       1. The word cloud question type has been combined with the essay question type. To run a word cloud simply set up and run your desired question in the essay type format. <br> <br>
+
+       2.	To see the question results in a word cloud structure while the question is active to students or once it is closed, simply click "Word Cloud": <br>
+       <img class="livepollimg" src="./img/word cloud pic.png" alt="sample picture" > <br> <br>
+      </div>
+    </li>
+
+
+
+
+  <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-10" aria-expanded="false">Managing your Gradebook after class</a>
+    <div class="content" id="panel-1-10">
       <iframe src="https://drive.google.com/file/d/1OF3o_s03Qon3O5HtFSdJB_jTFN8p3cFa/preview" width="640" height="356"></iframe> <br>
                 <i> Click on the above video to watch a step-by-step view of the below sequence of instructions.</i> <br> <br>
       <ol Type="1">
@@ -391,7 +402,7 @@
     </li>
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-2-9" aria-expanded="false">What are all the different questions types besides multiple-choice that I can use?</a>
       <div class="content" id="panel-2-9">
-        Questions can have the following answer formats: Number, Calculated, Multiple-Choice, Multiple-Answer, Matching, Function, String, Essay, Drawing, N-Tuple, Calculated N-Tuple, Complex, Calculated Complex, Numerical Matrix, Calculated Matrix, Interval, Calculated Interval, File Upload, Multipart. <br> <br>
+        Questions can have the following answer formats: Number, Calculated, Multiple-Choice, Multiple-Answer, Matching, Function, String, Essay, Heat Map, Drawing, N-Tuple, Calculated N-Tuple, Complex, Calculated Complex, Numerical Matrix, Calculated Matrix, Interval, Calculated Interval, File Upload, Multipart. <br> <br>
         For more information go here: <a href="http://www.imathas.com/imathas/help.php?section=writingquestions#questiontypes">IMathAS Questions Types</a> <br>
       </div>
     </li>
