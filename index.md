@@ -303,12 +303,12 @@
        <img class="livepollimg" src="./img/heatmappic2.png" alt="sample picture" > <br> <br>
 
 
-      3.	Finally, place one circle or multiple circles to mark the region where students can click on the picture to get the question scored as correct.  You can control the radius of the circle with the slider, however you must set the radius before place the circle.  Different circles are allowed to have different radii: <br>
+      3.	Finally, place one circle or multiple circles to mark the region where students can click on the picture to get the question scored as correct.  You can control the radius of the circle with the slider, however you must set the radius before placing the circle.  Different circles are allowed to have different radii: <br>
       <img class="livepollimg" src="./img/heatmappic3.png" alt="sample picture" > <br> <br>
 
-      4.	After the question is run, you can see results, which will appear like this: <br>
+      4.	After the question is run, you can see student results, which will appear like this: <br>
       <img class="livepollimg" src="./img/heatmappic4.png" alt="sample picture" > <br> <br>
-    
+
      </div>
     </li>
 
