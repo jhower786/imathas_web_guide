@@ -299,9 +299,13 @@
        1. To create a heat map question make sure that "Heatmap" is selected as the question type. Then upload the picture on which you want to do the question:  <br>
        <img class="livepollimg" src="./img/heatmappic1.png" alt="sample picture" > <br> <br>
 
-       2.	Then, in the Question Text box add in any insturctions you want along with "$heatmap": <br>
+       2.	Then, in the Question Text box add in any instructions you want along with "$heatmap": <br>
        <img class="livepollimg" src="./img/heatmappic2.png" alt="sample picture" > <br> <br>
       </div>
+
+      3.	Finally, place one circle or multiple circles to mark the region where students can click on the picture to get the question scored as correct.  You can control the radius of the circle with the slider, however you must set the radius before place the circle.  Different circles are allowed to have different radii: <br>
+      <img class="livepollimg" src="./img/heatmappic3.png" alt="sample picture" > <br> <br>
+     </div>
     </li>
 
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-9" aria-expanded="false">Example: Doing a word cloud question</a>
