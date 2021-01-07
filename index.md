@@ -296,10 +296,10 @@
 
     <li class="accordion-navigation"><a class="accordion-link" href="#panel-1-8" aria-expanded="false">Example: Doing a heat map question</a>
       <div class="content" id="panel-1-8">
-       1. To create a heat map question make sure that "Heatmap" is selected as the question type. Next, upload the picture on which you want to do the question:  <br>
+       1. To create a heat map question first make sure that "Heatmap" is selected as the question type. Then, upload the picture on which you want to do the question:  <br>
        <img class="livepollimg" src="./img/heatmappic1.png" alt="sample picture" > <br> <br>
 
-       2.	Then, in the Question Text box add in any instructions you want along with "$heatmap": <br>
+       2.	Next, in the Question Text box add in any instructions you want along with "$heatmap": <br>
        <img class="livepollimg" src="./img/heatmappic2.png" alt="sample picture" > <br> <br>
 
 
