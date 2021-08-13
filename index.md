@@ -45,8 +45,9 @@
     Live Poll for Canvas is a homegrown innovation developed by FIU faculty, based upon an adaptation of Live Poll from the open-source platform IMathAS.
     <br> <br>
       
-        For assistance, questions, or requests pertaining to FIU Live Poll please email both:  Jerry Hower <img class="livepollimg" src="./img/Hower email pic.png" alt="sample picture" >
-     and Roneet Merkin <img class="livepollimg" src="./img/Merkin email pic.png" alt="sample picture" >  
+        For assistance, questions, or requests pertaining to FIU Live Poll please email both:  
+      <center>Jerry Hower <img class="livepollimg" src="./img/Hower email pic.png" alt="sample picture" > <br>
+      Roneet Merkin <img class="livepollimg" src="./img/Merkin email pic.png" alt="sample picture" >  </center>
 
 
 
