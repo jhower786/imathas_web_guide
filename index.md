@@ -46,7 +46,7 @@
     <br> <br>
       
         For assistance, questions, or requests pertaining to FIU Live Poll please email both:  
-      <center>Jerry Hower <img class="livepollimg" src="./img/Hower email pic.png" alt="sample picture" > <br>
+      <center>Jerry Hower <img class="livepollimg" src="./img/Hower email pic.png" alt="sample picture" > <br> <br>
       Roneet Merkin <img class="livepollimg" src="./img/Merkin email pic.png" alt="sample picture" >  </center>
 
 
